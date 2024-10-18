@@ -70,8 +70,6 @@
 
 #### Dominance Relations for Common Growth Rates
 
-**#### Dominance Relations for Common Growth Rates**
-
 n! ≫ 2ⁿ ≫ n³ ≫ n² ≫ n log n ≫ n ≫ log n ≫ 1
 
 ### Take-Home Lessons
