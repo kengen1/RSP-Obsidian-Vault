@@ -70,11 +70,14 @@
 
 #### Dominance Relations for Common Growth Rates
 
+**#### Dominance Relations for Common Growth Rates**
+
+n! ≫ 2ⁿ ≫ n³ ≫ n² ≫ n log n ≫ n ≫ log n ≫ 
+
 $$
 n! \gg 2^n \gg n^3 \gg n^2 \gg n \log n \gg n \gg \log n \gg 1
 
 $$
-
 
 
 ### Take-Home Lessons
