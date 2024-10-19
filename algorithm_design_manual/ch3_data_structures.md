@@ -79,11 +79,6 @@
   * quadratic probing: use a quadratic function to determine the next slot
   * double hashing: use a second hash function to calculate the next slot
 
-#### Trade-offs Between Chaining and Open Addressing
-
-* Chaining
-  * more
-
 ## 3.8 Specialized Data Structures
 
 * Geometric data structures
