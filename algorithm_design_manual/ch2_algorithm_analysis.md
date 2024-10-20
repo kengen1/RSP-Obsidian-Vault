@@ -1,13 +1,13 @@
 # Chapter 2 : Algorithm Analysis
 
-### RAM Model of Computation
+## RAM Model of Computation
 
 * stands for **Random Access Machine**
 * the RAM model assumes every basic operation (addition, multiplication, comparisons) takes **constant time**
 * memory access takes constant time, regardless of where data is located
 * while this model simplifies assumptions, it provides a practical abstraction to predict algorithm performance accurately
 
-### Big O Notation
+## Big O Notation
 
 * **Big O**: Describes the upper bound of an algorithm growth rate
   * it reflects the worst-case performance
@@ -15,7 +15,7 @@
 * **Ω (Omega)**: Represents the lower bound of performance
 * **Θ (Theta)** : Describes tight bounds, where an algorithm performs within a narrow range of efficiency for all inputs
 
-### Types of Algorithm Analysis
+## Types of Algorithm Analysis
 
 * Best Case Complexity
 
@@ -30,13 +30,13 @@
   * Expected time over all possible inputs
   * Often harder to compute accurately
 
-### Growth Rates and Dominance Relations
+## Growth Rates and Dominance Relations
 
 * The efficiency of algorithms depends heavily on growth rates
 * Growth rates refer to how quickly the runtime or resource usage of an algorithm increases with the size of an input
 * Dominance relations help us compare two algorithms and predict which will perform better as the input size grows
 
-#### Common Types of Growth Rates
+### Common Types of Growth Rates
 
 
 | **Order**        | **Big O Notation** | **Meaning**                              | **Example**                      |
@@ -49,7 +49,7 @@
 | Exponential Time | O(2ⁿ)             | Time doubles for each additional input   | Recursive Fibonacci sequence     |
 | Factorial Time   | O(n!)              | Time grows dramatically with input size  | Traveling Salesman Problem       |
 
-#### Growth Rates Measured in Nanoseconds
+### Growth Rates Measured in Nanoseconds
 
 
 | n             | lg n      | n        | n lg n    | n²        | 2ⁿ             | n!                |
@@ -68,11 +68,11 @@
 | 100,000,000   | 0.027 μs | 0.10 sec | 2.66 sec  | 115.7 days | -               | -                 |
 | 1,000,000,000 | 0.030 μs | 1 sec    | 29.90 sec | 31.7 years | -               | -                 |
 
-#### Dominance Relations for Common Growth Rates
+### Dominance Relations for Common Growth Rates
 
 n! ≫ 2ⁿ ≫ n³ ≫ n² ≫ n log n ≫ n ≫ log n ≫ 1
 
-### Take-Home Lessons
+## Take-Home Lessons
 
 - Big O notation simplifies analysis
 
