@@ -23,7 +23,7 @@
 
 ## 2. Structure
 
-![adjacency list graph implementation](image-1.png)
+![adjacency list graph implementation](https://media.geeksforgeeks.org/wp-content/uploads/20200630125356/adjacency_list.jpg)
 
 - an **adjacency list** represents a graph as an array of lists
 - each index in the array corresponds to a vertex
