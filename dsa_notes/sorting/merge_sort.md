@@ -5,6 +5,8 @@
 - *divide-and-conquer* algorithm
 - best suited for large datasets where memory is not a constraint, as it requires additional space for merging
 
+Time Complexity: *O(n log n)*
+
 ### How it Works:
 
 1. **Divide** : Split the input array into two halves
