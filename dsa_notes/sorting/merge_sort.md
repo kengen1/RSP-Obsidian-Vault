@@ -7,7 +7,7 @@
 
 Time Complexity: *O(n log n)*
 
-### How it Works:
+## How it Works:
 
 1. **Divide** : Split the input array into two halves
 2. **Conquer** : Recursively sort each half
