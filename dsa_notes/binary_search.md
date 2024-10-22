@@ -8,9 +8,9 @@
 ## How it Works:
 1. start with left and right pointers and the beginning and end of the array
 2. find the middle element `left + (right - left) / 2` 
-    3. if the target is equal to the middle, return the index
-    4. if the target is smaller than the middle, search the left half
-    5. if the target is larger than the middle, search the right half
+3. if the target is equal to the middle, return the index
+4. if the target is smaller than the middle, search the left half
+5. if the target is larger than the middle, search the right half
 6. repeat untilt he target is found or the list is empty
 
 *the calculation of the mid point `left + (right - left) / 2` is done so prevent **integer overflow***
