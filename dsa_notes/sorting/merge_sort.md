@@ -17,7 +17,6 @@ Time Complexity: *O(n log n)*
 
 ## Implementation
 
-
 ```cpp
 // Merge two sorted halves into a single sorted array
 void merge(vector<int>& arr, int left, int mid, int right) {
