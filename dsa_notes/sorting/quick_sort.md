@@ -25,7 +25,7 @@ Note:
 
 ![quick sort animation](https://www.tutorialspoint.com/data_structures_algorithms/images/quick_sort_partition_animation.gif)
 
-*if its not not clicking for you, re-watch this [Quick Sort Explanation](https://www.youtube.com/watch?v=Vtckgz38QHs) video*
+*if its still not clicking for you, re-watch this [Quick Sort Explanation](https://www.youtube.com/watch?v=Vtckgz38QHs) video*
 
 ## Implementation
 ```cpp
