@@ -1,7 +1,7 @@
-
 # **Doubly Linked List**
 
 ## **1. Overview**
+
 - A **linear data structure** where each node points to both its **previous and next node**.
 - Allows for **bi-directional traversal** (forward and backward).
 - **More flexible** than a singly linked list but requires **more memory** due to the additional pointer.
@@ -11,6 +11,7 @@
 ---
 
 ## **2. Structure**
+
 ```cpp
 struct DNode {
     int data;
@@ -25,17 +26,19 @@ struct DNode {
 
 ## **3. Unique Operations**
 
-| **Operation**        | **Description**                                      | **Time Complexity** | **Space Complexity** |
-|----------------------|------------------------------------------------------|---------------------|----------------------|
-| Reverse Traversal    | Traverse the list from tail to head.                 | O(n)                | O(1)                 |
-| Delete From End      | Deletes the last node in O(1) (with tail pointer).   | O(1)                | O(1)                 |
-| Insert Before Node   | Inserts a new node before a given node in O(1).      | O(1)                | O(1)                 |
-| Delete Arbitrary Node| Deletes a node in O(1) if the node is known.         | O(1)                | O(1)                 |
-| Insert At End        | Adds a node at the end in O(1) (with tail pointer).  | O(1)                | O(1)                 |
+
+| **Operation**         | **Doubly Linked List**   | **Singly Linked List** |
+|-----------------------|--------------------------|------------------------|
+| Reverse Traversal     | O(n)                     | Not Possible           |
+| Delete From End       | O(1)                     | O(n)                   |
+| Insert Before Node    | O(1)                     | O(n)                   |
+| Delete Arbitrary Node | O(1)                     | O(n)                   |
+| Insert At End         | O(1) with tail pointer   | O(n)                   |
 
 ---
 
 ### **Reverse Traversal**
+
 ```cpp
 void reverseTraversal(DNode* tail) {
     DNode* temp = tail;
@@ -50,6 +53,7 @@ void reverseTraversal(DNode* tail) {
 ---
 
 ### **Delete From End**
+
 ```cpp
 void deleteFromEnd(DNode*& head, DNode*& tail) {
     if (tail == nullptr) return;  // Empty list
@@ -70,6 +74,7 @@ void deleteFromEnd(DNode*& head, DNode*& tail) {
 ---
 
 ### **Insert Before Node**
+
 ```cpp
 void insertBefore(DNode*& node, int value) {
     DNode* newNode = new DNode(value);
@@ -86,6 +91,7 @@ void insertBefore(DNode*& node, int value) {
 ---
 
 ### **Delete Arbitrary Node**
+
 ```cpp
 void deleteNode(DNode*& node) {
     if (node->prev != nullptr) node->prev->next = node->next;
@@ -97,6 +103,7 @@ void deleteNode(DNode*& node) {
 ---
 
 ### **Insert At End**
+
 ```cpp
 void insertAtEnd(DNode*& head, DNode*& tail, int value) {
     DNode* newNode = new DNode(value);
@@ -110,3 +117,4 @@ void insertAtEnd(DNode*& head, DNode*& tail, int value) {
     newNode->prev = tail;
     tail = newNode;
 }
+```
