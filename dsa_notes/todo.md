@@ -5,8 +5,6 @@ Data Structures:
   - [ ] Max Heap
 - [ ] Union Find (disjoint-set)
 - [ ] Trie (Prefix Tree)
-- [ ] BST
-- [ ] AVL Tree
 - [ ] Red-Black Tree
 
 Algorithms:
