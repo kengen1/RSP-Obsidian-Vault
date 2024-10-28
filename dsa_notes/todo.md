@@ -34,7 +34,7 @@ Concepts:
 - [ ] Quick Select Algorithm
 - [ ] Balanced Binary Search Trees
   - [X] AVL Trees
-  - [ ] Red Black Trees
+  - [X] Red Black Trees
 - [ ] Minimum Spanning Tree
   - [ ] Prim's Algorithm
   - [ ] Kruskal's Algorithm
