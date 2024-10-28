@@ -44,7 +44,7 @@ struct AVLNode {
 ## 5. Implementation
 
 ### Helper Function : Get Height
-- does this return the height of the tree?
+- returns the height of a given **node**
 ```cpp
 int height(AVLNode* node) {
     if(node == nullptr) return 0;
@@ -53,7 +53,12 @@ int height(AVLNode* node) {
 ```
 
 ### Helper Function : Get Balance Factor
-- how does this return the balance?
+- Balance Factor = height(left subtree) - height(right subtree)
+- For each node in an AVL tree:
+    - If the left subtree is taller, the balance factor will be positive.
+    - If the right subtree is taller, the balance factor will be negative.
+    - If the heights are equal, the balance factor will be 0 (perfectly balanced).
+
 ```cpp
 int getBalance(AVLNode* node) {
     if(node == nullptr) return 0;
