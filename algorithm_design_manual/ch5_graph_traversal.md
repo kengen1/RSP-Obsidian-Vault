@@ -31,6 +31,7 @@
 | Data Structure   | Queue (FIFO)                  | Stack (LIFO) / Recursion     |
 | Path Exploration | Explores all neighbours first | Explores a path to its depth |
 | Use Case         | Shortest Path, Level-Order    | Topological sorting, cycles  |
+
 ### 1. Breadth First Search (BFS)
 
 - Explores all neighbours of a vertex before moving deeper
