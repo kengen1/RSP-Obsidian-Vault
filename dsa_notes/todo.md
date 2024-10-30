@@ -37,11 +37,11 @@ Concepts:
 - [ ] Balanced Binary Search Trees
   - [X] AVL Trees
   - [X] Red Black Trees
-- [ ] Minimum Spanning Tree
-  - [ ] Prim's Algorithm
-  - [ ] Kruskal's Algorithm
-- [ ] Dijkstra's Shortest Path Algorithm
-- [ ] Bellman-Ford Pathfinding Algorithm
+- [X] Minimum Spanning Tree
+  - [X] Prim's Algorithm
+  - [X] Kruskal's Algorithm
+- [X] Dijkstra's Shortest Path Algorithm
+- [X] Bellman-Ford Pathfinding Algorithm
 
 Additional Non-Requsitie Concepts:
 
