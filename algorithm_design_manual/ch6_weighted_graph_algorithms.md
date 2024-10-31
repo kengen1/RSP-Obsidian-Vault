@@ -50,8 +50,26 @@
 
 ---
 
-### 3. Union-Set Data Structure
+### 3. Union-Find Data Structure
+- The **Union-Find** (or **Disjoint Set**) data structure efficiently manages a collection of disjoint sets, supporting operations that are crucial for algorithms like **Kruskal's MST**.
 
+**Set Representation**: Each "set" in a Union-Find represents a **subgraph** of connected vertices (a connected component)
+
+**Operations**:
+- **Union Operation**: Merges two sets containing different elements, effectively "unionizing" them into a single set. 
+    - We are merging specifically vertices from the two sets when an edge joins them 
+- **Find Operation**: Identifies which set a particular element belongs to, often used to check if two elements are in the same set.
+
+**Key Concepts**:
+- **Path Compression**: Optimizes the `Find` operation by making elements point directly to the root of their set, flattening the structure to speed up future searches.
+- **Union by Rank/Size**: Ensures that smaller trees are attached under larger trees during a `Union` to keep the structure balanced.
+
+**Time Complexity**:
+- With **path compression** and **union by rank**, the amortized time complexity for each operation is nearly constant, O(α(n)), where α is the inverse Ackermann function, which grows extremely slowly.
+
+**Use Case**: Essential for **cycle detection** and efficient management of connected components in algorithms like **Kruskal’s MST**.
+
+---
 
 ## Shortest Path Algorithms
 - finds the minimum path or distance between nodes in a graph 
@@ -107,6 +125,38 @@
 ---
 
 ### 3. Floyd-Warshall Algorithm
+- computes the shortest paths between all pairs of vertices using dynamic programming
+- iteratively improves the shortest paths by considering all possible intermediate vertices
+    - what is an intermediate vertex?
 
+**Steps**:
+1. Create a matrix to store the shortest distances between all pairs of vertices
+2. For each vertex, update the distance between all pairs using the vertex as an intermediate 
+3. Repeat until no further updates can be made
+
+**Time Complexity** : O(n²)
+
+**Use Case** : Best suited for dense graphs and problems that require all-pair shortest paths, such as routing networks
+
+---
 
 ## Network Flows and Bipartite Matching
+
+### 1. Network Flows
+- Network flow algorithms focus on **optimizing flow from a source node to a sink node** (subject to capacity constraints on edges)
+- **Flow**: Imagine that you’re sending something, like water, goods, or data, through a network. The amount of "flow" is how much of this stuff you’re sending from one point to another.
+- **Source and Sink Nodes**: The source node is where the flow starts (like a factory for goods), and the sink node is where it ends (like a warehouse).
+- **Capacity Constraints**: Each connection (or edge) in the graph can only carry a limited amount of flow. Think of this like the width of a pipe—it can only carry a certain amount of water at a time. In the same way, each edge has a capacity that limits how much flow can pass through it.
+- **Optimization**: The goal of network flow algorithms is to figure out the maximum flow from the source to the sink that respects these capacity limits on the edges.
+
+**Algorithms**:
+- *Ford-Fulkerson Algorithm:* Increases flow iteratively by finding augmenting paths (paths from source to sink with available capcity on each edge) in the **residual graph** (a graph that shows remaining capacity of each edge after current flow).
+- *Edmonds-Karp Algorithm:* An implementation of Ford-Fulkerson using BFS, with a time complexity of O(m² n).
+
+**Steps**:
+1. initialize the flow to 0
+2. find an augmenting path from the source to the sink using BFS
+3. update flow along the path and adjust capacities in the residual graph
+4. repeat until no more augmenting paths exist
+
+**Use Case**: Used in logistics to optimize goods transportation and telecommunications to maximize data flow.
