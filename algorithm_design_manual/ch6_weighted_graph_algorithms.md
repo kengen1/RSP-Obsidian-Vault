@@ -127,7 +127,6 @@
 ### 3. Floyd-Warshall Algorithm
 - computes the shortest paths between all pairs of vertices using dynamic programming
 - iteratively improves the shortest paths by considering all possible intermediate vertices
-    - what is an intermediate vertex?
 
 **Steps**:
 1. Create a matrix to store the shortest distances between all pairs of vertices

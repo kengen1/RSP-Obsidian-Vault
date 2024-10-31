@@ -1,6 +1,6 @@
 ### Promotion Checklist Progress: **42% Complete**
 
-Cracking the Coding Interview
+Cracking the Coding Interview:
 
 - [X] First 86 pages
 - [ ] Self-Completion of behavioural question table
@@ -32,9 +32,9 @@ Concepts:
 - [ ] Tries (Prefix Tree)
 - [ ] Vector Amortised Time
 - [ ] Bit Manipulation
-- [ ] Union-Find
+- [X] Union-Find
 - [ ] Quick Select Algorithm
-- [ ] Balanced Binary Search Trees
+- [X] Balanced Binary Search Trees
   - [X] AVL Trees
   - [X] Red Black Trees
 - [X] Minimum Spanning Tree
