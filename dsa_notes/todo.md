@@ -22,7 +22,7 @@ Algorithm Design Manual:
 - [X] Ch 4. Sorting and Searching
 - [X] Ch 5. Graph Traversal
 - [X] Ch 6. Weighted Graph Algorithms
-- [ ] Ch 7. Combinatorial Search and Hueristic Methods
+- [X] Ch 7. Combinatorial Search and Hueristic Methods
 - [ ] Ch 8. Dynamic Programming
 - [ ] Ch 9. Intractable Problems and Approximation Algorithms
 - [ ] Ch 10. How to Design Algorithms
@@ -33,7 +33,7 @@ Concepts:
 - [ ] Vector Amortised Time
 - [ ] Bit Manipulation
 - [X] Union-Find
-- [ ] Quick Select Algorithm
+- [X] Quick Select Algorithm
 - [X] Balanced Binary Search Trees
   - [X] AVL Trees
   - [X] Red Black Trees
