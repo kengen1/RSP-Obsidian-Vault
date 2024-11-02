@@ -29,7 +29,7 @@ Algorithm Design Manual:
 
 Concepts:
 
-- [ ] Tries (Prefix Tree)
+- [X] Tries (Prefix Tree)
 - [X] Vector Amortised Time
 - [X] Bit Manipulation
 - [X] Union-Find
@@ -51,8 +51,8 @@ Additional Non-Requsitie Concepts:
 - [X] Doubly Linked Lists
 - [X] Circular Linked Lists
 - [ ] Heap
-  - [ ] Min Heap
-  - [ ] Max Heap
+  - [X] Min Heap
+  - [X] Max Heap
 - [X] Sorting Algorithms
   - [X] Heap Sort
   - [X] Insertion Sort
