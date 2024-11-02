@@ -30,7 +30,7 @@ Algorithm Design Manual:
 Concepts:
 
 - [ ] Tries (Prefix Tree)
-- [ ] Vector Amortised Time
+- [X] Vector Amortised Time
 - [X] Bit Manipulation
 - [X] Union-Find
 - [X] Quick Select Algorithm
