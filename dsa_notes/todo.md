@@ -50,7 +50,7 @@ Additional Non-Requsitie Concepts:
   - [X] Priority Queue
 - [X] Doubly Linked Lists
 - [X] Circular Linked Lists
-- [ ] Heap
+- [X] Heap
   - [X] Min Heap
   - [X] Max Heap
 - [X] Sorting Algorithms
