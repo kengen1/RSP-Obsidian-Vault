@@ -31,7 +31,7 @@ Concepts:
 
 - [ ] Tries (Prefix Tree)
 - [ ] Vector Amortised Time
-- [ ] Bit Manipulation
+- [X] Bit Manipulation
 - [X] Union-Find
 - [X] Quick Select Algorithm
 - [X] Balanced Binary Search Trees
