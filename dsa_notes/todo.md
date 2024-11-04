@@ -1,4 +1,4 @@
-### Promotion Checklist Progress: **42% Complete**
+### Promotion Checklist Progress
 
 Cracking the Coding Interview:
 
