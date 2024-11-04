@@ -23,7 +23,7 @@ Algorithm Design Manual:
 - [X] Ch 5. Graph Traversal
 - [X] Ch 6. Weighted Graph Algorithms
 - [X] Ch 7. Combinatorial Search and Hueristic Methods
-- [ ] Ch 8. Dynamic Programming
+- [X] Ch 8. Dynamic Programming
 - [ ] Ch 9. Intractable Problems and Approximation Algorithms
 - [ ] Ch 10. How to Design Algorithms
 
