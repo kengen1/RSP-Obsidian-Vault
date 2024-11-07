@@ -24,8 +24,8 @@ Algorithm Design Manual:
 - [X] Ch 6. Weighted Graph Algorithms
 - [X] Ch 7. Combinatorial Search and Hueristic Methods
 - [X] Ch 8. Dynamic Programming
-- [ ] Ch 9. Intractable Problems and Approximation Algorithms
-- [ ] Ch 10. How to Design Algorithms
+- [X] Ch 9. Intractable Problems and Approximation Algorithms
+- [X] Ch 10. How to Design Algorithms
 
 Concepts:
 
