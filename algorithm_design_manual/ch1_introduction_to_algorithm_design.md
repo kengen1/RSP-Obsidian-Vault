@@ -14,7 +14,7 @@
 
 ### Algorithm Design Philosophy
 
-* **Modeling**: Abstract a real-world problem intoa  clean problem suited for algorithmic solutions
+* **Modeling**: Abstract a real-world problem into a clean problem suited for algorithmic solutions
 * **Reasoning about Correctness**: Correct algorithms must align with well-defined problems
 
 

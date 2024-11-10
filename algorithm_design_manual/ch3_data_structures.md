@@ -83,7 +83,7 @@
 
 * Geometric data structures
 
-  * used for problems involing spatial relationships
+  * used for problems involving spatial relationships
   * applications in *nearest neighbour search, collision detection, computational geometry* problems
 * Graph data structures
 

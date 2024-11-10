@@ -1,7 +1,7 @@
 # Chapter 6 : Weighted Graph Algorithms
 
 ## Minimum Spanning Trees (MSTs)
-- a Minimum Spanning Tree is a subgraph that connects all vertices of a graph with the minimum possible total edge weight, without forming cyclces
+- a Minimum Spanning Tree is a subgraph that connects all vertices of a graph with the minimum possible total edge weight, without forming cycles
 - MSTs are essential in applications where minimizing costs is crucial, such as:
     - designing networks
     - road systems
@@ -145,11 +145,11 @@
 - Network flow algorithms focus on **optimizing flow from a source node to a sink node** (subject to capacity constraints on edges)
 - **Flow**: Imagine that you’re sending something, like water, goods, or data, through a network. The amount of "flow" is how much of this stuff you’re sending from one point to another.
 - **Source and Sink Nodes**: The source node is where the flow starts (like a factory for goods), and the sink node is where it ends (like a warehouse).
-- **Capacity Constraints**: Each connection (or edge) in the graph can only carry a limited amount of flow. Think of this like the width of a pipe—it can only carry a certain amount of water at a time. In the same way, each edge has a capacity that limits how much flow can pass through it.
+- **Capacity Constraints**: Each connection (or edge) in the graph can only carry a limited amount of flow. Think of this like the width of a pipe - it can only carry a certain amount of water at a time. In the same way, each edge has a capacity that limits how much flow can pass through it.
 - **Optimization**: The goal of network flow algorithms is to figure out the maximum flow from the source to the sink that respects these capacity limits on the edges.
 
 **Algorithms**:
-- *Ford-Fulkerson Algorithm:* Increases flow iteratively by finding augmenting paths (paths from source to sink with available capcity on each edge) in the **residual graph** (a graph that shows remaining capacity of each edge after current flow).
+- *Ford-Fulkerson Algorithm:* Increases flow iteratively by finding augmenting paths (paths from source to sink with available capacity on each edge) in the **residual graph** (a graph that shows remaining capacity of each edge after current flow).
 - *Edmonds-Karp Algorithm:* An implementation of Ford-Fulkerson using BFS, with a time complexity of O(m² n).
 
 **Steps**:

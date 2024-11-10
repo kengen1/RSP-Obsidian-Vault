@@ -76,6 +76,6 @@
 ---
 
 ## Take Home Lessons
-- **Memorisation Optimizes Recursion**: By storing and reusing subproblem results, memorisation significantly refuces the computation for problems with overlapping subproblems
+- **Memorisation Optimizes Recursion**: By storing and reusing subproblem results, memorisation significantly reduces the computation for problems with overlapping subproblems
 - **Iterative DP Minimizes Overhead**: A bottom-up, iterative approach often reduces the call stack usage and memory overhead, making it preferable for certain problems
 - **Ensure Optimal Substructure**: DP is effective only if the problem has an optimal substructure; that is, the overall solution can be correctly built from solutions to smaller subproblems 
