@@ -35,7 +35,7 @@
 - instead, it leverages the array based implementation of a binary heap
 - this makes the implementation simpler and more memory efficient
 
-*The parent-child relationship is dervied from array indices:*
+*The parent-child relationship is derived from array indices:*
 - For a node at index `i`:
     - **Left child**: `2 * i + 1`
     - **Right child**: `2 * i + 2`
