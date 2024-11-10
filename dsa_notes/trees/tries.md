@@ -62,7 +62,7 @@ For words `cat`, `car`, and `dog`:
 | ------------ | --------------------------------------- | ----------------- | ------------------ |
 | Insert     | Inserts a word into the trie          | `O(m)`          | `O(m * n)`       |
 | Search     | Checks if a word exists in the trie   | `O(m)`          | `O(1)`           |
-| StartsWith | Checks if a prefix exists in the trie | `O(m)`          | `O(1)`           |
+| Starts With | Checks if a prefix exists in the trie | `O(m)`          | `O(1)`           |
 
 *Where `m` is the length of the word being inserted of searched, and `n` is the number of words in the Trie*
 
@@ -113,7 +113,7 @@ bool search(TrieNode* root, const string& word) {
 }
 ```
 
-### 4.3 StartsWith (Prefix Search)
+### 4.3 Starts With (Prefix Search)
 
 **How It Works**:
 

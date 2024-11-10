@@ -40,7 +40,7 @@ TreeNode* findMind(TreeNode* root) {
 }
 ```
 
-### Find Maxmimum
+### Find Maximum
 - found by traversing the rightmost node
 ```cpp
 TreeNode* findMax(TreeNode* root) {

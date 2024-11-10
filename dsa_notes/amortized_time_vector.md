@@ -2,7 +2,7 @@
 
 ## 1. Overview
 - **Dynamic arrays** (like `std::vector`) automatically resize when they run out of space 
-- When a `vector` resizes, it typically **doubles it capacity** to accomodate more elements
+- When a `vector` resizes, it typically **doubles it capacity** to accommodate more elements
 - Amortized analysis helps us understand the cost of such resizing operations spread over multiple insertions
 - While some individual operations are expensive, the average insertion cost is low
 
@@ -12,7 +12,7 @@
 - When a `vector` reaches its capacity limit:
     1. A new, larger array (usually double the previous capacity) is allocated
     2. The existing elements are copied to the new array
-    3. The old array is deallocated, and new elements can be added without resizing until the capcity is reached again
+    3. The old array is deallocated, and new elements can be added without resizing until the capacity is reached again
 
 **Example**
 If a vector has a capacity of `4` and is full, inserting one more element will:

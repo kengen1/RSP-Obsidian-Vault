@@ -19,7 +19,7 @@
 | Empty         | O(1)                | Checks if the queue is empty.      |
 | Size          | O(1)                | Returns the size of the queue.     |
 
-*Note* STL queue internally keeps a counter to track its number of elements, which allowes for the `size()` function to be constant
+*Note* STL queue internally keeps a counter to track its number of elements, which allows for the `size()` function to be constant
 
 ## 3. STL Implementation
 

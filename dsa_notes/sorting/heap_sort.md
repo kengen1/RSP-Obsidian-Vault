@@ -16,7 +16,7 @@
     - Min-Heap : the parent node is less than or equal to its children
 
 ### Refresher : *What is a Binary Heap?*
-- is a **complete binary tree**, meaning all levels are completely fileld except possibly the last, which is filled from left to right 
+- is a **complete binary tree**, meaning all levels are completely filled except possibly the last, which is filled from left to right 
 
 ### Refresher : *What is Heapify?*
 - the process of ensuring the max-heap property is maintained in a subtree

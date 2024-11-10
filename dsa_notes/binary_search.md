@@ -11,7 +11,7 @@
 3. if the target is equal to the middle, return the index
 4. if the target is smaller than the middle, search the left half
 5. if the target is larger than the middle, search the right half
-6. repeat untilt he target is found or the list is empty
+6. repeat until the target is found or the list is empty
 
 *the calculation of the mid point `left + (right - left) / 2` is done so prevent **integer overflow***
     - if left and right are very large integers, their sum might exceed the maximum value an `integer` datatype can hold

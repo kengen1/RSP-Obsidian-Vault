@@ -59,7 +59,7 @@ TreeNode* insert(TreeNode* root, int value) {
 ### Deletion
 - if the node to delete is found, there are three possible cases:
     1. node has no children - delete directly
-    2. noed has one child - replace node with child
+    2. node has one child - replace node with child
     3. node has two children - find the minimum node in the right subtree,
         replace the current node's data with it, and delete the duplicate
 ```cpp
@@ -114,8 +114,8 @@ bool search(TreeNode* root, int val) {
 ### Traversal
 **See traversal markdown files for details...**
 
-## 4. Recusrion in Tree Operations
-- recrusion is commonly used in tree operations because **trees are recursive data structures**
+## 4. Recursion in Tree Operations
+- recursion is commonly used in tree operations because **trees are recursive data structures**
     - each node in a tree has subtrees
 - allows for complex problems to be broken down into smaller sub-problems
 - the function call stack handles the order of node processing without requiring additional logic 

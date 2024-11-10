@@ -5,7 +5,7 @@
 - **divide and conquer** algorithm that selects a pivot element and partitions the array around pivot
 - it recursively sorts the elements on the left and right of the pivot
 - **in-place-sorting** algorithm, meaning it sorts without requiring extra memory (beyond the recursion stack)
-- best used when average-case perofrmance matters
+- best used when average-case performance matters
 
   Average Case Time Complexity : *O(n log n)*
   Worst Case Time Complexity : *O(n²)*

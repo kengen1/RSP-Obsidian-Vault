@@ -3,7 +3,7 @@
 ## 1. Overview
 
 - a Red-Black Tree (RBT) is a self-balancing Binary Search Tree
-- ensures that the tree remains balanced with O(log n) time compelxity for insertion, deletion and search
+- ensures that the tree remains balanced with O(log n) time complexity for insertion, deletion and search
 - each node in a red-black tree follows colouring rules (either red or black) to enforce balance
 
 ## 2. Properties of a Red-Black Tree

@@ -93,7 +93,7 @@ int toggleBit(int n, int k) {
 ## Advanced Applications 
 
 #### Finding the Single Non-Repeating Element
-*In an array where every element appears twice except one, find the unqiue element*
+*In an array where every element appears twice except one, find the unique element*
 ***Explanation***: *XORing all elements results in the unique element, as duplicate elements cancel each other out*
 ```cpp
 int singleNonRepeating(vector<int>& nums) {
@@ -106,7 +106,7 @@ int singleNonRepeating(vector<int>& nums) {
 ```
 
 #### Finding the Missing Number
-*In an array containing numbers from `0` to `n` with one missing, find the msising number*
+*In an array containing numbers from `0` to `n` with one missing, find the missing number*
 ***Explanation***: *XORing all indices and elements results in the missing number, as all pair elements cancel out*
 ```cpp
 int missingNumber(vector<int>& nums) {

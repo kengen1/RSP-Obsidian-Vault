@@ -13,7 +13,7 @@
 
   - **Complete Tree**: All levels are fully filled except possibly the last level, which si filled from left to right
   - **Heap Property**: Ensures that the smallest or largest element is always the root
-- **Commony Applications** --> *provides efficient access to the highest (or lowest) priority element*
+- **Common Applications** --> *provides efficient access to the highest (or lowest) priority element*
 
   - Priority Queues
   - Graph Algorithms: Dijkstra's Shortest Path, Prim's Minimum Spanning Tree
