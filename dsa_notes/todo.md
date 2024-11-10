@@ -3,7 +3,7 @@
 Cracking the Coding Interview:
 
 - [X] First 86 pages
-- [ ] Self-Completion of behavioural question table
+- [X] Self-Completion of behavioural question table
 - [ ] Read interview question introductions (littered across Pg. 86-157)
 
 Implementations in C++:
@@ -24,7 +24,7 @@ Algorithm Design Manual:
 - [X] Ch 6. Weighted Graph Algorithms
 - [X] Ch 7. Combinatorial Search and Hueristic Methods
 - [X] Ch 8. Dynamic Programming
-- [X] Ch 9. Intractable Problems and Approximation Algorithms
+- [X] Ch 9. Itractable Problems and Approximation Algorithms
 - [X] Ch 10. How to Design Algorithms
 
 Concepts:
