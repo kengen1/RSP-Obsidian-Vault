@@ -5,9 +5,9 @@ Cracking the Coding Interview:
 - [X] First 86 pages
 - [X] Self-Completion of behavioural question table
 - [ ] Read interview question introductions (littered across Pg. 86-157)
-    - [ ] Arrays & Strings
-    - [ ] Linked Lists
-    - [ ] Stacks & Queues
+    - [X] Arrays & Strings
+    - [X] Linked Lists
+    - [X] Stacks & Queues
     - [ ] Trees & Graphs
     - [ ] Bit Manipulation
     - [ ] Math and Logic Puzzles
