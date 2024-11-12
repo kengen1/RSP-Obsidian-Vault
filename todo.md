@@ -8,7 +8,7 @@ Cracking the Coding Interview:
     - [X] Arrays & Strings
     - [X] Linked Lists
     - [X] Stacks & Queues
-    - [ ] Trees & Graphs
+    - [X] Trees & Graphs
     - [ ] Bit Manipulation
     - [ ] Math and Logic Puzzles
     - [ ] Object-Oriented Design
