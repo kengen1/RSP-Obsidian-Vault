@@ -1,17 +1,3 @@
-# Common Interview Questions: Arrays and Strings
-
-## Key Concepts:
-- TODO: link to bit manipuation, vector amortized time
-- TODO: create file for two pointers
-- TODO: create file for string stream
-1. **Array Basics**: Arrays are fixed in size, with each element stored contiguously in memory. Access time is constant *O(1)* due to the direct index-based access
-	- **Tags**: #vector_amortized_time 
-2. **String Basics**: Strings in many languages are immutable, meaning each modification creates a new string
-    - This impacts performance in scenarios with repeated modifications, like concatenation
-    - Using a structure like `std:stringstream`(in C++) or `StringBuilder`(in Java) can optimize such cases by managing a dynamic array of characters
-
-## Common Interview Questions:
-
 ### 1. Is Unique
 - **Problem**: Determine if a string has all unique characters
 - **Solutions**: 

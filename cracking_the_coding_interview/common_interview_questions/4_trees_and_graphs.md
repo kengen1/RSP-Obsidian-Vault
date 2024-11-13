@@ -1,7 +1,3 @@
-# Trees and Graphs
-
-## Common Interview Questions
-
 ### 1. Route Between Nodes
    - **Problem**: Given a directed graph, determine if there is a route between two nodes.
    - **Solution**: Use BFS or DFS to explore the graph from one node to the other.

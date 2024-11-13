@@ -1,14 +1,3 @@
-# Linked Lists
-
-## Key Concepts
-- TODO: create section for "The Runner Technique"
-- TODO: point to linked list file for creation of a linked list 
-- TODO: point to linked list file for deletion of a node in a linked list
-1. **Linked List Basics**: A linked list is a sequence of nodes where each node points to the next. Linked lists allow efficient insertion and deletion but require sequential access.
-2. **Types**: Singly linked lists allow traversal in one direction, while doubly linked lists allow traversal in both directions by having pointers to both the next and previous nodes.
-
-## Common Interview Questions
-
 ### 1. Remove Duplicates
    - **Problem**: Remove duplicates from an unsorted linked list.
    - **Solutions**:
