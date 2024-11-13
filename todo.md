@@ -60,6 +60,11 @@ Concepts:
 - [X] Dijkstra's Shortest Path Algorithm
 - [X] Bellman-Ford Pathfinding Algorithm
 
+Design Patterns:
+
+- [ ] Singleton Design Pattern
+- [ ] Factory Design Pattern
+
 Additional Non-Requsitie Concepts:
 
 - [X] Queues
