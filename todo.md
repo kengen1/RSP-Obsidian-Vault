@@ -9,11 +9,11 @@ Cracking the Coding Interview:
     - [X] Linked Lists
     - [X] Stacks & Queues
     - [X] Trees & Graphs
-    - [ ] Bit Manipulation
-    - [ ] Math and Logic Puzzles
-    - [ ] Object-Oriented Design
-    - [ ] Recursion & Dynamic Programming
-    - [ ] System Design & Scalability
+    - [X] Bit Manipulation
+    - [X] Math and Logic Puzzles
+    - [X] Object-Oriented Design
+    - [X] Recursion & Dynamic Programming
+    - [X] System Design & Scalability
     - [ ] Sorting & Searching
     - [ ] Testing
     - [ ] C & C++
@@ -60,11 +60,6 @@ Concepts:
 - [X] Dijkstra's Shortest Path Algorithm
 - [X] Bellman-Ford Pathfinding Algorithm
 
-Design Patterns:
-
-- [ ] Singleton Design Pattern
-- [ ] Factory Design Pattern
-
 Additional Non-Requsitie Concepts:
 
 - [X] Queues
@@ -83,3 +78,9 @@ Additional Non-Requsitie Concepts:
 - [ ] Memory (Stack vs. Heap)
 - [ ] Inverse Ackerman Function
 - [ ] Bidirectional Search in Graphs
+
+System Design:
+
+- [ ] Design Patterns:
+  - [X] Singleton Design Pattern
+  - [X] Factory Design Pattern
