@@ -14,14 +14,14 @@ Cracking the Coding Interview:
     - [X] Object-Oriented Design
     - [X] Recursion & Dynamic Programming
     - [X] System Design & Scalability
-    - [ ] Sorting & Searching
-    - [ ] Testing
-    - [ ] C & C++
-    - [ ] Java (can skip)
+    - [X] Sorting & Searching
+    - [X] Testing
+    - [X] C & C++
+    - [X] Java (can skip)
     - [ ] Databases
     - [ ] Threads & Locks
-    - [ ] Moderate
-    - [ ] Hard
+    - [X] Moderate
+    - [X] Hard
 
 Implementations in C++:
 
@@ -81,6 +81,6 @@ Additional Non-Requsitie Concepts:
 
 System Design:
 
-- [ ] Design Patterns:
+- [X] Design Patterns:
   - [X] Singleton Design Pattern
   - [X] Factory Design Pattern

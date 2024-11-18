@@ -1,0 +1,16 @@
+# Sorting and Searching
+
+- many sorting and searching problems are tweaks of well-known algorithms
+- a good approach is to run through the different sorting algorithms and see if one applies particularly well
+
+Common Sorting Algorithms:
+
+
+| Algorithm      | Description                                     | Time Complexity        | Memory   |
+| ---------------- | ------------------------------------------------- | ------------------------ | ---------- |
+| Bubble Sort    | Repeatedly swaps adjacent elements if needed.   | O(n^2) (average/worst) | O(1)     |
+| Selection Sort | Selects the smallest element in each pass.      | O(n^2)                 | O(1)     |
+| Merge Sort     | Divides the array and merges sorted halves.     | O(n log n)             | O(n)     |
+| Quick Sort     | Partitions array and sorts recursively.         | O(n log n) (average)   | O(log n) |
+| Radix Sort     | Sorts by processing digits from least to most.  | O(nk)                  | O(n + k) |
+| Bucket Sort    | Distributes data into ranges and sorts buckets. | O(n + k) (average)     | O(n + k) |

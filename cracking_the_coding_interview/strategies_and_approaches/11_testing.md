@@ -1,0 +1,64 @@
+# Testing
+
+### Testing problems usually fall under one of hour categories:
+1. Test a real world object
+2. Test a piece of software
+3. Write test code for a function
+4. Troubleshoot an existing issue
+
+### What the Interviewer is Looking For:
+- Big Picture Understanding: 
+    - Are you a person who understands what the software is really about? 
+    - Can you prioritize test cases properly?
+
+- Knowing How the Pieces Fit Together:
+    - Do you understand how software works
+    - How might it fit into a greater ecosystem
+
+- Organization:
+    - Do you approach the problem in a structured manner 
+    - A good candidate will break down the parts into categories
+    - This structured approach will assist in thoroughly creating test cases
+
+- Practicality:
+    - Can you actually create reasonable testing plans?
+
+### Testing a Real World Object
+1. Who will use it and why?
+2. What are the use cases?
+3. What are the bounds of use?
+4. What are the stress/failure conditions?
+5. How would you perform the testing?
+
+
+### Testing Software
+
+Manual vs. Automated Testing:
+- manual: human interaction with software
+- automated: tests performed by scripts or tools to imitate human interaction
+
+Black Box vs. White Box Testing:
+- black box testing: using the software "as is" or with "intended privilleges" to test
+- white box testing: additional, elevated programmatic access to test individual functions
+
+1. Are we doing Black Box Testing or White Box Testing?
+2. who will use it? And Why?
+3. What are the use cases?
+4. What are the bounds of use?
+5. What are the stress conditions / failure conditions?
+6. What are the test cases? How would you perform the testing?
+
+### Testing a Function
+1. Define the test cases
+    - What is the normal case?
+    - What are the extreme cases?
+    - Nulls and "illegal" input
+    - Strange input
+2. Define the expected result
+3. Write test code
+
+
+### Troubleshooting Questions
+1. Understand the Scenario
+2. Break Down the Problem into testable units or actions
+3. Create Specific, Managable Tests
