@@ -4,7 +4,7 @@ Cracking the Coding Interview:
 
 - [X] First 86 pages
 - [X] Self-Completion of behavioural question table
-- [ ] Read interview question introductions (littered across Pg. 86-157)
+- [X] Read interview question introductions (littered across Pg. 86-157)
     - [X] Arrays & Strings
     - [X] Linked Lists
     - [X] Stacks & Queues
@@ -18,8 +18,8 @@ Cracking the Coding Interview:
     - [X] Testing
     - [X] C & C++
     - [X] Java (can skip)
-    - [ ] Databases
-    - [ ] Threads & Locks
+    - [X] Databases
+    - [X] Threads & Locks
     - [X] Moderate
     - [X] Hard
 
