@@ -105,7 +105,7 @@
 6. In What Case Would Dijkstra's Not Be Suitable?
 7. What is Bellman-Ford Shortest Path Algorithm?
 8. What Graph Types Does it Work With?
-9. What Data Structure Does It Incorporate?
+9. What Does "Relaxing Edges" Mean?
 10. What Is the Time Complexity of the Algorithm?
 11. What Are the General Steps for the Algorithm?
 12. In What Case Would Bellman-Ford Not Be Suitable?

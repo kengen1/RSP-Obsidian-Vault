@@ -644,14 +644,41 @@ if our graph has negatively weighted edges
 ```
 
 #### What is the Bellman-Ford Shortest Path Algorithm?
+```
+finds the shortest path from a source node to all other nodes
+takes a dynamic programming approach that iteratively relaxes edges up to V-1 times
+```
 
 #### What Graph Types Does it Work With?
+```
+suited for weighted, directed or undirected graphs
+it can handle both positive and negatively weighted edges but no negative cycles
+```
 
-#### What Data Structure Does it Incorporate?
+#### What Does Relaxing Edges Mean?
+```
+relaxing an edge means updating the shortest distance estimate for a vertex if a shorter path is found by traversing that edge
+relaxing edges is trying to improve the shortest path estimates by exploring whether a given edge provides a shorter route to a vertex
+```
+
+#### Relaxation in Dijkstra's vs. Bellman-Ford
+```
+dijkstra's algorithm relaxes edges greedily (choosing the vertex in order of its distance)
+    and it will relax them iteratively for all edges connected to the currently selected vector
+
+bellman-ford relaxes all edges V-1 times
+```
 
 #### What is the Time Complexity of the Algorithm?
+```
+O(V * E)
+since the relaxing of edges involves processing E edges V-1 times
+```
 
 #### What are the General Steps for the Algorithm?
+```
+
+```
 
 #### In What Case Would Bellman-Ford Not Be Suitable?
 
