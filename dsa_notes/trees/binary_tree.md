@@ -50,7 +50,7 @@ TreeNode* insert(TreeNode* root, int value) {
     if(root == nullptr) return new TreeNode(value);
 
     if(value < root->data) root->left = insert(root->left, value);
-    else insert(root->right, value);
+    else root->right = insert(root->right, value);
 
     return root;
 }
