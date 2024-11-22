@@ -17,7 +17,7 @@ struct Node {
     int data;
     Node* next;
     Node(int value) : data(value), next(nullptr) {}
-}
+};
 ```
 
 ## 3. Operations
