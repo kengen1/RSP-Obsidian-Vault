@@ -80,6 +80,6 @@
   - [X] Insertion Sort
   - [X] Merge Sort
   - [X] Quick Sort
-- [x] Memory (Stack vs. Heap)
+- [ ] Memory (Stack vs. Heap)
 - [x] Inverse Ackerman Function
-- [x] Bidirectional Search in Graphs
+- [ ] Bidirectional Search in Graphs
