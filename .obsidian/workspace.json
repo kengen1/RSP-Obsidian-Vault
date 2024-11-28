@@ -186,15 +186,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8b06984a01fd5e5",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
+    "2024-11-29.md",
+    "LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
+    "Untitled.canvas",
     "LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "LeetCode/Week 1/1323. Maximum 69 Number.md",
     "LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Novice Revision/Novice Todo List.md",
     "Data Structures & Algorithms/Binary Search.md",
     "Data Structures & Algorithms/Graphs/Union-Find (Disjoint Set).md",
-    "LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "LeetCode/Neetcode150/56. Merge Intervals.md",
     "LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
     "LeetCode/Neetcode150/15. 3Sum.md",
@@ -218,7 +220,6 @@
     "Data Structures & Algorithms/Trees/Balanced BST/Red-Black Trees.md",
     "Data Structures & Algorithms/Trees/Balanced BST/AVL Tree.md",
     "Data Structures & Algorithms/Trees/Binary Tree.md",
-    "Cracking the Coding Interview/Strategies & Approaches/5. Bit Manipulation.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Novice Revision",
     "Theory"
