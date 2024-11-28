@@ -1141,3 +1141,5 @@ a brute force algorithm explores all possible solutions to a problem to find the
 ```
 breaks a problem into smaller subproblems, solves them independently, and combines their solutions to solve the original problem.
 ```
+
+this is a test message to see if git sync works
