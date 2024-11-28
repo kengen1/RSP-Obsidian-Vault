@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
+                "file": "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
                 "mode": "source",
                 "source": false
               },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Week 1/2555. Maximize Win From Two Segments.md"
+                "file": "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md"
               },
               "icon": "lucide-list",
               "title": "Outline of 2555. Maximize Win From Two Segments"
@@ -188,22 +188,24 @@
   },
   "active": "86973e501214562e",
   "lastOpenFiles": [
+    "Problems",
+    "Templates",
     "Updates",
     "Daily Notes",
     "2024-11-29.md",
-    "LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
+    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Untitled.canvas",
-    "LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
-    "LeetCode/Week 1/1323. Maximum 69 Number.md",
-    "LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
+    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
+    "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Novice Revision/Novice Todo List.md",
     "Data Structures & Algorithms/Binary Search.md",
     "Data Structures & Algorithms/Graphs/Union-Find (Disjoint Set).md",
-    "LeetCode/Neetcode150/56. Merge Intervals.md",
-    "LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
-    "LeetCode/Neetcode150/15. 3Sum.md",
+    "Problems/LeetCode/Neetcode150/56. Merge Intervals.md",
+    "Problems/LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
+    "Problems/LeetCode/Neetcode150/15. 3Sum.md",
     "Novice Revision/Revision Questions.md",
-    "Hackerrank",
+    "Problems/Hackerrank",
     "Data Structures & Algorithms/Sliding Window.md",
     "Novice Revision/Revision Answers.md",
     "README.md",
@@ -212,10 +214,10 @@
     "Data Structures & Algorithms/Bit Manipulation.md",
     "LeetCode/Week 1/Progress Report.md",
     "Novice",
-    "LeetCode/Neetcode150",
-    "LeetCode/Week 1",
+    "Problems/LeetCode/Neetcode150",
+    "Problems/LeetCode/Week 1",
     "Algorithm Design Manual/2. Algorithm Analysis.md",
-    "LeetCode",
+    "Problems/LeetCode",
     "Data Structures & Algorithms/Trees/Trie (Prefix Tree).md",
     "Data Structures & Algorithms/Trees/Balanced BST/Binary Search Tree (BST).md",
     "Data Structures & Algorithms/Trees/Balanced BST/Rotations in Balanced BSTs.md",
