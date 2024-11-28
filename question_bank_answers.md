@@ -137,25 +137,64 @@ less important:
 #### How Would you Implement These Operations?
 ```cpp
 TreeNode* insertTreeNode(TreeNode* root, int val) {
-
+	if(root == nullptr) return new TreeNode(val);
+	if(val < root->data) root->left = insertTreeNode(root->left, val);
+	else if (val > root->data) root->right = insertTreeNode(root->right, val);
+	return root;
 }
 ```
 
 ```cpp
+TreeNode* findMin(TreeNode* node) {
+	while(node->left != nullptr) node = node->left;
+	return node;
+}
+
 TreeNode* deleteTreeNode(TreeNode* root, int val) {
+	if(root == nullptr) return root;
+	
+	if(val < root->data) {
+		root->left = deleteNode(root->left, val);
+	}
+	else if (val > root->data) {
+		root->right = deleteNode(root->right, val);
+	}
+	else {
 
+		if(root->left == nullptr) {
+			TreeNode* temp = root->right;
+			delete root;
+			return temp;
+		}
+		else if (root->right == nullptr) {
+			TreeNode temp = root->left;
+			delete root;
+			return temp;
+		}
+
+		TreeNode* temp = findMin(root->right);
+		root->data = temp->data;
+		root->right = deleteNode(root-right, temp->data);
+	}
+	return root;
 }
 ```
 
 ```cpp
-TreeNode* search(TreeNode* root, int val) {
-
+bool search(TreeNode* root, int val) {
+	if(root == nullptr) return false;
+	if(root->data == val) return true;
+	if(val < root->data) return search(root->left, val);
+	return search (root->right, val);
 }
 ```
 
 ```cpp
 TreeNode* inorderTraversal(TreeNode* root) {
-
+	if(root ==  nullptr) return;
+	inorder(root->left);
+	std::cout << root->data << " ";
+	inorder(root->right);
 }
 ```
 
@@ -248,6 +287,43 @@ BFS - look at all neighbours for a given vertex before looking at its children
 DFS - recursively search the children of a vertex until none remain, then backtrack up the callstack and do the same for its neighbours
 ```
 
+#### Implement BFS Using a Queue
+```cpp
+void BFS(int start, vector<vector<int>>& adj, int V) {
+    vector<bool> visited(V, false);
+    queue<int> q;
+
+    visited[start] = true;
+    q.push(start);
+
+    while (!q.empty()) {
+        int node = q.front();
+        q.pop();
+        cout << node << " ";
+
+        for (int neighbor : adj[node]) {
+            if (!visited[neighbor]) {
+                visited[neighbor] = true;
+                q.push(neighbor);
+            }
+        }
+    }
+}
+```
+
+#### Implement DFS Using Recursion
+```cpp
+void DFS(int node, vector<vector<int>>& adj, vector<bool>& visited) {
+    visited[node] = true;
+    std::cout << node << " ";
+
+    for (int neighbor : adj[node]) {
+        if (!visited[neighbor])
+            DFS(neighbor, adj, visited);
+    }
+}
+```
+
 ## Tries
 #### What Is a Trie?
 ```
@@ -281,7 +357,12 @@ ContainsWord (search): O(m)
 ContainsPrefix (startsWith): O(m)
 ```
 
-## Vector Amortized Time
+#### What is the Space Complexity of a Trie
+```
+O(N * M) where N is the number of words with an average character length of M
+```
+
+## Vector Amortised Time
 #### What Kind of Data Structure Is a Vector?
 ```
 a vector is a contiguous data structure
@@ -467,6 +548,11 @@ the parition operation that utilises a pivot value
 ```
 average case is O(n) due to the efficient partitioning that focuses only on one side of the array
 worst case is O(n^2) in the case where the pivot selections are poor and the array is not divided efficiently
+```
+
+#### What Can Be Done to Reduce the Probability of the Worst Case?
+```
+randomization of the pivot value 
 ```
 
 ## Binary Search Trees
@@ -677,66 +763,381 @@ since the relaxing of edges involves processing E edges V-1 times
 
 #### What are the General Steps for the Algorithm?
 ```
-
+1. initialize - set the distance of the source node to 0 and all other nodes to infinity 
+2. conduct edge relaxation (repeated V-1) times
+3. negatice cycle check
+	1. perform a final pass through to check all edges for negative weights
+	2. if any edge can still be relaxed, then we know that a negatively weighted edge exists and therefore there is not valid shortest path
 ```
 
 #### In What Case Would Bellman-Ford Not Be Suitable?
-
+```
+negatively weighted cycles
+dijkstra's shortest path might be more suitable for graphs that wont have negatively weighted edges
+```
 ---
 ## ADM Questions:
 
-- what is the RAM computation model
-- what are the 3 types of algorithm analysis
-- what are the common types of growth rates 
-- what are dominance relations in terms of algorithm analysis
+#### What is the RAM Computation Model?
+```
+stands for random access machine
+its a form of algorithm analysis where every basic operation takes constant time
+memory access takes constant time, regardless of where its located 
+```
 
-- what are the two primary categories of data structures
-- how do hash functions work
-- how are collisions handled in hash tables
+#### What Is the Purpose of RAM ?
+```
+while it simplifies assumptions, it provides a practical abstraction to predict algorithm performance 
+```
 
-- name 1 common application of sorting
-- what is in-place sorting
-- what is stability in sorting 
-- what are the common time complexties of 'efficient' sorting algorithms, provide some examples for each
-- what is the theoretical limit for comparison based sorting
-- how does heapsort work
-- how does mergesort work
-- how does quicksort work
-- how does insertion sort work
-- how does binary search work
-- what searching method is there that enabled constant-time-look-ups
+#### What are the 3 Types of Notation?
+```
+big O - describes the upper bound of the growth rate and reflects the worst case performance 
+big omega - represents lower bound performance 
+big alpha - represents tight bounds , where algorithms perform in a narrow range of efficiency 
+```
 
-- what is an undirected graph
-- what is a directed graph
-- what is a weighted graph
-- what is a bipartite graph
-- what is a cyclic graph
-- what is an acyclic graph
-- what is a connected graph
-- what is a disconnected graph 
-- what is a network flow algorithm
+#### What are 3 Types of Algorithm Analysis?
+```
+best case
+average case
+worst case
+```
 
-- what is combinatorial search
-- why do we need combinatorial search
-- what are the key concepts of combinatorial search methods
-- what is backtracking 
-- what is search pruning
-- what are heuristic search methods
-- provide some examples of heuristic search methods
 
-- what is dynamic programming
-- what are its key concepts
-- what is a bottom-up approach
-- what is a top-down approach
+#### What are the Common Types of Growth Rates?
+```
+constant time - the problem does not grow with increase in size
+linear time - grows linearly with the problem size
+logaritmic time - grows slowly (the problem space halves with each iteration)
+log-linear time
+quadratic time - grows with the square of the input size 
+exponential time - time doubles for each additional input
+factorial time - time grows dramatically with the problem size 
+```
 
-- what is a reduction 
-- what is NP-completeness
-- what is polynomial-time (P)
-- what is nodeterministic polynomial time (NP)
-- explain the concept of P = NP 
-- what is considered NP-hard
-- explain Satifiability (SAT) and its relation to NP-completeness
 
-- what is a greedy algorithm
-- what is a brute force algorithm
-- what is divide and conquer
+#### What are Dominance Relations In Algorithm Analysis?
+```
+the inefficiency of an algorithm's growth rate takes priority over smaller / more efficient ones
+it simplfies the representation of Big O notation, as we only care about the dominant growth rate 
+```
+
+#### What are Two Primary Categories of Data Structures?
+```
+contiguous data structures - represented and stored in sequential blocks of memory
+linked data strucutre - represented by pointers in memory
+```
+
+
+#### What are the Benefits of Both?
+```
+contiguous: efficient for indexing and immediate access to elements
+	bad for resizing 
+
+linked: can dynamically resize efficiently but we need to traverse the structure in order to access an element
+```
+
+
+#### What is a Hash?
+```
+its a fixed sized number within a specific range
+```
+
+#### How do Hash Functions Work?
+```
+inputs are mapped to hashes
+these hashes represent a range of memory (or array of buckets) where elements are stored
+the hash function distributes elements evenly across buckets
+```
+
+#### What is a Collision?
+```
+when two different keys hash to the same bucket
+```
+
+#### How are Collisions Handled in Hash Tables?
+```
+chaining - each bucket contains a linked list to store multiple elements
+open addressing - probe the next available bucket according to a specific rule
+```
+
+#### What are Some Probing Strategies?
+```
+linear probing - check the next bucket over until we find a space 
+quadratic probing - uses a quadratic function to determine the next slot
+double hashing - use a second hash function to calculate the next slot
+```
+
+#### Name 1 Common Application of Sorting
+```
+binary search, elements need to be sorted before we can efficiently search a list
+```
+
+#### What is In-Place Sorting?
+```
+sorting of elements in its original data structure, additional memory or space is not required 
+```
+
+#### What is Stability Sorting?
+```
+maintaining the oreder of equal elements 
+e.g. if there were the elements {1,1,1} in a list, these ones should remain in their relative order once the entire list is sorted 
+```
+
+
+#### What are the Common Big O Notations of 'Efficient Sorting'
+```
+quadratic sorting (O(n^2)) - if 'good enough' for relatively small datasets
+log-linear sorting (O(n log n)) - necessary for large datasets
+```
+
+#### What are Some Examples of These Efficient Sorting Algorithms?
+```
+quadratic sorting : bubble sort, insertion sort
+log linear sorting : heap-sort, merge-sort, quick-sort
+```
+
+#### What is the Theoretical Limit for Comparison Based Sorting?
+```
+O(n log n) is often the best possible time complexity that we can achieve
+this is due to the fact that there are n! possible orderings for n elements
+```
+
+#### How Does HeapSort Work and What is Its TC?
+```
+Time Complexity : O(n log n)
+utilises a max heap to sort elements 
+where we extract the maximum elements and place it at the end 
+heapify the remaining elements
+```
+
+#### How does MergeSort Work and What is its TC?
+```
+Time Complexity: O(n log n)
+divide the list into two halves and recursively sort both halves
+merge the sorted halves
+
+merge sort is a stable sorting algorithm
+merge sort is not an in-place sorting algorithm
+```
+
+#### How does QuickSort Work and What is its TC?
+```
+Average Case TC : O(n log n)
+Worst Case TC : O(n^2) if the random pivot elements are poor
+
+choose a pivot element 
+parition the array around the pivot
+recursively sort the partitions
+```
+
+#### How does Insertion Sort Work and What is its TC?
+```
+TC : O(n^2)
+has a good use case when data is nearly sorted
+is an in-place sorting alrogithm
+
+we start from the second element
+compare it with the previous elements and place it in the correct position
+```
+
+#### How Does Binary Search Work?
+```
+Time Complexity : O(log n)
+provides an efficient search algorithm for sorted data
+
+iteratively cut the search space in half and we compare the target with a calculated midpoint element
+```
+
+#### Name a Searching Method for Constant Time Lookups
+```
+hashmaps / dictionaries enable constant time lookups at the expense of using additional memory to store key value pairs
+```
+
+#### What is an Undirected Graph?
+```
+where you can traverse edges in either direction
+```
+
+#### What is a Directed Graph?
+```
+edges can only be taverse from a single direction
+edges point from one vertex to another, but not vice versa unless explicitly defined
+```
+
+
+#### What is a Weighted Graph?
+```
+a graph where edges hold weight or a cost for traversing them 
+```
+
+#### What is a Bipartite Graph?
+```
+graphs that can be coloured with two colours without conflcits 
+conflicts arise when two adjacent or neighbouring nodes hold the same colour
+```
+
+#### What is a Cyclic Graph?
+```
+the edges connecting nodes form a closed cycle (the path starts and ends with the same vertex)
+```
+
+#### What is an Acyclic Graph?
+```
+a graph with no cycles
+```
+
+#### What is a DAG?
+```
+a directed graph with no cycles
+Directed Acyclic Graph
+```
+
+#### What is a Connected Graph?
+```
+every vertex is reachable from any other vertex
+```
+
+#### What is a Disconnected Graph?
+```
+Multiple components or subgraphs that are not connected by edges
+```
+
+#### What is a Network Flow Algorithm?
+```
+an algorithm that optimizes the flow of data from a source node to a sink node 
+this algorithm takes into account capacity constraints in the graph where edges can only hold a limited amount of flow 
+```
+
+#### What is Combinatorial Search
+```
+its the process of explorinig all possible combinations or arrangements of elements to find solutions that meet specific criteria or constraints
+```
+
+#### Why Do We Need Combinatorial Search
+```
+its essential for problems where you need to consider all possible configurations to find the optimal or valid solution
+```
+
+#### What are the Key Concepts of Combinatorial Search Methods?
+```
+- represents the entire solution space (all possible configurations)
+- a cost function that assigns value to each configuration
+- search pruning to reduce unecessary exploration by discarding configurations
+```
+
+#### What is Backtracking?
+```
+the systematic way of building a solution step-by-step and undoing steps when you encounter a dead end of sub-optimal configuration
+it provides a systematic method to iterator through all possible configurations of a search space 
+```
+
+#### What is Search Pruning?
+```
+the enhancement of backtracking by eliminating infeasible paths EARLY, reducing the number of configurations that need to be explored
+```
+
+#### What are Heuristic Search Methods?
+```
+the method of finding "good enough" solutions for complex combinatorial problems where exhaustive search is infeasible
+
+they use rules or strategies to find reasonably optimal solutions within an appropriate time frame
+
+they prioritize efficiency over guaranteed correctness
+```
+
+
+#### Provide Some Examples of Heuristic Search Methods
+```
+Monte Carlo (Random Sampling) - randomly generates and evaluates configurations to find a good solution
+
+Simulated Annealing - evaluates neighbouring configurations and moves to a better one if it exists 
+
+Local Search - iteratively improves the current configuration by exploring neighbouring solutions 
+```
+
+#### What is Dynamic Programming
+```
+dynamic programming is an optimization method that solves problems by breaking them into smaller subproblems, storing their results, and reusing them to avoid repeated work
+```
+
+#### What is a Bottom-Up Approach
+```
+The bottom-up approach solves dp problems iteratively. 
+It starts with the smallest subproblems and builds up to the final solution, storing intermediate results in a table (tabulation). 
+This approach avoids recursion entirely and calculates results in a specific order, often based on the dependencies of the subproblems.
+
+```
+
+#### What is a Top-Down Approach
+```
+The top-down approach solves dp problems recursively. 
+It starts with the main problem and breaks it into smaller subproblems as needed. 
+Results of solved subproblems are stored in a cache (memoization) to avoid redundant computation in future recursive calls.
+
+the cache is typically implemented as an array, hashmap or dictionary that is shared across the call stack
+```
+
+#### What is the Structure of a Dynamic Programming Solution?
+```
+1. define subproblems
+2. formulate recurrence relation - establish how each subproblem relates to its smaller subproblems
+3. set up base cases - define initial values for the simplest subproblems to anchor the recurrence relation
+4. choose top-down or bottom-up approach
+```
+
+#### What is a Reduction?
+```
+a technique for proving compelxity by transforming one problem into another
+```
+
+#### What is NP-Completeness?
+```
+the concept of categorizing problems based on their solvability in polynomial time
+the problem is as hard as any other problem in NP, meaning we can reduce any problem to them in polynomial time
+```
+
+#### What is Polynomial Time (P)?
+```
+problems that can be solved quickly 
+"quickly" is denoted as O(n^k) for some constant k
+polynomial time implies a managable growth rate, making the solution feasible for large inputs
+```
+#### What is Non-Deterministic Polynomial Time (NP) ?
+```
+problems where a proposed solution can be verified quickly 
+```
+
+#### Explain the Concept of P = NP?
+```
+if every problem that can be verified in polynomial time can also be solved in non-deterministic polynomial time
+
+it would mean that any problem whos solution can be verified quickly can also be solved quickly
+```
+
+#### What is Considered NP-Hard?
+```
+NP hard problems are at least as hard as the hardest problem in NP but no necessarily in NP
+```
+
+#### Explain Satisfiability (SAT) and its Relation to NP-Completeness
+```
+SAT problem asks if there exists an assignment of true/false values to variables such that a Boolean formula is satisfied 
+```
+
+#### What is a Greedy Algorithm?
+```
+a technique where you use a heuristic to choose the most optimal local solution for each iteration
+```
+
+#### What is a Brute Force Algorithm?
+```
+aka exhaustive search
+a brute force algorithm explores all possible solutions to a problem to find the correct one, often without considering efficiency.
+```
+
+#### What is Divide and Conquer?
+```
+breaks a problem into smaller subproblems, solves them independently, and combines their solutions to solve the original problem.
+```
