@@ -1,7 +1,7 @@
 {
   "userIgnoreFilters": [
-    "Theory/Revision/",
-    "Theory/Theory Todo List"
+    "Novice Revision/",
+    "README"
   ],
   "alwaysUpdateLinks": true
 }
