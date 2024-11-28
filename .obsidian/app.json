@@ -1,1 +1,7 @@
-{}
+{
+  "userIgnoreFilters": [
+    "Theory/Revision/",
+    "Theory/Theory Todo List"
+  ],
+  "alwaysUpdateLinks": true
+}
