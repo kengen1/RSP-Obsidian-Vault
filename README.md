@@ -1,3 +1,4 @@
+# 📂RSP Obsidian Vault
 
 This repository contains a personal Obsidian vault, which tracks notes relating to RSP:
 
