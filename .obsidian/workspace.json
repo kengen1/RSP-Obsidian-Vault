@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ],
@@ -152,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README.md"
+              "title": "Outline of README"
             }
           },
           {
@@ -186,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8b06984a01fd5e5",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
     "Novice Revision/Novice Todo List.md",
-    "README.md.md",
+    "README.md",
     "Novice Revision/Revision Questions.md",
     "Data Structures & Algorithms/Quick Select.md",
     "Data Structures & Algorithms/Vector Amortized Time.md",
