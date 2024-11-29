@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📝To-Do List Template.md",
+                "file": "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📝To-Do List Template"
+              "title": "2555. Maximize Win From Two Segments"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "a3a282a5f52f829e",
   "lastOpenFiles": [
-    "Problems/LeetCode/Neetcode150/15. 3Sum.md",
     "Updates/📝To-Do List Template.md",
+    "Problems/LeetCode/Neetcode150/15. 3Sum.md",
     "Updates/Week 1.md",
     "Problems/LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Neetcode150/56. Merge Intervals.md",
