@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/Weekly Updates Template.md",
+                "file": "Updates/🗓️ Weekly Progress Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Updates Template"
+              "title": "🗓️ Weekly Progress Template"
             }
           }
         ]
@@ -171,7 +171,7 @@
   },
   "active": "a3a282a5f52f829e",
   "lastOpenFiles": [
-    "Updates/Weekly Updates Template.md",
+    "Updates/🗓️ Weekly Progress Template.md",
     "Novice Revision/Revision Questions.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
