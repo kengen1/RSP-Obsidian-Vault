@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
+                "file": "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2555. Maximize Win From Two Segments"
+              "title": "1309. Decrypt String from Alphabet to Integer Mapping"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
@@ -187,7 +188,6 @@
     "Templates/To-Do List.md",
     "Updates/Week 2",
     "Templates",
-    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Neetcode150/56. Merge Intervals.md",
     "Updates/🗓️ Weekly Progress Template.md",
