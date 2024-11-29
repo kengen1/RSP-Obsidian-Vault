@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/Weekly Progress Tracker.md",
+                "file": "Updates/Week 2/Progress Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Progress Tracker"
+              "title": "Progress Tracker"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "a3a282a5f52f829e",
   "lastOpenFiles": [
+    "Updates/Templates/To-Do List.md",
+    "Updates/Week 2/Progress Tracker.md",
+    "Updates/Templates/Progress Tracker.md",
+    "Updates/Week 2",
+    "Updates/Templates",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
-    "Updates/Weekly Progress Tracker.md",
     "Problems/LeetCode/Neetcode150/15. 3Sum.md",
     "Updates/Week 1.md",
     "Problems/LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
@@ -183,7 +187,7 @@
     "Novice Revision/Revision Questions.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Problems",
-    "Templates",
+    "Updates/Templates",
     "Updates",
     "Daily Notes",
     "2024-11-29.md",
@@ -204,10 +208,6 @@
     "Problems/LeetCode/Neetcode150",
     "Problems/LeetCode/Week 1",
     "Algorithm Design Manual/2. Algorithm Analysis.md",
-    "Problems/LeetCode",
-    "Data Structures & Algorithms/Trees/Trie (Prefix Tree).md",
-    "Data Structures & Algorithms/Trees/Balanced BST/Binary Search Tree (BST).md",
-    "Data Structures & Algorithms/Trees/Balanced BST/Rotations in Balanced BSTs.md",
-    "Novice Revision"
+    "Data Structures & Algorithms/Trees/Trie (Prefix Tree).md"
   ]
 }
