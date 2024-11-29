@@ -11,14 +11,10 @@
             "id": "a3a282a5f52f829e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Updates/🗓️ Weekly Progress Template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🗓️ Weekly Progress Template"
+              "title": "New tab"
             }
           }
         ]
@@ -169,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3a282a5f52f829e",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
     "Updates/🗓️ Weekly Progress Template.md",
     "Novice Revision/Revision Questions.md",
