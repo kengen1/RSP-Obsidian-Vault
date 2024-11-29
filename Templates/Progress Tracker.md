@@ -1,4 +1,4 @@
-## 📅 Date  
+## 📅 Week {#}
 **Date:** `{{date:MMM-DD - MMM-DD}}`
 
 ---
@@ -9,7 +9,7 @@
 |         |     |             |                |               |
 
 
-## Mock Interviews  
+## ✍️ Mock Interviews 
 | **Day** | **Time** | **Partner** | **Interviewer/Interviewee** |
 | ------- | -------- | ----------- | --------------------------- |
 |         |          |             |                             |
@@ -19,10 +19,10 @@
 | **Day** | Source | #   | **Problem** | Category | Difficulty |
 | ------- | ------ | :-- | :---------- | -------- | ---------- |
 |         |        |     |             |          |            |
-## Theory  
+## 🧮 Theory  
 
 - [ ] 
-## Miscellaneous
+## 🔖Miscellaneous
 
 - [ ] 
 

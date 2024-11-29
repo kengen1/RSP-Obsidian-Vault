@@ -26,7 +26,7 @@
 ## 🧮 Theory  
 
 - [ ] 
-## Miscellaneous
+## 🔖Miscellaneous
 
 - [ ] 
 
