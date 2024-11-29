@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+                "file": "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2265. Count Nodes Equal To Average of Subtree"
+              "title": "1323. Maximum 69 Number"
             }
           }
         ]
@@ -171,10 +171,11 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Templates/🔍Problem Deep Dive.md",
-    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Updates/📅 Week 1.md",
     "Templates/🔋 Progress Tracker.md",
+    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Templates/🔍Problem Deep Dive.md",
     "Cracking the Coding Interview/Strategies & Approaches/5. Bit Manipulation.md",
     "Cracking the Coding Interview/Strategies & Approaches/4. Trees & Graphs.md",
     "Cracking the Coding Interview/Strategies & Approaches/3. Stacks & Queues.md",
@@ -188,7 +189,6 @@
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Neetcode150/56. Merge Intervals.md",
-    "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Updates/🗓️ Weekly Progress Template.md",
     "Novice Revision/Revision Questions.md",
