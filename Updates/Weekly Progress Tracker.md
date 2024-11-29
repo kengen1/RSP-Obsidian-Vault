@@ -1,19 +1,42 @@
-## 📅 Date
-**Date:** `{{date:YYYY-MM-DD}}`
+## 📅 Date  
+**Date:** `{{date:MMM-DD - MMM-DD}}`
 
 ---
-## Leetcode 
-insert table with columns date, problem, difficulty, deep-dive
-there should be 10 rows
 
-create a secondary table for complementary problems
+## 👨‍💻Leetcode  
+| **Day**   | **Problem** | **Difficulty** | **Deep-Dive** |
+| --------- | ----------- | -------------- | ------------- |
+| Monday    | Problem 1   | Easy           | ✅ / ❌         |
+| Tuesday   | Problem 2   | Medium         | ✅ / ❌         |
+| Wednesday | Problem 3   | Hard           | ✅ / ❌         |
+| Thursday  | Problem 4   | Medium         | ✅ / ❌         |
+| Friday    | Problem 5   | Easy           | ✅ / ❌         |
+| Saturday  | Problem 6   | Medium         | ✅ / ❌         |
+| Sunday    | Problem 7   | Hard           | ✅ / ❌         |
+| Monday    | Problem 8   | Medium         | ✅ / ❌         |
+| Tuesday   | Problem 9   | Easy           | ✅ / ❌         |
+| Wednesday | Problem 10  | Hard           | ✅ / ❌         |
 
-## Mock Interviews
-insert table with columns date, time , partner, interviewer/interviewee
-there should be 4 rows
+### Complementary Problems  
+| Source    | Problem |
+| --------- | ------- |
+|           |         |
 
-## Theory
-a list for tracking theory study 
+## Mock Interviews  
+| **Day** | **Time** | **Partner** | **Interviewer/Interviewee** |
+| ------- | -------- | ----------- | --------------------------- |
+|         |          |             |                             |
+
+## Theory  
+
+- [ ] 
+
+## Miscellaneous
+
+- [ ] 
 
 ---
-## 📝 To-do List
+
+## 📝 To-do List  
+
+- [ ] 
