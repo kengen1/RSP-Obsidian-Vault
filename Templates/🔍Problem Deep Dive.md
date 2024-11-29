@@ -5,7 +5,7 @@
 - **Difficulty:** `{{difficulty}}`
 - **Tags/Categories:** `{{tags/categories}}`
 
-## ❓ What Didn’t I Understand?
+## 💭What Were My Initial Thoughts?
 
 ```
 
