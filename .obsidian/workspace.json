@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
+                "file": "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "188. Best Time to Buy and Sell Stock IV"
+              "title": "691. Stickers to Spell Word"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Updates/📅 Week 1.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
+    "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
+    "Updates/📅 Week 1.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
@@ -206,7 +207,6 @@
     "Data Structures & Algorithms/Graphs/Union-Find (Disjoint Set).md",
     "Problems/Hackerrank",
     "Data Structures & Algorithms/Sliding Window.md",
-    "Novice Revision/Revision Answers.md",
     "Novice",
     "Problems/LeetCode/Neetcode150",
     "Problems/LeetCode/Week 1"
