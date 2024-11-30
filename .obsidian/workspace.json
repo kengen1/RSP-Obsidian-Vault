@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +186,10 @@
   },
   "active": "05d5c7e2619189ed",
   "lastOpenFiles": [
-    "Updates/📅 Week 1.md",
-    "Todo.md",
-    "Data Structures & Algorithms/x.Todo.md",
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
+    "Todo.md",
+    "Updates/📅 Week 1.md",
+    "Data Structures & Algorithms/x.Todo.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
