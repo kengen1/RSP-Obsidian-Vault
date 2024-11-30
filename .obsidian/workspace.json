@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 1.md",
+                "file": "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 1"
+              "title": "691. Stickers to Spell Word"
             }
           }
         ]
@@ -172,13 +172,13 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
+    "Updates/📅 Week 1.md",
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
-    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
-    "Updates/📅 Week 1.md",
     "Problems/LeetCode/Neetcode150/15. 3Sum.md",
     "Problems/LeetCode/Neetcode150/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Neetcode150/56. Merge Intervals.md",
