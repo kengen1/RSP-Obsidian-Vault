@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
+                "file": "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2555. Maximize Win From Two Segments"
+              "title": "2328. Number of Increasing Paths in a Grid"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
+    "Problems/Problem List.md",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
@@ -181,10 +183,8 @@
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
-    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Templates/🔍Problem Deep Dive.md",
     "Updates/📅 Week 1.md",
-    "Problems/Problem List.md",
     "Templates/🗣 Mock Interview.md",
     "Data Structures & Algorithms/Binary Search.md",
     "Templates/🔋 Progress Tracker.md",
