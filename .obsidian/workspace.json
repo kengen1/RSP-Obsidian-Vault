@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
+                "file": "Templates/🗣 Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2328. Number of Increasing Paths in a Grid"
+              "title": "🗣 Mock Interview"
             }
           }
         ],
@@ -186,9 +186,10 @@
   },
   "active": "05d5c7e2619189ed",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
+    "Templates/🗣 Mock Interview.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
-    "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Problems/Problem List.md",
     "Todo.md",
     "README.md",
@@ -214,7 +215,6 @@
     "Updates/Week 2",
     "Templates",
     "Updates/🗓️ Weekly Progress Template.md",
-    "Novice Revision/Revision Questions.md",
     "Problems",
     "Templates",
     "Updates",
