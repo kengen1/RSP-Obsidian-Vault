@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 1.md",
+                "file": "Data Structures & Algorithms/Sliding Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 1"
+              "title": "Sliding Window"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Updates/📅 Week 2.md",
     "Updates/📅 Week 1.md",
+    "Data Structures & Algorithms/Sliding Window.md",
+    "Updates/📅 Week 2.md",
     "Templates/🔋 Progress Tracker.md",
     "Templates/🔍Problem Deep Dive.md",
     "Templates/🗣 Mock Interview.md",
@@ -199,7 +200,6 @@
     "Data Structures & Algorithms/Binary Search.md",
     "Todo.md",
     "Data Structures & Algorithms/x.Todo.md",
-    "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Updates/Week 2",
     "Templates",
