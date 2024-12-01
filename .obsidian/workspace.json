@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 1.md",
+                "file": "Problems/Problem List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 1"
+              "title": "Problem List"
             }
           }
         ]
@@ -172,21 +172,22 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Templates/🔋 Progress Tracker.md",
+    "Templates/🔍Problem Deep Dive.md",
+    "Templates/🗣 Mock Interview.md",
+    "Updates/📅 Week 1.md",
+    "Updates/📅 Week 2.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Mock Interviews/Week 1/Ian Chen.md",
     "Problems/Problem List.md",
     "Data Structures & Algorithms/Trees/Binary Tree.md",
     "Data Structures & Algorithms/Linked Lists/Doubly Linked List.md",
     "Data Structures & Algorithms/Linked Lists/Circular Linked List.md",
-    "Updates/📅 Week 1.md",
     "README.md",
     "Mock Interviews/Week 1",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
-    "Templates/🗣 Mock Interview.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Mock Interviews",
-    "Templates/🔋 Progress Tracker.md",
-    "Templates/🔍Problem Deep Dive.md",
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
@@ -199,7 +200,6 @@
     "Todo.md",
     "Data Structures & Algorithms/x.Todo.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
-    "Cracking the Coding Interview/Strategies & Approaches/5. Bit Manipulation.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Updates/Week 2",
     "Templates",

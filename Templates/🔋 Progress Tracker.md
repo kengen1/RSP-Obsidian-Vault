@@ -1,6 +1,17 @@
 ## 📅 Week {#}
 **Date:** `{{date:MMM-DD - MMM-DD}}`
 
+| **Day**      | **Hours** |     | **Monday Update** |     |
+| ------------ | --------- | --- | ----------------- | --- |
+| Monday       |           |     | Leetcode:         |     |
+| Tuesday      |           |     | Mock Interviews:  |     |
+| Wednesday    |           |     | Theory:           |     |
+| Thursday     |           |     | Misc:             |     |
+| Friday       |           |     |                   |     |
+| Saturday     |           |     |                   |     |
+| Sunday       |           |     |                   |     |
+| Total Hours: |           |     |                   |     |
+
 ---
 # Weekly Requirements
 ## 👨‍💻Leetcode  
