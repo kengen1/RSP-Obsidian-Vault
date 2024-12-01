@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🗣 Mock Interview.md",
+                "file": "Updates/📅 Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗣 Mock Interview"
+              "title": "📅 Week 1"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Templates/🔍Problem Deep Dive.md",
     "Templates/🗣 Mock Interview.md",
+    "Templates/🔋 Progress Tracker.md",
+    "Templates/🔍Problem Deep Dive.md",
     "Updates/📅 Week 1.md",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
@@ -188,7 +189,6 @@
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Algorithm Design Manual/2. Algorithm Analysis.md",
     "Data Structures & Algorithms/Binary Search.md",
-    "Templates/🔋 Progress Tracker.md",
     "Todo.md",
     "README.md",
     "Data Structures & Algorithms/x.Todo.md",
