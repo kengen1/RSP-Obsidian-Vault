@@ -1,19 +1,10 @@
 ## Behavioural
 
-*Question 1:*  Tell me about yourself
+*Question 1:* 
 
 *Question 2:*
-Walk me through a difficult/complex problem/project you encountered. 
-How did you decide what to do first? What information did you need? 
-What obstacles did you face? 
-Which ones were you able to overcome? 
-Did you have to ask for help?
 
 *Question 3:*  
-Tell me about the most difficult situation you have had when leading a team. 
-What happened and how did you handle it?
-Were you successful?
-What was the most important thing you did?
 
 | **Question #1**                 | ✅/❌ | **Question #2** | ✅/❌ | **Question #3** | ✅/❌ |
 | ------------------------------- | --- | --------------- | --- | --------------- | --- |
