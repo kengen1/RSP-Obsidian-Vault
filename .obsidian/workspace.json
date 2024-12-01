@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/15. 3Sum.md",
+                "file": "Updates/📅 Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. 3Sum"
+              "title": "📅 Week 1"
             }
           }
         ]
@@ -172,15 +172,16 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "README.md",
+    "Mock Interviews/Week 1/Ian Chen.md",
+    "Mock Interviews/Week 1",
+    "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Templates/🗣 Mock Interview.md",
     "Updates/📅 Week 1.md",
-    "Mock Interviews/Ian Chen.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
-    "Mock Interviews/Untitled",
     "Mock Interviews",
     "Templates/🔋 Progress Tracker.md",
     "Templates/🔍Problem Deep Dive.md",
-    "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
     "Problems/Problem List.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
@@ -193,13 +194,11 @@
     "Algorithm Design Manual/2. Algorithm Analysis.md",
     "Data Structures & Algorithms/Binary Search.md",
     "Todo.md",
-    "README.md",
     "Data Structures & Algorithms/x.Todo.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Cracking the Coding Interview/Strategies & Approaches/5. Bit Manipulation.md",
     "Cracking the Coding Interview/Strategies & Approaches/4. Trees & Graphs.md",
     "Cracking the Coding Interview/Strategies & Approaches/3. Stacks & Queues.md",
-    "Cracking the Coding Interview/Strategies & Approaches/2. Linked Lists.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Updates/Week 2",
     "Templates",
