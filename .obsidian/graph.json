@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "tag: #Leetcode  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Theory  ",
+      "query": "tag: #Leetcode",
       "color": {
         "a": 1,
         "rgb": 5404128
@@ -32,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.13204763036973835,
-  "close": true
+  "scale": 0.3691938517085503,
+  "close": false
 }
