@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/56. Merge Intervals.md",
+                "file": "Templates/🗣 Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56. Merge Intervals"
+              "title": "🗣 Mock Interview"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Updates/📅 Week 1.md",
+    "Templates/🗣 Mock Interview.md",
+    "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
     "Problems/Problem List.md",
-    "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
@@ -183,8 +185,6 @@
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
-    "Templates/🗣 Mock Interview.md",
-    "Updates/📅 Week 1.md",
     "Algorithm Design Manual/2. Algorithm Analysis.md",
     "Templates/🔍Problem Deep Dive.md",
     "Data Structures & Algorithms/Binary Search.md",

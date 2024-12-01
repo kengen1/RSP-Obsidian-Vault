@@ -1,11 +1,28 @@
 ## Behavioural
 
-**Question #1**:
+| **Question #1** | ✅/❌ |
+| --------------- | --- |
+| Situation       |     |
+| Task            |     |
+| Action          |     |
+| Result          |     |
+| *Notes*         |     |
 
-**Question #2**:
+| **Question #2** | ✅/❌ |
+| --------------- | --- |
+| Situation       |     |
+| Task            |     |
+| Action          |     |
+| Result          |     |
+| *Notes*         |     |
 
-**Question #3**;
-
+| **Question #3** | ✅/❌ |
+| --------------- | --- |
+| Situation       |     |
+| Task            |     |
+| Action          |     |
+| Result          |     |
+| *Notes*         |     |
 
 ---
 ## Leetcode Easy
