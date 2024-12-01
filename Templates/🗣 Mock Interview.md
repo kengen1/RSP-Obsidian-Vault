@@ -1,22 +1,35 @@
 ## Behavioural
 
-*Question 1:* 
+*Question 1:*  Tell me about yourself
 
 *Question 2:*
+Walk me through a difficult/complex problem/project you encountered. 
+How did you decide what to do first? What information did you need? 
+What obstacles did you face? 
+Which ones were you able to overcome? 
+Did you have to ask for help?
 
-*Question 3:*
+*Question 3:*  
+Tell me about the most difficult situation you have had when leading a team. 
+What happened and how did you handle it?
+Were you successful?
+What was the most important thing you did?
 
-| **Question #1** | ✅/❌ | **Question #2** | ✅/❌ | **Question #3** | ✅/❌ |
-| --------------- | --- | --------------- | --- | --------------- | --- |
-| Situation       |     | Situation       |     | Situation       |     |
-| Task            |     | Task            |     | Task            |     |
-| Action          |     | Action          |     | Action          |     |
-| Result          |     | Result          |     | Result          |     |
-| *Notes:*        |     | *Notes:*        |     | *Notes:*        |     |
+| **Question #1**                 | ✅/❌ | **Question #2** | ✅/❌ | **Question #3** | ✅/❌ |
+| ------------------------------- | --- | --------------- | --- | --------------- | --- |
+| Uni / Extracurricular           |     | Situation       |     | Situation       |     |
+| Projects                        |     | Task            |     | Task            |     |
+| What are you currently learning |     | Action          |     | Action          |     |
+| Work Experience                 |     | Result          |     | Result          |     |
+| Stuttering                      |     | Stuttering      |     | Stuttering      |     |
+| *Notes:*                        |     | *Notes:*        |     | *Notes:*        |     |
 
 
 ---
 ## Leetcode Easy
+
+- **Title:** `{{problem_title}}`
+- **Link:** 
 
 | Confirming Question      | ✅/❌ |
 | ------------------------ | --- |
@@ -26,13 +39,14 @@
 | Input sizes              |     |
 | *Score:*                 |     |
 
-| Algorithm Design                     | ✅/❌ |
-| ------------------------------------ | --- |
-| Was the solution optimal             |     |
-| How quickly did they come up with it |     |
-| Pseudocode                           |     |
-| Did they randomly go silent          |     |
-| *Score:*                             |     |
+| Algorithm Design                       | ✅/❌ |
+| -------------------------------------- | --- |
+| Was the solution optimal               |     |
+| Time appropriate                       |     |
+| Did they clearly explain the algorithm |     |
+| Pseudocode                             |     |
+| Did they randomly go silent            |     |
+| *Score:*                               |     |
 
 | Complexity Analysis               | ✅/❌ |
 | --------------------------------- | --- |
@@ -46,8 +60,10 @@
 | ------------------------------------------- | --- |
 | Did they write the main steps before coding |     |
 | Each line explained verbally before writing |     |
+| Where they any glaring errors               |     |
 | Did they randomly go silent                 |     |
 | Did they take a long time                   |     |
+| Knowledge of language                       |     |
 | *Score:*                                    |     |
 
 | Testing                                | ✅/❌ |
@@ -64,6 +80,8 @@ Notes:
 ---
 ## Leetcode Medium
 
+- **Title:** `{{problem_title}}`
+- **Link:** 
 
 | Confirming Question      | ✅/❌ |
 | ------------------------ | --- |
@@ -73,13 +91,14 @@ Notes:
 | Input sizes              |     |
 | *Score:*                 |     |
 
-| Algorithm Design                     | ✅/❌ |
-| ------------------------------------ | --- |
-| Was the solution optimal             |     |
-| How quickly did they come up with it |     |
-| Pseudocode                           |     |
-| Did they randomly go silent          |     |
-| *Score:*                             |     |
+| Algorithm Design                       | ✅/❌ |
+| -------------------------------------- | --- |
+| Was the solution optimal               |     |
+| Time appropriate                       |     |
+| Did they clearly explain the algorithm |     |
+| Pseudocode                             |     |
+| Did they randomly go silent            |     |
+| *Score:*                               |     |
 
 | Complexity Analysis               | ✅/❌ |
 | --------------------------------- | --- |
@@ -93,8 +112,10 @@ Notes:
 | ------------------------------------------- | --- |
 | Did they write the main steps before coding |     |
 | Each line explained verbally before writing |     |
+| Where they any glaring errors               |     |
 | Did they randomly go silent                 |     |
 | Did they take a long time                   |     |
+| Knowledge of language                       |     |
 | *Score:*                                    |     |
 
 | Testing                                | ✅/❌ |
