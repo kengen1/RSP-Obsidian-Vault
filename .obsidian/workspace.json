@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/Ian Chen.md",
+                "file": "Problems/LeetCode/Week 1/15. 3Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ian Chen"
+              "title": "15. 3Sum"
             }
           }
         ]
@@ -172,10 +172,10 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Updates/📅 Week 1.md",
-    "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
-    "Mock Interviews/Ian Chen.md",
     "Templates/🗣 Mock Interview.md",
+    "Updates/📅 Week 1.md",
+    "Mock Interviews/Ian Chen.md",
+    "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Mock Interviews/Untitled",
     "Mock Interviews",
     "Templates/🔋 Progress Tracker.md",
