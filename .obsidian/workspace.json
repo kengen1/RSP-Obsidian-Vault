@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/Week 1/Ian Chen.md",
+                "file": "Updates/📅 Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ian Chen"
+              "title": "📅 Week 1"
             }
           }
         ]
@@ -172,11 +172,12 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Mock Interviews/Week 1/Ian Chen.md",
     "Problems/Problem List.md",
     "Data Structures & Algorithms/Trees/Binary Tree.md",
     "Data Structures & Algorithms/Linked Lists/Doubly Linked List.md",
     "Data Structures & Algorithms/Linked Lists/Circular Linked List.md",
-    "Mock Interviews/Week 1/Ian Chen.md",
     "Updates/📅 Week 1.md",
     "README.md",
     "Mock Interviews/Week 1",
@@ -193,7 +194,6 @@
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
-    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Algorithm Design Manual/2. Algorithm Analysis.md",
     "Data Structures & Algorithms/Binary Search.md",
     "Todo.md",
