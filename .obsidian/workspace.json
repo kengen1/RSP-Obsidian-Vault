@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
+                "file": "Problems/LeetCode/Week 1/15. 3Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "691. Stickers to Spell Word"
+              "title": "15. 3Sum"
             }
           }
         ]
@@ -172,20 +172,21 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
-    "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
-    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
+    "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
-    "Problems/Problem List.md",
-    "Problems/LeetCode/Week 1/15. 3Sum.md",
-    "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
-    "Templates/🔍Problem Deep Dive.md",
-    "Updates/📅 Week 1.md",
+    "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
+    "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
+    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Templates/🗣 Mock Interview.md",
+    "Updates/📅 Week 1.md",
+    "Algorithm Design Manual/2. Algorithm Analysis.md",
+    "Problems/Problem List.md",
+    "Templates/🔍Problem Deep Dive.md",
     "Data Structures & Algorithms/Binary Search.md",
     "Templates/🔋 Progress Tracker.md",
     "Todo.md",
@@ -198,7 +199,6 @@
     "Cracking the Coding Interview/Strategies & Approaches/2. Linked Lists.md",
     "Cracking the Coding Interview/Strategies & Approaches/1. Arrays & Strings.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
-    "Templates/To-Do List.md",
     "Updates/Week 2",
     "Templates",
     "Problems",
