@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🗣 Mock Interview.md",
+                "file": "Updates/📅 Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗣 Mock Interview"
+              "title": "📅 Week 1"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Updates/📅 Week 1.md",
     "Templates/🗣 Mock Interview.md",
+    "Updates/📅 Week 1.md",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
