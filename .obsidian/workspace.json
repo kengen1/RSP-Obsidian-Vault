@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/Week 1/Quinn Hindmarsh.md",
+                "file": "Updates/📅 Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quinn Hindmarsh"
+              "title": "📅 Week 2"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Mock Interviews/Week 1/Ian Chen.md",
     "Mock Interviews/Week 1/Quinn Hindmarsh.md",
+    "Mock Interviews/Week 1/Ian Chen.md",
     "Updates/📅 Week 2.md",
     "Templates/🗣 Mock Interview.md",
     "Data Structures & Algorithms/Sliding Window.md",
