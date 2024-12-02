@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/1961. Check If String Is a Prefix of Array.md",
+                "file": "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1961. Check If String Is a Prefix of Array"
+              "title": "1652. Defuse the Bomb"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Data Structures & Algorithms/Two Pointers.md",
     "Problems/LeetCode/Week 2/1961. Check If String Is a Prefix of Array.md",
+    "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
+    "Data Structures & Algorithms/Two Pointers.md",
     "Data Structures & Algorithms/Sliding Window.md",
     "Data Structures & Algorithms/Vector Amortized Time.md",
     "Data Structures & Algorithms/Bit Manipulation.md",
@@ -202,7 +203,6 @@
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
-    "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Updates/Week 2",
     "Templates",
