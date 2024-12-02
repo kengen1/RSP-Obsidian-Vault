@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algorithms/Sliding Window.md",
+                "file": "Data Structures & Algorithms/Bit Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "Bit Manipulation"
             }
           },
           {
@@ -184,15 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86973e501214562e",
+  "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Data Structures & Algorithms/Quick Select.md",
+    "Data Structures & Algorithms/Sliding Window.md",
+    "Data Structures & Algorithms/Two Pointers.md",
+    "Data Structures & Algorithms/Vector Amortized Time.md",
     "Problems/LeetCode/Untitled",
     "Templates/🗣 Mock Interview.md",
     "Updates/📅 Week 2.md",
     "Problems/LeetCode/Week 2",
     "Mock Interviews/Week 1/Quinn Hindmarsh.md",
     "Mock Interviews/Week 1/Ian Chen.md",
-    "Data Structures & Algorithms/Sliding Window.md",
     "Updates/📅 Week 1.md",
     "Templates/🔋 Progress Tracker.md",
     "Templates/🔍Problem Deep Dive.md",
@@ -213,8 +216,6 @@
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
-    "Algorithm Design Manual/2. Algorithm Analysis.md",
-    "Data Structures & Algorithms/Binary Search.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Updates/Week 2",
     "Templates",
@@ -222,7 +223,6 @@
     "Templates",
     "Updates",
     "Daily Notes",
-    "Untitled.canvas",
-    "Problems/Hackerrank"
+    "Untitled.canvas"
   ]
 }

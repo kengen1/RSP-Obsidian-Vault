@@ -1,0 +1,2 @@
+- extends the two-pointer approach by employing a pair of pointers to establish a dynamic "window"
+- useful in problems that require determining the maximum or minimum subrange meet
