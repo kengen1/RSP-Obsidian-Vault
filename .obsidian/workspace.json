@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🗣 Mock Interview.md",
+                "file": "Data Structures & Algorithms/Sliding Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗣 Mock Interview"
+              "title": "Sliding Window"
             }
           },
           {
@@ -184,10 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d09f974491c6a1af",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
-    "Updates/📅 Week 2.md",
+    "Problems/LeetCode/Untitled",
     "Templates/🗣 Mock Interview.md",
+    "Updates/📅 Week 2.md",
     "Problems/LeetCode/Week 2",
     "Mock Interviews/Week 1/Quinn Hindmarsh.md",
     "Mock Interviews/Week 1/Ian Chen.md",
