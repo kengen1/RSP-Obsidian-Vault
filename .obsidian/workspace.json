@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algorithms/Sliding Window.md",
+                "file": "Data Structures & Algorithms/Two Pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "Two Pointers"
             }
           }
         ],
@@ -187,11 +187,11 @@
   },
   "active": "1415b23ef24fa50f",
   "lastOpenFiles": [
+    "Data Structures & Algorithms/Sliding Window.md",
     "Pasted image 20241202213436.png",
     "Updates/📅 Week 2.md",
     "Data Structures & Algorithms/Bit Manipulation.md",
     "Data Structures & Algorithms/Quick Select.md",
-    "Data Structures & Algorithms/Sliding Window.md",
     "Data Structures & Algorithms/Two Pointers.md",
     "Data Structures & Algorithms/Vector Amortized Time.md",
     "Problems/LeetCode/Untitled",
