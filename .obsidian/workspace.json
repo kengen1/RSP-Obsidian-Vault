@@ -11,12 +11,14 @@
             "id": "d09f974491c6a1af",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/Tldraw 2024-12-03 9.32PM.md"
+                "file": "Problems/LeetCode/Week 2/1961. Check If String Is a Prefix of Array.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-12-03 9.32PM"
+              "title": "1961. Check If String Is a Prefix of Array"
             }
           }
         ]
@@ -171,14 +173,19 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Problems/LeetCode/Week 2/Tldraw 2024-12-03 9.32PM.md",
-    "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
     "Problems/LeetCode/Week 2/1961. Check If String Is a Prefix of Array.md",
+    "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
+    "Problems/LeetCode/Week 1/15. 3Sum.md",
+    "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
+    "Problems/LeetCode/Week 1/56. Merge Intervals.md",
+    "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
+    "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
-    "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
-    "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
+    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
+    "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
     "Updates/📅 Week 2.md",
     "Problems/LeetCode/Week 2/Tldraw 2024-12-03 8.43PM.md",
     "Data Structures & Algorithms/Sliding Window.md",
@@ -195,11 +202,6 @@
     "Mock Interviews/Week 1/Ian Chen.md",
     "Templates/🔋 Progress Tracker.md",
     "Templates/🔍Problem Deep Dive.md",
-    "Problems/Problem List.md",
-    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
-    "Data Structures & Algorithms/Trees/Binary Tree.md",
-    "Data Structures & Algorithms/Linked Lists/Doubly Linked List.md",
-    "Data Structures & Algorithms/Linked Lists/Circular Linked List.md",
     "Mock Interviews/Week 1",
     "Mock Interviews",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
