@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algorithms/Dynamic Programming/Memoization.md",
+                "file": "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoization"
+              "title": "Memoization (Top-Down Approach)"
             }
           }
         ]
@@ -173,8 +173,11 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Data Structures & Algorithms/Dynamic Programming/State Transition.md",
+    "Data Structures & Algorithms/Dynamic Programming/State Definition.md",
+    "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
+    "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
-    "Data Structures & Algorithms/Dynamic Programming/Memoization.md",
     "Data Structures & Algorithms/Dynamic Programming",
     "Updates/📅 Week 2.md",
     "Novice Revision/Novice Todo List.md",
@@ -198,9 +201,6 @@
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
-    "Problems/LeetCode/Week 2/Tldraw 2024-12-03 9.32PM.md",
-    "Problems/LeetCode/Week 2/Tldraw 2024-12-03 8.43PM.md",
-    "Data Structures & Algorithms/Sliding Window.md",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
     "Problems/LeetCode/Week 2",
