@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algorithms/Dynamic Programming/States.md",
+                "file": "Mock Interviews/Keegan Hidson 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "States"
+              "title": "Keegan Hidson 1"
             }
           }
         ]
@@ -173,10 +173,13 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Data Structures & Algorithms/Dynamic Programming/State Definition.md",
-    "Data Structures & Algorithms/Dynamic Programming/States.md",
-    "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
+    "Mock Interviews/Ian Chen 1.md",
+    "Mock Interviews/Keegan Hidson 1.md",
+    "Mock Interviews/Quinn Hindmarsh 1.md",
     "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
+    "Data Structures & Algorithms/Dynamic Programming/States.md",
+    "Data Structures & Algorithms/Dynamic Programming/State Definition.md",
+    "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
     "Data Structures & Algorithms/Dynamic Programming/State Transition.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Data Structures & Algorithms/Dynamic Programming",
@@ -186,9 +189,7 @@
     "Problems/LeetCode/Week 2/Untitled.md",
     "Templates/🗣 Mock Interview.md",
     "Templates/🔍Problem Deep Dive.md",
-    "Mock Interviews/Quinn Hindmarsh 1.md",
     "Problems/Mock Revision",
-    "Mock Interviews/Ian Chen 1.md",
     "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
     "Problems/LeetCode/Week 2/1961. Check If String Is a Prefix of Array.md",
     "Problems/Problem List.md",
@@ -200,7 +201,6 @@
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
-    "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
     "Problems/LeetCode/Week 2",
