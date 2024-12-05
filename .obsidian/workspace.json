@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/Keegan Hidson 1.md",
+                "file": "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keegan Hidson 1"
+              "title": "Memoization (Top-Down Approach)"
             }
           }
         ]
@@ -173,11 +173,12 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Data Structures & Algorithms/Dynamic Programming/States.md",
+    "Mock Interviews/Keegan/Keegan Hidson 1.md",
+    "Mock Interviews/Keegan",
     "Mock Interviews/Ian Chen 1.md",
-    "Mock Interviews/Keegan Hidson 1.md",
     "Mock Interviews/Quinn Hindmarsh 1.md",
     "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
-    "Data Structures & Algorithms/Dynamic Programming/States.md",
     "Data Structures & Algorithms/Dynamic Programming/State Definition.md",
     "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
     "Data Structures & Algorithms/Dynamic Programming/State Transition.md",
@@ -200,7 +201,6 @@
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
-    "Problems/LeetCode/Week 1/56. Merge Intervals.md",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
     "Problems/LeetCode/Week 2",
@@ -210,7 +210,6 @@
     "Updates/Week 2",
     "Templates",
     "Problems",
-    "Templates",
     "Untitled.canvas"
   ]
 }
