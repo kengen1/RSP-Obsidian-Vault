@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 2.md",
+                "file": "Problems/LeetCode/Week 2/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 2"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,6 +173,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Updates/📅 Week 2.md",
+    "Problems/LeetCode/Week 2/Untitled.md",
+    "README.md",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
     "Mock Interviews/Samuel Sadek 1.md",
     "Mock Interviews/Quinn Hindmarsh 1.md",
@@ -185,10 +188,8 @@
     "Data Structures & Algorithms/Dynamic Programming/State Transition.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Data Structures & Algorithms/Dynamic Programming",
-    "Updates/📅 Week 2.md",
     "Novice Revision/Novice Todo List.md",
     "Problems/LeetCode/Week 2/Tldraw 2024-12-03 10.51PM.md",
-    "Problems/LeetCode/Week 2/Untitled.md",
     "Templates/🗣 Mock Interview.md",
     "Templates/🔍Problem Deep Dive.md",
     "Problems/Mock Revision",
@@ -201,7 +202,6 @@
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
     "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
-    "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
     "Problems/LeetCode/Week 2",
