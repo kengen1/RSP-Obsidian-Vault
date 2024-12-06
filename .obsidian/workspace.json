@@ -11,14 +11,12 @@
             "id": "d09f974491c6a1af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/LeetCode/Week 2/3342. Find Minimum Time to Reach Last Room II.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/LeetCode/Week 2/Tldraw 2024-12-06 5.54PM.md"
               },
               "icon": "lucide-file",
-              "title": "3342. Find Minimum Time to Reach Last Room II"
+              "title": "Tldraw 2024-12-06 5.54PM"
             }
           }
         ]
@@ -173,10 +171,12 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 2/Untitled.md",
+    "Problems/LeetCode/Week 2/Tldraw 2024-12-06 5.54PM.md",
+    "Problems/LeetCode/Week 2/3342. Find Minimum Time to Reach Last Room II.md",
     "Problems/LeetCode/Week 2/438. Find All Anagrams in a String.md",
     "Problems/LeetCode/Week 2/1961. Check If String Is a Prefix of Array.md",
     "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
-    "Problems/LeetCode/Week 2/3342. Find Minimum Time to Reach Last Room II.md",
     "Updates/📅 Week 2.md",
     "Data Structures & Algorithms/Sliding Window.md",
     "README.md",
@@ -200,8 +200,6 @@
     "Problems/Problem List.md",
     "Problems/LeetCode/Neetcode150/Untitled.md",
     "Problems/LeetCode/Week 1/2555. Maximize Win From Two Segments.md",
-    "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
-    "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
     "Problems/LeetCode/Week 2",
