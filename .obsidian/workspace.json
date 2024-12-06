@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/Untitled.md",
+                "file": "Problems/LeetCode/Week 2/438. Find All Anagrams in a String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "438. Find All Anagrams in a String"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Data Structures & Algorithms/Sliding Window.md",
+    "Problems/LeetCode/Week 2/438. Find All Anagrams in a String.md",
     "Updates/📅 Week 2.md",
-    "Problems/LeetCode/Week 2/Untitled.md",
     "README.md",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
     "Mock Interviews/Samuel Sadek 1.md",
@@ -201,7 +202,6 @@
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Problems/LeetCode/Week 1/1323. Maximum 69 Number.md",
     "Problems/LeetCode/Week 1/1309. Decrypt String from Alphabet to Integer Mapping.md",
-    "Problems/LeetCode/Week 1/691. Stickers to Spell Word.md",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
     "Problems/LeetCode/Week 2",
