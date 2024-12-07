@@ -11,10 +11,12 @@
             "id": "d09f974491c6a1af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "tldraw-view",
+              "state": {
+                "file": "Problems/LeetCode/Week 2/Tldraw 2024-12-07 10.00PM.md"
+              },
+              "icon": "lucide-file",
+              "title": "Tldraw 2024-12-07 10.00PM"
             }
           }
         ]
@@ -169,6 +171,8 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
+    "Problems/LeetCode/Week 2/Tldraw 2024-12-07 10.00PM.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Data Structures & Algorithms/Trees/Binary Tree.md",
     "Updates/Tldraw 2024-12-06 10.56PM.md",
@@ -195,8 +199,6 @@
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Data Structures & Algorithms/Dynamic Programming",
     "Novice Revision/Novice Todo List.md",
-    "Problems/LeetCode/Week 2/Tldraw 2024-12-03 10.51PM.md",
-    "Templates/🗣 Mock Interview.md",
     "Problems/Mock Revision",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
