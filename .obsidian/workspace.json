@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/1220. Split Linked List in Parts.md",
+                "file": "Problems/LeetCode/Week 2/1220. Count Vowels Permutation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1220. Split Linked List in Parts"
+              "title": "1220. Count Vowels Permutation"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 2/725. Split Linked List in Parts.md",
+    "Problems/LeetCode/Week 2/1220. Count Vowels Permutation.md",
     "Updates/Tldraw 2024-12-06 10.56PM.md",
-    "Problems/LeetCode/Week 2/1220. Split Linked List in Parts.md",
     "Updates/📅 Week 2.md",
     "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 2/3342. Find Minimum Time to Reach Last Room II.md",
@@ -199,7 +200,6 @@
     "Data Structures & Algorithms/Dynamic Programming/State Definition.md",
     "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
     "Data Structures & Algorithms/Dynamic Programming/State Transition.md",
-    "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Data Structures & Algorithms/Dynamic Programming",
     "Problems/Mock Revision",
     "Pasted image 20241202213436.png",
