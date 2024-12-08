@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
+                "file": "Updates/📅 Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Add Two Numbers"
+              "title": "📅 Week 2"
             }
           }
         ]
@@ -173,11 +173,11 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 2/3342. Find Minimum Time to Reach Last Room II.md",
     "Problems/LeetCode/Week 2/1961. Check If String Is a Prefix of Array.md",
     "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
     "Problems/LeetCode/Week 2/438. Find All Anagrams in a String.md",
-    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 2/623. Add One Row to Tree.md",
     "Updates/📅 Week 2.md",
     "Problems/LeetCode/Week 2/Untitled.md",
