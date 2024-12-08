@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
+                "file": "Updates/📅 Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Add Two Numbers"
+              "title": "📅 Week 2"
             }
           }
         ]
@@ -173,9 +173,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 2/Untitled.md",
     "Problems/LeetCode/Week 2/Tldraw 2024-12-07 10.00PM.md",
-    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Data Structures & Algorithms/Trees/Binary Tree.md",
     "Updates/Tldraw 2024-12-06 10.56PM.md",
