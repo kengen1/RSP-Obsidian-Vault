@@ -11,12 +11,14 @@
             "id": "d09f974491c6a1af",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/Tldraw 2024-12-07 10.00PM.md"
+                "file": "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-12-07 10.00PM"
+              "title": "2. Add Two Numbers"
             }
           }
         ]
@@ -171,8 +173,9 @@
   },
   "active": "d09f974491c6a1af",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
+    "Problems/LeetCode/Week 2/Untitled.md",
     "Problems/LeetCode/Week 2/Tldraw 2024-12-07 10.00PM.md",
+    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Data Structures & Algorithms/Trees/Binary Tree.md",
     "Updates/Tldraw 2024-12-06 10.56PM.md",
@@ -198,7 +201,6 @@
     "Data Structures & Algorithms/Dynamic Programming/State Transition.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
     "Data Structures & Algorithms/Dynamic Programming",
-    "Novice Revision/Novice Todo List.md",
     "Problems/Mock Revision",
     "Pasted image 20241202213436.png",
     "Problems/LeetCode/Untitled",
