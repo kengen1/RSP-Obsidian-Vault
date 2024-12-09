@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Memoization",
+                "query": "hash table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "309c51a99ea5dc86",
+  "active": "0e7859177975f4ac",
   "lastOpenFiles": [
     "Updates/📅 Week 3.md",
     "Updates/📅 Week 1.md",
