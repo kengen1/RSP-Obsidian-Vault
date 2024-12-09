@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 2/1349. Maximum Students Taking Exam.md",
+                "file": "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1349. Maximum Students Taking Exam"
+              "title": "Memoization (Top-Down Approach)"
             }
           }
         ]
@@ -171,16 +171,19 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "309c51a99ea5dc86",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
+    "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
+    "Data Structures & Algorithms/Dynamic Programming/States.md",
+    "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
+    "Updates/📅 Week 3.md",
+    "Updates/📅 Week 2.md",
+    "Updates/📅 Week 1.md",
+    "Problems/LeetCode/Week 2/1349. Maximum Students Taking Exam.md",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
     "Problems/LeetCode/Week 1/188. Best Time to Buy and Sell Stock IV.md",
-    "Problems/LeetCode/Week 2/1349. Maximum Students Taking Exam.md",
     "Problems/LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Problems/LeetCode/Week 2/1547. Minimum Cost to Cut a Stick.md",
-    "Updates/📅 Week 3.md",
-    "Updates/📅 Week 1.md",
-    "Updates/📅 Week 2.md",
     "Templates/🗣 Mock Interview.md",
     "Problems/LeetCode/Week 2/3342. Find Minimum Time to Reach Last Room II.md",
     "Problems/LeetCode/Week 2/1220. Count Vowels Permutation.md",
@@ -196,9 +199,6 @@
     "Problems/LeetCode/Week 2/438. Find All Anagrams in a String.md",
     "Problems/LeetCode/Week 2/623. Add One Row to Tree.md",
     "Problems/LeetCode/Week 2/Tldraw 2024-12-07 10.00PM.md",
-    "Data Structures & Algorithms/Trees/Tree Traversal.md",
-    "Data Structures & Algorithms/Trees/Binary Tree.md",
-    "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
     "Problems/Mock Revision",
