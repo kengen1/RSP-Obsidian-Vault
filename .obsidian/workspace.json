@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,7 +171,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "0e7859177975f4ac",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
     "Updates/📅 Week 3.md",
     "Updates/📅 Week 1.md",
