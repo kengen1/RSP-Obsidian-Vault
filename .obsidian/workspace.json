@@ -25,12 +25,14 @@
             "id": "89a557b5ac2804aa",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 3/Tldraw 2024-12-11 10.46PM.md"
+                "file": "Updates/📅 Week 3.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-12-11 10.46PM"
+              "title": "📅 Week 3"
             }
           }
         ],
@@ -186,8 +188,8 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
-    "Updates/📅 Week 3.md",
     "Problems/LeetCode/Week 3/Tldraw 2024-12-11 10.46PM.md",
+    "Updates/📅 Week 3.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
     "Problems/LeetCode/Week 2/1652. Defuse the Bomb.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
