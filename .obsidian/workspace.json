@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/Ian Chen 1.md",
+                "file": "Mock Interviews/Harry Oates 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ian Chen 1"
+              "title": "Harry Oates 1"
             }
           }
         ],
@@ -188,6 +188,7 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
+    "Mock Interviews/Ian Chen 1.md",
     "Mock Interviews/Harry Oates 1.md",
     "Mock Interviews/Aiken Lee 1.md",
     "Updates/📅 Week 3.md",
@@ -214,7 +215,6 @@
     "Templates/🔍Problem Deep Dive.md",
     "Templates/🔋 Progress Tracker.md",
     "Data Structures & Algorithms/Dynamic Programming/States.md",
-    "Updates/📅 Week 2.md",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
     "Problems/Mock Revision",
