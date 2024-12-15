@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/Untitled.md",
+                "file": "Updates/📅 Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "📅 Week 4"
             }
           }
         ]
@@ -173,9 +173,11 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
-    "Updates/Tldraw 2024-12-14 2.13PM.md",
+    "Updates/📅 Week 1.md",
+    "Updates/📅 Week 2.md",
     "Updates/📅 Week 3.md",
-    "Updates/Untitled.md",
+    "Updates/📅 Week 4.md",
+    "Updates/Tldraw 2024-12-14 2.13PM.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
@@ -197,8 +199,6 @@
     "Problems/LeetCode/Week 2/623. Add One Row to Tree.md",
     "Problems/LeetCode/Week 2/438. Find All Anagrams in a String.md",
     "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
-    "Problems/LeetCode/Week 3/1984. Minimum Difference Between Highest and Lowest of K Scores.md",
-    "Problems/LeetCode/Week 3/Tldraw 2024-12-11 10.46PM.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
