@@ -11,12 +11,14 @@
             "id": "89a557b5ac2804aa",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Updates/Tldraw 2024-12-14 2.13PM.md"
+                "file": "Updates/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-12-14 2.13PM"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,8 +173,9 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
-    "Updates/📅 Week 3.md",
     "Updates/Tldraw 2024-12-14 2.13PM.md",
+    "Updates/📅 Week 3.md",
+    "Updates/Untitled.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
@@ -196,7 +199,6 @@
     "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 3/1984. Minimum Difference Between Highest and Lowest of K Scores.md",
     "Problems/LeetCode/Week 3/Tldraw 2024-12-11 10.46PM.md",
-    "Mock Interviews/Harry Oates 1.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
