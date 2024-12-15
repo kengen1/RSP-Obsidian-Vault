@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 4.md",
+                "file": "Updates/📅 Week 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 4"
+              "title": "📅 Week 3"
             }
           }
         ]
@@ -173,11 +173,11 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
+    "Updates/📅 Week 4.md",
+    "Updates/Tldraw 2024-12-14 2.13PM.md",
     "Updates/📅 Week 1.md",
     "Updates/📅 Week 2.md",
     "Updates/📅 Week 3.md",
-    "Updates/📅 Week 4.md",
-    "Updates/Tldraw 2024-12-14 2.13PM.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
     "Problems/LeetCode/Week 1/2328. Number of Increasing Paths in a Grid.md",
