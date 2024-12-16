@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 3.md",
+                "file": "Updates/📅 Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 3"
+              "title": "📅 Week 4"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
+    "Updates/📅 Week 3.md",
     "Problems/LeetCode/Week 3/1172. Dinner Plate Stacks.md",
     "Problems/LeetCode/Week 3/679. 24 Game.md",
     "Problems/LeetCode/Week 3/778. Swim in Rising Water.md",
-    "Updates/📅 Week 3.md",
     "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
