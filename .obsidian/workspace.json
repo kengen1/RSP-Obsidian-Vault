@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 3.md",
+                "file": "Problems/LeetCode/Week 3/54. Spiral Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 3"
+              "title": "54. Spiral Matrix"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
+    "Updates/📅 Week 3.md",
     "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 3/54. Spiral Matrix.md",
     "Problems/LeetCode/Week 3/18. 4Sum.md",
@@ -181,7 +182,6 @@
     "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 3/1172. Dinner Plate Stacks.md",
     "Problems/LeetCode/Week 3/679. 24 Game.md",
-    "Updates/📅 Week 3.md",
     "Updates/Tldraw 2024-12-14 2.13PM.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
