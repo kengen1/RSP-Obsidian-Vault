@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
+                "file": "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1457. Pseudo-Palindromic Paths in a Binary Tree"
+              "title": "1981. Minimize the Difference Between Target and Chosen Elements"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 3/54. Spiral Matrix.md",
     "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
+    "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
+    "Problems/LeetCode/Week 3/54. Spiral Matrix.md",
     "Updates/📅 Week 4.md",
     "Updates/📅 Week 3.md",
     "Problems/LeetCode/Week 3/18. 4Sum.md",
@@ -198,7 +199,6 @@
     "Problems/LeetCode/Week 1/56. Merge Intervals.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
-    "Problems/LeetCode/Week 2/3342. Find Minimum Time to Reach Last Room II.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
