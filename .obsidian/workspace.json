@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 3/679. 24 Game.md",
+                "file": "Updates/📅 Week 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "679. 24 Game"
+              "title": "📅 Week 3"
             }
           }
         ]
@@ -173,13 +173,14 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 3/778. Swim in Rising Water.md",
+    "Problems/LeetCode/Week 3/1172. Dinner Plate Stacks.md",
     "Problems/LeetCode/Week 3/679. 24 Game.md",
+    "Problems/LeetCode/Week 3/778. Swim in Rising Water.md",
+    "Updates/📅 Week 3.md",
+    "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
     "Problems/LeetCode/Week 3/1984. Minimum Difference Between Highest and Lowest of K Scores.md",
-    "Updates/📅 Week 4.md",
-    "Updates/📅 Week 3.md",
     "Updates/Tldraw 2024-12-14 2.13PM.md",
     "Updates/📅 Week 1.md",
     "Updates/📅 Week 2.md",
@@ -198,7 +199,6 @@
     "Problems/LeetCode/Week 2/1547. Minimum Cost to Cut a Stick.md",
     "Problems/LeetCode/Week 2/1349. Maximum Students Taking Exam.md",
     "Problems/LeetCode/Week 2/1220. Count Vowels Permutation.md",
-    "Problems/LeetCode/Week 2/725. Split Linked List in Parts.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
