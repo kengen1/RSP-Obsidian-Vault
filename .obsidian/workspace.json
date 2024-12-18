@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 4/507. Perfect Number.md",
+                "file": "Updates/📅 Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "507. Perfect Number"
+              "title": "📅 Week 4"
             }
           }
         ]
@@ -173,9 +173,9 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 4/507. Perfect Number.md",
     "Updates/📅 Week 4.md",
     "Updates/Tldraw 2024-12-18 9.40PM.md",
-    "Problems/LeetCode/Week 4/507. Perfect Number.md",
     "Problems/LeetCode/Week 4/448. Find all Numbers Disappeared in an Array.md",
     "Problems/LeetCode/Week 4/989. Add to Array-Form of Integer.md",
     "Problems/LeetCode/Week 4",
