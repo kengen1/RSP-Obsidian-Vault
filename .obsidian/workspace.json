@@ -11,14 +11,12 @@
             "id": "89a557b5ac2804aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/LeetCode/Week 4/71. Simplify Path.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md"
               },
               "icon": "lucide-file",
-              "title": "71. Simplify Path"
+              "title": "Tldraw 2024-12-20 3.27PM"
             }
           }
         ]
@@ -173,10 +171,13 @@
   },
   "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 4/65. Unique Paths II.md",
-    "Problems/LeetCode/Week 4/71. Simplify Path.md",
-    "Updates/📅 Week 4.md",
+    "Templates/🔋 Progress Tracker.md",
+    "Templates/🔍Problem Deep Dive.md",
     "Templates/🗣 Mock Interview.md",
+    "Updates/📅 Week 1.md",
+    "Problems/LeetCode/Week 4/71. Simplify Path.md",
+    "Problems/LeetCode/Week 4/65. Unique Paths II.md",
+    "Updates/📅 Week 4.md",
     "Mock Interviews/Ragav Srinivasan 1.md",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
     "Mock Interviews/Nathan Dang-Huynh 1.md",
@@ -185,7 +186,6 @@
     "Updates/📅 Week 5 (Break).md",
     "Updates/📅 Week 3.md",
     "Updates/📅 Week 2.md",
-    "Updates/📅 Week 1.md",
     "Problems/LeetCode/Week 4/989. Add to Array-Form of Integer.md",
     "Problems/LeetCode/Week 4/448. Find all Numbers Disappeared in an Array.md",
     "Problems/LeetCode/Week 4/507. Perfect Number.md",
@@ -198,8 +198,6 @@
     "Problems/LeetCode/Week 3/1984. Minimum Difference Between Highest and Lowest of K Scores.md",
     "Problems/LeetCode/Week 3/1528. Shuffle String.md",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
-    "Problems/LeetCode/Week 3/54. Spiral Matrix.md",
-    "Problems/LeetCode/Week 3/18. 4Sum.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
