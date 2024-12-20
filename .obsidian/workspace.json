@@ -11,14 +11,12 @@
             "id": "89a557b5ac2804aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/LeetCode/Week 4/65. Unique Paths II.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md"
               },
               "icon": "lucide-file",
-              "title": "65. Unique Paths II"
+              "title": "Tldraw 2024-12-20 3.27PM"
             }
           }
         ]
@@ -171,10 +169,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "89a557b5ac2804aa",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
-    "Updates/📅 Week 4.md",
+    "Problems/LeetCode/Week 4/Untitled.md",
+    "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md",
     "Problems/LeetCode/Week 4/65. Unique Paths II.md",
+    "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 4/203. Remove Linked List Elements.md",
     "Updates/📅 Week 5 (Break).md",
     "Updates/📅 Week 3.md",
@@ -198,8 +198,6 @@
     "Problems/LeetCode/Week 3/18. 4Sum.md",
     "Problems/LeetCode/Week 3/309. Best Time to Buy and Sell Stock with Cooldown.md",
     "Problems/LeetCode/Week 3/778. Swim in Rising Water.md",
-    "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
-    "Problems/LeetCode/Week 3/1172. Dinner Plate Stacks.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
