@@ -11,12 +11,14 @@
             "id": "89a557b5ac2804aa",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md"
+                "file": "Mock Interviews/Ragav Srinivasan 1.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-12-20 3.27PM"
+              "title": "Ragav Srinivasan 1"
             }
           }
         ]
@@ -169,10 +171,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "86973e501214562e",
+  "active": "89a557b5ac2804aa",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 4/Untitled.md",
+    "Mock Interviews/Nathan Dang-Huynh 1.md",
+    "Mock Interviews/Ragav Srinivasan 1.md",
     "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md",
+    "Problems/LeetCode/Week 4/Untitled.md",
     "Problems/LeetCode/Week 4/65. Unique Paths II.md",
     "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 4/203. Remove Linked List Elements.md",
@@ -186,7 +190,6 @@
     "Updates/Tldraw 2024-12-18 9.40PM.md",
     "Problems/LeetCode/Week 4",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
-    "Mock Interviews/Nathan Dang-Huynh 1.md",
     "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
     "Mock Interviews/Harry Oates 1.md",
     "Mock Interviews/Ian Chen 1.md",
@@ -197,7 +200,6 @@
     "Problems/LeetCode/Week 3/54. Spiral Matrix.md",
     "Problems/LeetCode/Week 3/18. 4Sum.md",
     "Problems/LeetCode/Week 3/309. Best Time to Buy and Sell Stock with Cooldown.md",
-    "Problems/LeetCode/Week 3/778. Swim in Rising Water.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
