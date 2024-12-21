@@ -11,12 +11,14 @@
             "id": "529426197f7772f8",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 4/Tldraw 2024-12-21 6.24PM.md"
+                "file": "Updates/📅 Week 4.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-12-21 6.24PM"
+              "title": "📅 Week 4"
             }
           }
         ]
@@ -171,8 +173,9 @@
   },
   "active": "529426197f7772f8",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 4/71. Simplify Path.md",
+    "Problems/LeetCode/Week 4/2091. Removing Minimum and Maximum From Array.md",
     "Problems/LeetCode/Week 4/Tldraw 2024-12-21 6.24PM.md",
+    "Problems/LeetCode/Week 4/71. Simplify Path.md",
     "Problems/LeetCode/Week 4/65. Unique Paths II.md",
     "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md",
@@ -196,7 +199,6 @@
     "Problems/LeetCode/Week 4/203. Remove Linked List Elements.md",
     "Updates/📅 Week 5 (Break).md",
     "Problems/LeetCode/Week 4/989. Add to Array-Form of Integer.md",
-    "Problems/LeetCode/Week 4/448. Find all Numbers Disappeared in an Array.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
