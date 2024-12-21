@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 4/1962. Remove Stones to Minimize the Total.md",
+                "file": "Problems/LeetCode/Week 4/740. Delete and Earn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1962. Remove Stones to Minimize the Total"
+              "title": "740. Delete and Earn"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "529426197f7772f8",
   "lastOpenFiles": [
-    "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 4/1962. Remove Stones to Minimize the Total.md",
+    "Problems/LeetCode/Week 4/740. Delete and Earn.md",
+    "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 4/2091. Removing Minimum and Maximum From Array.md",
     "Problems/LeetCode/Week 4/Tldraw 2024-12-21 6.24PM.md",
     "Problems/LeetCode/Week 4/71. Simplify Path.md",
@@ -198,7 +199,6 @@
     "Templates/🗣 Mock Interview.md",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
     "Problems/LeetCode/Week 4/203. Remove Linked List Elements.md",
-    "Updates/📅 Week 5 (Break).md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
