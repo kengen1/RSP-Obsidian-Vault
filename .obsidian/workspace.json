@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39dee9d1c6c71e3c",
+        "id": "6acf89c936668b28",
         "type": "tabs",
         "children": [
           {
-            "id": "89a557b5ac2804aa",
+            "id": "529426197f7772f8",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md"
+                "file": "Problems/LeetCode/Week 4/65. Unique Paths II.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-12-20 3.27PM"
+              "title": "65. Unique Paths II"
             }
           }
         ]
@@ -169,35 +171,35 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "89a557b5ac2804aa",
+  "active": "529426197f7772f8",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 4/71. Simplify Path.md",
+    "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
+    "Data Structures & Algorithms/Dynamic Programming/States.md",
+    "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
+    "Mock Interviews/Aiken Lee 1.md",
+    "Mock Interviews/Harry Oates 1.md",
+    "Mock Interviews/Ian Chen 1.md",
+    "Mock Interviews/Nathan Dang-Huynh 1.md",
+    "Mock Interviews/Quinn Hindmarsh 1.md",
+    "Mock Interviews/Ragav Srinivasan 1.md",
+    "Mock Interviews/Samuel Sadek 1.md",
+    "Updates/📅 Week 3.md",
+    "Updates/📅 Week 1.md",
+    "Updates/📅 Week 2.md",
+    "Updates/📅 Week 4.md",
+    "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md",
     "Templates/🔋 Progress Tracker.md",
     "Templates/🔍Problem Deep Dive.md",
     "Templates/🗣 Mock Interview.md",
-    "Updates/📅 Week 1.md",
-    "Problems/LeetCode/Week 4/71. Simplify Path.md",
     "Problems/LeetCode/Week 4/65. Unique Paths II.md",
-    "Updates/📅 Week 4.md",
-    "Mock Interviews/Ragav Srinivasan 1.md",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
-    "Mock Interviews/Nathan Dang-Huynh 1.md",
-    "Problems/LeetCode/Week 4/Tldraw 2024-12-20 3.27PM.md",
     "Problems/LeetCode/Week 4/203. Remove Linked List Elements.md",
     "Updates/📅 Week 5 (Break).md",
-    "Updates/📅 Week 3.md",
-    "Updates/📅 Week 2.md",
     "Problems/LeetCode/Week 4/989. Add to Array-Form of Integer.md",
     "Problems/LeetCode/Week 4/448. Find all Numbers Disappeared in an Array.md",
     "Problems/LeetCode/Week 4/507. Perfect Number.md",
-    "Updates/Tldraw 2024-12-18 9.40PM.md",
     "Problems/LeetCode/Week 4",
-    "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
-    "Mock Interviews/Harry Oates 1.md",
-    "Mock Interviews/Ian Chen 1.md",
-    "Data Structures & Algorithms/Trees/Tree Traversal.md",
-    "Problems/LeetCode/Week 3/1984. Minimum Difference Between Highest and Lowest of K Scores.md",
-    "Problems/LeetCode/Week 3/1528. Shuffle String.md",
-    "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
     "Data Structures & Algorithms/Dynamic Programming",
