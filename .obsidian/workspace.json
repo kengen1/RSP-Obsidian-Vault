@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/Caitlyn Phan 1.md",
+                "file": "Updates/📅 Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caitlyn Phan 1"
+              "title": "📅 Week 4"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "529426197f7772f8",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
     "Mock Interviews/Caitlyn Phan 1.md",
+    "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
     "Templates/🗣 Mock Interview.md",
