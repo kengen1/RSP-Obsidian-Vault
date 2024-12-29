@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Mock Revision/104. Maximum Depth of Binary Tree.md",
+                "file": "Problems/Mock Revision/2109. Adding Spaces to a String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "104. Maximum Depth of Binary Tree"
+              "title": "2109. Adding Spaces to a String"
             }
           }
         ]
@@ -173,13 +173,14 @@
   },
   "active": "529426197f7772f8",
   "lastOpenFiles": [
+    "Problems/Mock Revision/104. Maximum Depth of Binary Tree.md",
+    "Problems/Mock Revision/2109. Adding Spaces to a String.md",
+    "Updates/📅 Week 5 (Break).md",
     "Templates/🔋 Progress Tracker.md",
     "Templates/🔍Problem Deep Dive.md",
     "Templates/🗣 Mock Interview.md",
     "Mock Interviews/Caitlyn Phan 1.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
-    "Problems/Mock Revision/104. Maximum Depth of Binary Tree.md",
-    "Updates/📅 Week 5 (Break).md",
     "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
     "Mock Interviews/Keegan/Keegan Hidson 1.md",
@@ -198,7 +199,6 @@
     "Algorithm Design Manual/3. Data Structures.md",
     "Algorithm Design Manual/2. Algorithm Analysis.md",
     "Problems/LeetCode/Week 4/1962. Remove Stones to Minimize the Total.md",
-    "Problems/LeetCode/Week 4/2091. Removing Minimum and Maximum From Array.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
