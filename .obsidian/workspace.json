@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Mock Revision/1688. Count of Matches in Tournament.md",
+                "file": "Problems/Mock Revision/2181. Merge Nodes in Between Zeros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1688. Count of Matches in Tournament"
+              "title": "2181. Merge Nodes in Between Zeros"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "91ca63f746650767",
   "lastOpenFiles": [
+    "Problems/Mock Revision/1688. Count of Matches in Tournament.md",
+    "Problems/Mock Revision/2181. Merge Nodes in Between Zeros.md",
     "Problems/Mock Revision/1561. Maximum Number of Coins You Can Get.md",
     "Updates/📅 Week 5 (Break).md",
-    "Problems/Mock Revision/1688. Count of Matches in Tournament.md",
     "Problems/Mock Revision/1346. Check if N and Its Double Exist.md",
     "Problems/Mock Revision/978. Longest Turbulent Subarray.md",
     "Problems/Mock Revision/867. Transpose Matrix.md",
@@ -198,7 +199,6 @@
     "Templates/🔍Problem Deep Dive.md",
     "Templates/🗣 Mock Interview.md",
     "Mock Interviews/Caitlyn Phan 1.md",
-    "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
