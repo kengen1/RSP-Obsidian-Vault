@@ -21,7 +21,7 @@
 1. Initialize `start` pointer to 0 and `currentSum` to 0.
 2. Loop through the array with the `end` pointer:
     - Add `nums[end]` to `currentSum`.
-    - If window size equals kkk:
+    - If window size equals k:
         - Update `maxSum`.
         - Slide the window by subtracting `nums[start]` and incrementing `start`.
 3. Return the `maxSum` after processing the array.
