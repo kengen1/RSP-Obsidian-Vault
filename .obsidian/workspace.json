@@ -11,12 +11,14 @@
             "id": "54c7151660c9fd7a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png"
+                "file": "Updates/📅 Week 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "0. Problem Solving Flowchart"
+              "icon": "lucide-file",
+              "title": "📅 Week 6"
             }
           }
         ]
@@ -154,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +173,21 @@
   },
   "active": "86973e501214562e",
   "lastOpenFiles": [
+    "Updates/📅 Week 5 (Break🎅).md",
+    "Problems/LeetCode/Week 5/🎅Break this week ~ hohoho.md",
+    "Updates/📅 Week 6.md",
+    "Updates/📅 Week 4.md",
+    "Problems/Mock Revision/1346. Check if N and Its Double Exist.md",
+    "Problems/Mock Revision/1046. Last Stone Weight.md",
+    "Problems/Mock Revision/978. Longest Turbulent Subarray.md",
+    "Problems/Mock Revision/867. Transpose Matrix.md",
+    "Problems/Mock Revision/565. Array Nesting.md",
+    "Problems/Mock Revision/122. Best Time to Buy and Sell Stock II.md",
+    "Problems/Mock Revision/169. Majority Element.md",
+    "Problems/Mock Revision/104. Maximum Depth of Binary Tree.md",
+    "Problems/Mock Revision/74. Search a 2D Matrix.md",
+    "Problems/Mock Revision/20. Valid Parentheses.md",
+    "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Cracking the Coding Interview/Strategies & Approaches/10. Sorting & Searching.md",
     "Cracking the Coding Interview/Strategies & Approaches/09. System Design & Scalability.md",
     "Cracking the Coding Interview/Strategies & Approaches/08. Recursion & Dynamic Programming.md",
@@ -180,24 +198,9 @@
     "Cracking the Coding Interview/Strategies & Approaches/03. Stacks & Queues.md",
     "Cracking the Coding Interview/Strategies & Approaches/02. Linked Lists.md",
     "Cracking the Coding Interview/Strategies & Approaches/01. Arrays & Strings.md",
-    "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Algorithm Design Manual/10. How to Design Algorithms.md",
     "Algorithm Design Manual/09. Intractable Problems & Approximation Algorithms.md",
-    "Algorithm Design Manual/08. Dynamic Programming.md",
-    "Algorithm Design Manual/07. Combinatorial Search & Heuristic Methods.md",
-    "Algorithm Design Manual/06. Weighted Graph Algorithms.md",
-    "Algorithm Design Manual/05. Graph Traversal.md",
-    "Algorithm Design Manual/04. Sorting and Searching.md",
-    "Algorithm Design Manual/03. Data Structures.md",
-    "Algorithm Design Manual/02. Algorithm Analysis.md",
-    "Algorithm Design Manual/01. Introduction to Algorithm Design.md",
-    "Problems/Mock Revision/Tldraw 2024-12-30 9.45PM.md",
-    "Problems/LeetCode/Week 5/🎅Break this week ~ hohoho.md",
-    "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
     "Problems/LeetCode/Week 5",
-    "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
-    "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
-    "Problems/LeetCode/Week 6/860. Lemonade Change.md",
     "Problems/LeetCode/Week 6",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
