@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algorithms/Sliding Window.md",
+                "file": "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "590. N-ary Tree Postorder Traversal"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "91ca63f746650767",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
+    "Data Structures & Algorithms/Sliding Window.md",
     "Problems/LeetCode/Week 6/Tldraw 2024-12-31 1.10AM.md",
     "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
-    "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
     "Problems/LeetCode/Week 6/860. Lemonade Change.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Updates/📅 Week 6.md",
@@ -199,7 +200,6 @@
     "Problems/Mock Revision/20. Valid Parentheses.md",
     "Problems/Mock Revision/Tldraw 2024-12-30 8.53PM.md",
     "Problems/Mock Revision/3079. Find the Sum of Encrypted Integers.md",
-    "Updates/📅 Week 4.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
