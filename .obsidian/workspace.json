@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
+                "file": "Problems/LeetCode/Week 6/860. Lemonade Change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "590. N-ary Tree Postorder Traversal"
+              "title": "860. Lemonade Change"
             }
           }
         ]
@@ -173,11 +173,11 @@
   },
   "active": "91ca63f746650767",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
     "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
+    "Problems/LeetCode/Week 6/860. Lemonade Change.md",
     "Data Structures & Algorithms/Sliding Window.md",
     "Problems/LeetCode/Week 6/Tldraw 2024-12-31 1.10AM.md",
-    "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
-    "Problems/LeetCode/Week 6/860. Lemonade Change.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Updates/📅 Week 6.md",
     "Problems/LeetCode/Week 6",
