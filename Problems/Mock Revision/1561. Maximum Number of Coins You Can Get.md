@@ -1,0 +1,36 @@
+## 📝 Problem Details
+
+- **Title:** `{{problem_title}}`
+- **Link:** Problem Link
+- **Difficulty:** `{{difficulty}}`
+- **Tags/Categories:** `{{tags/categories}}`
+
+## 💭What Were My Initial Thoughts?
+
+```
+
+```
+
+## 🤔What Did I Struggle With?
+
+```
+
+```
+
+## 💡 Explanation of Solution
+
+```
+
+```
+
+## ⌛ Complexity Analysis
+
+```
+
+```
+
+## 💻 Implementation of Solution
+
+```cpp
+
+```
