@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Mock Revision/2181. Merge Nodes in Between Zeros.md",
+                "file": "Problems/Mock Revision/1046. Last Stone Weight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2181. Merge Nodes in Between Zeros"
+              "title": "1046. Last Stone Weight"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "91ca63f746650767",
   "lastOpenFiles": [
-    "Problems/Mock Revision/1688. Count of Matches in Tournament.md",
     "Problems/Mock Revision/2181. Merge Nodes in Between Zeros.md",
+    "Problems/Mock Revision/1046. Last Stone Weight.md",
+    "Problems/Mock Revision/1688. Count of Matches in Tournament.md",
     "Problems/Mock Revision/1561. Maximum Number of Coins You Can Get.md",
     "Updates/📅 Week 5 (Break).md",
     "Problems/Mock Revision/1346. Check if N and Its Double Exist.md",
@@ -198,7 +199,6 @@
     "Templates/🔋 Progress Tracker.md",
     "Templates/🔍Problem Deep Dive.md",
     "Templates/🗣 Mock Interview.md",
-    "Mock Interviews/Caitlyn Phan 1.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
