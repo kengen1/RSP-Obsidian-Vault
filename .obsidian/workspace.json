@@ -171,8 +171,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "91ca63f746650767",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
+    "Problems/LeetCode/Week 5",
     "Updates/📅 Week 5 (Break).md",
     "Updates/📅 Week 6.md",
     "Problems/Mock Revision/1046. Last Stone Weight.md",
@@ -198,7 +199,6 @@
     "Updates/📅 Week 2.md",
     "Updates/📅 Week 1.md",
     "Problems/Mock Revision/2109. Adding Spaces to a String.md",
-    "Templates/🔋 Progress Tracker.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
