@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 6.md",
+                "file": "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 6"
+              "title": "590. N-ary Tree Postorder Traversal"
             }
           }
         ]
@@ -171,11 +171,15 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "86973e501214562e",
+  "active": "91ca63f746650767",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 5",
-    "Updates/📅 Week 5 (Break).md",
+    "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
+    "Problems/LeetCode/Week 6/860. Lemonade Change.md",
+    "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
+    "Data Structures & Algorithms/Trees/Tree Traversal.md",
     "Updates/📅 Week 6.md",
+    "Problems/LeetCode/Week 6",
+    "Updates/📅 Week 5 (Break).md",
     "Problems/Mock Revision/1046. Last Stone Weight.md",
     "Problems/Mock Revision/Tldraw 2024-12-30 9.45PM.md",
     "README.md",
@@ -196,9 +200,6 @@
     "Problems/Mock Revision/3079. Find the Sum of Encrypted Integers.md",
     "Updates/📅 Week 4.md",
     "Updates/📅 Week 3.md",
-    "Updates/📅 Week 2.md",
-    "Updates/📅 Week 1.md",
-    "Problems/Mock Revision/2109. Adding Spaces to a String.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
@@ -210,7 +211,6 @@
     "Mock Interviews",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Updates/Week 2",
-    "Templates",
     "Untitled.canvas"
   ]
 }
