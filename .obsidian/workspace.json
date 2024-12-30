@@ -11,14 +11,12 @@
             "id": "91ca63f746650767",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/LeetCode/Week 6/Tldraw 2024-12-31 2.32AM.md"
               },
               "icon": "lucide-file",
-              "title": "2331. Evaluate Boolean Binary Tree"
+              "title": "Tldraw 2024-12-31 2.32AM"
             }
           }
         ]
@@ -173,8 +171,9 @@
   },
   "active": "91ca63f746650767",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 6/2325. Decode the Message.md",
     "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
+    "Problems/LeetCode/Week 6/Tldraw 2024-12-31 2.32AM.md",
+    "Problems/LeetCode/Week 6/2325. Decode the Message.md",
     "Updates/📅 Week 6.md",
     "Problems/LeetCode/Week 6/860. Lemonade Change.md",
     "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
@@ -199,7 +198,6 @@
     "Problems/Mock Revision/122. Best Time to Buy and Sell Stock II.md",
     "Problems/Mock Revision/104. Maximum Depth of Binary Tree.md",
     "Problems/Mock Revision/74. Search a 2D Matrix.md",
-    "Problems/Mock Revision/20. Valid Parentheses.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
