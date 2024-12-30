@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
+                "file": "Problems/LeetCode/Week 5/🎅Break this week ~ hohoho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2331. Evaluate Boolean Binary Tree"
+              "title": "🎅Break this week ~ hohoho"
             }
           }
         ]
@@ -173,13 +173,15 @@
   },
   "active": "91ca63f746650767",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 6/Tldraw 2024-12-31 2.32AM.md",
     "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
-    "Problems/LeetCode/Week 6/2325. Decode the Message.md",
-    "Updates/📅 Week 6.md",
-    "Problems/LeetCode/Week 6/860. Lemonade Change.md",
+    "Problems/LeetCode/Week 5/🎅Break this week ~ hohoho.md",
+    "Problems/LeetCode/Week 5",
     "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
     "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
+    "Problems/LeetCode/Week 6/860. Lemonade Change.md",
+    "Problems/LeetCode/Week 6/2325. Decode the Message.md",
+    "Problems/LeetCode/Week 6/Tldraw 2024-12-31 2.32AM.md",
+    "Updates/📅 Week 6.md",
     "Data Structures & Algorithms/Sliding Window.md",
     "Problems/LeetCode/Week 6/Tldraw 2024-12-31 1.10AM.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
@@ -199,7 +201,6 @@
     "Problems/Mock Revision/169. Majority Element.md",
     "Problems/Mock Revision/122. Best Time to Buy and Sell Stock II.md",
     "Problems/Mock Revision/104. Maximum Depth of Binary Tree.md",
-    "Problems/Mock Revision/74. Search a 2D Matrix.md",
     "Problems/LeetCode/Week 4",
     "Problems/LeetCode/Week 3",
     "Mock Interviews/Keegan",
@@ -210,7 +211,6 @@
     "Mock Interviews/Week 1",
     "Mock Interviews",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
-    "Updates/Week 2",
     "Untitled.canvas"
   ]
 }
