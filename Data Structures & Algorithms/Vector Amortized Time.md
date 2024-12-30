@@ -1,6 +1,6 @@
- #Amortized-Analysis #Arrays [[2. Algorithm Analysis]]
+ #Amortized-Analysis #Arrays [[Ch2. Algorithm Analysis]]
 
- [[2. Algorithm Analysis]]
+ [[Ch2. Algorithm Analysis]]
 ## 1. Overview
 - **Dynamic arrays** (like `std::vector`) automatically resize when they run out of space 
 - When a `vector` resizes, it typically **doubles it capacity** to accommodate more elements
