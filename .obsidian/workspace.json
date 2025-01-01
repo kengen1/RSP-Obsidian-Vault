@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 6/1124. Lonest Well-Performing Interval.md",
+                "file": "Problems/LeetCode/Week 6/1124. Longest Well-Performing Interval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1124. Lonest Well-Performing Interval"
+              "title": "1124. Longest Well-Performing Interval"
             }
           }
         ]
@@ -174,7 +174,7 @@
   "active": "54c7151660c9fd7a",
   "lastOpenFiles": [
     "Problems/LeetCode/Week 6/1237. Find Positive Integer Solution for a Given Equation.md",
-    "Problems/LeetCode/Week 6/1124. Lonest Well-Performing Interval.md",
+    "Problems/LeetCode/Week 6/1124. Longest Well-Performing Interval.md",
     "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
     "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
     "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
