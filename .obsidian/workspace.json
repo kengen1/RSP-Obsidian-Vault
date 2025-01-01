@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5086555480957
+    "width": 367.5086555480957
   },
   "right": {
     "id": "7d4e07d7fb6940f1",
@@ -173,8 +173,9 @@
   },
   "active": "54c7151660c9fd7a",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 7/1140. Stone Game II.md",
+    "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
     "Problems/LeetCode/Week 6/877. Stone Game.md",
+    "Problems/LeetCode/Week 7/1140. Stone Game II.md",
     "Problems/LeetCode/Week 7",
     "Problems/LeetCode/Week 3/1981. Minimize the Difference Between Target and Chosen Elements.md",
     "Problems/LeetCode/Week 3/309. Best Time to Buy and Sell Stock with Cooldown.md",
@@ -185,7 +186,6 @@
     "Problems/LeetCode/Week 6/1237. Find Positive Integer Solution for a Given Equation.md",
     "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
     "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
-    "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
     "Problems/LeetCode/Week 6/860. Lemonade Change.md",
     "Updates/📅 Week 6.md",
     "Updates/📅 Week 4.md",
