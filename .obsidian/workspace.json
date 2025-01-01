@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promotion Requirements/02. Intermediate.md",
+                "file": "Mock Interviews/0. Keegan Hidson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Intermediate"
+              "title": "0. Keegan Hidson"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "86973e501214562e",
   "lastOpenFiles": [
-    "Promotion Requirements/01. Novice/Novice Todo List.md",
+    "Mock Interviews/8. Caitlyn Phan.md",
+    "Mock Interviews/0. Keegan Hidson.md",
     "Promotion Requirements/02. Intermediate.md",
+    "Promotion Requirements/01. Novice/Novice Todo List.md",
     "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 7/1140. Stone Game II.md",
     "Promotion Requirements/02. Intermediate",
@@ -200,8 +202,6 @@
     "Problems/Mock Revision/1346. Check if N and Its Double Exist.md",
     "Problems/Mock Revision/1046. Last Stone Weight.md",
     "Problems/Mock Revision/978. Longest Turbulent Subarray.md",
-    "Problems/Mock Revision/867. Transpose Matrix.md",
-    "Problems/Mock Revision/565. Array Nesting.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Problems/LeetCode/Week 5",
     "Problems/LeetCode/Week 6",
