@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#Dynamic-Programming  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.220796678564671,
-  "close": true
+  "scale": 0.6173285804182592,
+  "close": false
 }
