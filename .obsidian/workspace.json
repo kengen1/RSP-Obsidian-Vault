@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/LeetCode/Week 6/1124. Longest Well-Performing Interval.md",
+                "file": "Problems/LeetCode/Week 6/2325. Decode the Message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1124. Longest Well-Performing Interval"
+              "title": "2325. Decode the Message"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "54c7151660c9fd7a",
   "lastOpenFiles": [
-    "Problems/LeetCode/Week 6/1237. Find Positive Integer Solution for a Given Equation.md",
+    "Problems/LeetCode/Week 6/1094. Car Pooling.md",
     "Problems/LeetCode/Week 6/1124. Longest Well-Performing Interval.md",
+    "Problems/LeetCode/Week 6/1237. Find Positive Integer Solution for a Given Equation.md",
     "Problems/LeetCode/Week 6/2331. Evaluate Boolean Binary Tree.md",
     "Problems/LeetCode/Week 6/590. N-ary Tree Postorder Traversal.md",
     "Problems/LeetCode/Week 6/643. Maximum Average Subarray I.md",
@@ -199,7 +200,6 @@
     "Cracking the Coding Interview/Strategies & Approaches/10. Sorting & Searching.md",
     "Cracking the Coding Interview/Strategies & Approaches/09. System Design & Scalability.md",
     "Cracking the Coding Interview/Strategies & Approaches/08. Recursion & Dynamic Programming.md",
-    "Cracking the Coding Interview/Strategies & Approaches/07. Object-Oriented Design.md",
     "Problems/LeetCode/Week 5",
     "Problems/LeetCode/Week 6",
     "Problems/LeetCode/Week 4",
