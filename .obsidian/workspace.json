@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b908938945ecc29f",
+        "id": "1d3b808b7d0cf549",
         "type": "tabs",
         "children": [
           {
-            "id": "54c7151660c9fd7a",
+            "id": "6e404c59e6baf97d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/0. Keegan Hidson.md",
+                "file": "Updates/📅 Week 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Keegan Hidson"
+              "title": "📅 Week 6"
             }
           }
         ]
@@ -171,11 +171,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "86973e501214562e",
+  "active": "6e404c59e6baf97d",
   "lastOpenFiles": [
-    "Mock Interviews/8. Caitlyn Phan.md",
-    "Mock Interviews/0. Keegan Hidson.md",
     "Promotion Requirements/02. Intermediate.md",
+    "Mock Interviews/0. Keegan Hidson.md",
+    "Mock Interviews/8. Caitlyn Phan.md",
     "Promotion Requirements/01. Novice/Novice Todo List.md",
     "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Problems/LeetCode/Week 7/1140. Stone Game II.md",
