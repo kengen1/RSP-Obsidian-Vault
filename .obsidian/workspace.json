@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e09d2b32688996d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1457. Pseudo-Palindromic Paths in a Binary Tree"
-            }
-          },
-          {
-            "id": "6e404c59e6baf97d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Mock Revision/1046. Last Stone Weight.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1046. Last Stone Weight"
-            }
-          },
-          {
             "id": "057b7b438a286602",
             "type": "leaf",
             "state": {
@@ -53,8 +21,7 @@
               "title": "10. Steve Pham"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
