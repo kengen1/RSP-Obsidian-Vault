@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e404c59e6baf97d",
+            "id": "8e09d2b32688996d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,22 @@
               },
               "icon": "lucide-file",
               "title": "9. Mahir Numayeer Islam"
+            }
+          },
+          {
+            "id": "6e404c59e6baf97d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Mock Revision/1046. Last Stone Weight.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1046. Last Stone Weight"
             }
           }
         ]
@@ -171,10 +187,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "6e404c59e6baf97d",
+  "active": "8e09d2b32688996d",
   "lastOpenFiles": [
-    "Mock Interviews/8. Caitlyn Phan.md",
+    "Problems/Mock Revision/1046. Last Stone Weight.md",
     "Mock Interviews/9. Mahir Numayeer Islam.md",
+    "Mock Interviews/7. Ragav Srinivasan.md",
+    "Mock Interviews/8. Caitlyn Phan.md",
     "Updates/📅 Week 6.md",
     "Problems/Neetcode150/2. Sliding Window/121. Best Time to Buy and Sell Stock.md",
     "Problems/Neetcode150/2. Sliding Window/3. Longest Substring Without Repeating Characters.md",
@@ -204,8 +222,6 @@
     "Problems/LeetCode/Week 3/309. Best Time to Buy and Sell Stock with Cooldown.md",
     "Problems/LeetCode/Week 6/1238. Circular Permutation in Binary Representation.md",
     "Problems/LeetCode/Week 6/1094. Car Pooling.md",
-    "Problems/LeetCode/Week 6/2325. Decode the Message.md",
-    "Problems/LeetCode/Week 6/1124. Longest Well-Performing Interval.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Problems/LeetCode/Week 5",
     "Problems/LeetCode/Week 6",
