@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82fa019885c7900d",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "Mock Interviews/Tldraw 2025-01-02 7.23PM.md"
-              },
-              "icon": "lucide-file",
-              "title": "Tldraw 2025-01-02 7.23PM"
-            }
-          },
-          {
             "id": "8e09d2b32688996d",
             "type": "leaf",
             "pinned": true,
@@ -107,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5086555480957
+    "width": 379.5086555480957
   },
   "right": {
     "id": "7d4e07d7fb6940f1",
@@ -201,10 +189,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "82fa019885c7900d",
+  "active": "8e09d2b32688996d",
   "lastOpenFiles": [
-    "Mock Interviews/10. Steve Pham.md",
     "Mock Interviews/Tldraw 2025-01-02 7.23PM.md",
+    "Mock Interviews/10. Steve Pham.md",
     "Mock Interviews/1. Ian Chen.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Mock Interviews/9. Mahir Numayeer Islam.md",
