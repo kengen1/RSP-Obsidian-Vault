@@ -37,8 +37,7 @@
               "title": "1685. Sum of Absolute Differences in a Sorted Array"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,11 +187,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "d5a0fb6e991eadd9",
+  "active": "e37d29fb8f7c61eb",
   "lastOpenFiles": [
+    "Problems/Mock Revision/1685. Sum of Absolute Differences in a Sorted Array.md",
     "Problems/Mock Revision/1014. Best Sightseeing Pair.md",
     "Problems/Mock Revision/Tldraw 2025-01-03 6.43PM.md",
-    "Problems/Mock Revision/1685. Sum of Absolute Differences in a Sorted Array.md",
     "Problems/Mock Revision/1422. Maximum Score After Splitting a String.md",
     "Problems/Mock Revision/1025. Divisor Game.md",
     "Promotion Requirements/02. Intermediate.md",
