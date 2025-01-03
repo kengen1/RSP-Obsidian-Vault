@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d3b808b7d0cf549",
+        "id": "4b44fd9e4cb5f0e9",
         "type": "tabs",
         "children": [
           {
-            "id": "057b7b438a286602",
+            "id": "e37d29fb8f7c61eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,11 +171,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "057b7b438a286602",
+  "active": "e37d29fb8f7c61eb",
   "lastOpenFiles": [
-    "Problems/Mock Revision/1025. Divisor Game.md",
     "Problems/Mock Revision/1014. Best Sightseeing Pair.md",
-    "Problems/Mock Revision/Untitled.md",
+    "Problems/Mock Revision/1422. Maximum Score After Splitting a String.md",
+    "Problems/Mock Revision/1025. Divisor Game.md",
+    "Promotion Requirements/02. Intermediate.md",
     "Mock Interviews/10. Steve Pham.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
@@ -200,7 +201,6 @@
     "Data Structures & Algorithms/Quick Select.md",
     "Data Structures & Algorithms/Two Pointers.md",
     "Data Structures & Algorithms/Vector Amortized Time.md",
-    "Promotion Requirements/02. Intermediate.md",
     "Promotion Requirements/01. Novice/Novice Todo List.md",
     "Problems/LeetCode/Week 2/2. Add Two Numbers.md",
     "Promotion Requirements/02. Intermediate",
