@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 7.md",
+                "file": "Templates/🔍Problem Deep Dive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 7"
+              "title": "🔍Problem Deep Dive"
             }
           }
         ]
@@ -173,8 +173,11 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
-    "Updates/📅 Week 6.md",
+    "Problems/Neetcode 150/Sliding Window/76. Minimum Window Substring.md",
     "Updates/📅 Week 7.md",
+    "Problems/Neetcode 150/Sliding Window",
+    "Problems/Neetcode 150",
+    "Updates/📅 Week 6.md",
     "Updates/📅 Week 4.md",
     "Promotion Requirements/03. Advanced.md",
     "Promotion Requirements/02. Intermediate.md",
@@ -198,7 +201,6 @@
     "Problems/Mock Revision/1014. Best Sightseeing Pair.md",
     "Problems/Mock Revision/1685. Sum of Absolute Differences in a Sorted Array.md",
     "Problems/Mock Revision/Tldraw 2025-01-03 6.43PM.md",
-    "Problems/Mock Revision/1422. Maximum Score After Splitting a String.md",
     "Problems/Neetcode150/1. Two Pointers",
     "Problems/Neetcode150/0. Arrays & Hashing",
     "Problems/Neetcode150/2. Sliding Window",
@@ -208,8 +210,6 @@
     "Problems/LeetCode/Week 7",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Problems/LeetCode/Week 5",
-    "Problems/LeetCode/Week 6",
-    "Problems/LeetCode/Week 4",
     "Pasted image 20241202213436.png",
     "Untitled.canvas"
   ]
