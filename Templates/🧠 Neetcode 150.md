@@ -4,7 +4,7 @@
 - **Link:** `Problem Link`
 - **Difficulty:** `{{difficulty}}`
 - **Tags/Categories:** `{{tags/categories}}`
-- **NeetCode Reference:** [Video Link](#)
+- **Neetcode Reference:** [Video Link](#)
 
 ---
 
