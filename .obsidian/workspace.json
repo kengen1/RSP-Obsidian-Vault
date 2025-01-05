@@ -11,12 +11,14 @@
             "id": "f2463e19d41a21c1",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/Neetcode150/2. Sliding Window/Tldraw 2025-01-05 12.42AM.md"
+                "file": "Problems/Neetcode150/2. Sliding Window/567. Permutation in String.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2025-01-05 12.42AM"
+              "title": "567. Permutation in String"
             }
           }
         ]
@@ -171,11 +173,15 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
-    "Problems/Neetcode150/2. Sliding Window/3. Longest Substring Without Repeating Characters.md",
-    "Problems/Neetcode150/2. Sliding Window/Tldraw 2025-01-05 12.42AM.md",
-    "Problems/Neetcode150/2. Sliding Window/Untitled.md",
-    "Problems/Neetcode150/2. Sliding Window/121. Best Time to Buy and Sell Stock.md",
     "Problems/Neetcode150/2. Sliding Window/424. Longest Repeating Character Replacement.md",
+    "Problems/Neetcode150/2. Sliding Window/567. Permutation in String.md",
+    "Problems/Neetcode150/2. Sliding Window/3. Longest Substring Without Repeating Characters.md",
+    "Problems/Neetcode150/2. Sliding Window/121. Best Time to Buy and Sell Stock.md",
+    "Problems/Mock Revision/1688. Count of Matches in Tournament.md",
+    "Problems/Mock Revision/2109. Adding Spaces to a String.md",
+    "Problems/Mock Revision/2181. Merge Nodes in Between Zeros.md",
+    "Problems/Mock Revision/3079. Find the Sum of Encrypted Integers.md",
+    "Problems/Neetcode150/2. Sliding Window/Tldraw 2025-01-05 12.42AM.md",
     "Problems/LeetCode/Week 6/2325. Decode the Message.md",
     "Problems/LeetCode/Week 1/33. Search in Rotated Sorted Array.md",
     "Problems/LeetCode/Week 1/15. 3Sum.md",
@@ -193,10 +199,6 @@
     "Problems/LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
     "Mock Interviews/Tldraw 2025-01-02 7.23PM.md",
     "Mock Interviews/1. Ian Chen.md",
-    "Mock Interviews/9. Mahir Numayeer Islam.md",
-    "Mock Interviews/8. Caitlyn Phan.md",
-    "Updates/📅 Week 6.md",
-    "Problems/Mock Revision/1046. Last Stone Weight.md",
     "Problems/Neetcode150/1. Two Pointers",
     "Problems/Neetcode150/0. Arrays & Hashing",
     "Problems/Neetcode150/2. Sliding Window",
