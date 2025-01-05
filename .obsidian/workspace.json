@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 6.md",
+                "file": "Updates/📅 Week 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 6"
+              "title": "📅 Week 7"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
-    "Updates/📅 Week 4.md",
     "Updates/📅 Week 6.md",
+    "Updates/📅 Week 7.md",
+    "Updates/📅 Week 4.md",
     "Promotion Requirements/03. Advanced.md",
     "Promotion Requirements/02. Intermediate.md",
     "Problems/LeetCode/Week 4/65. Unique Paths II.md",
@@ -198,7 +199,6 @@
     "Problems/Mock Revision/1685. Sum of Absolute Differences in a Sorted Array.md",
     "Problems/Mock Revision/Tldraw 2025-01-03 6.43PM.md",
     "Problems/Mock Revision/1422. Maximum Score After Splitting a String.md",
-    "Problems/Mock Revision/1025. Divisor Game.md",
     "Problems/Neetcode150/1. Two Pointers",
     "Problems/Neetcode150/0. Arrays & Hashing",
     "Problems/Neetcode150/2. Sliding Window",
