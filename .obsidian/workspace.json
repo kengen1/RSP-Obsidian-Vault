@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promotion Requirements/🟣 Advanced/Advanced Schedule.md",
+                "file": "Promotion Requirements/🟣 Advanced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Schedule"
+              "title": "🟣 Advanced"
             }
           }
         ]
@@ -171,12 +171,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f2463e19d41a21c1",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
+    "Promotion Requirements/🟣 Advanced/Weekly Schedule.md",
     "Promotion Requirements/🔵 Intermediate.md",
-    "Promotion Requirements/🟣 Advanced/Advanced Schedule.md",
     "Promotion Requirements/🔵 Intermediate",
-    "Promotion Requirements/🟣 Advanced/Advanced Todo List.md",
+    "Promotion Requirements/🟣 Advanced.md",
     "Promotion Requirements/🟣 Advanced",
     "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
     "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
