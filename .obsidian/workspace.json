@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧠 Neetcode 150/02. Two Pointers/42. Trapping Rain Water.md",
+                "file": "Updates/📅 Week 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42. Trapping Rain Water"
+              "title": "📅 Week 7"
             }
           }
         ]
@@ -171,11 +171,19 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "86973e501214562e",
+  "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
+    "Updates/📅 Week 5 (Break🎅).md",
+    "Updates/📅 Week 0 (Theory✍).md",
+    "Updates/📅 Week 1.md",
+    "Updates/📅 Week 7.md",
+    "Updates/📅 Week 2.md",
+    "Updates/📅 Week 3.md",
+    "Updates/📅 Week 4.md",
+    "Updates/📅 Week 6.md",
+    "Problems/🧠 Neetcode 150/02. Two Pointers/42. Trapping Rain Water.md",
     "Problems/🧩 LeetCode/Week 7",
     "Problems/🧠 Neetcode 150/02. Two Pointers/11. Container With Most Water.md",
-    "Problems/🧠 Neetcode 150/02. Two Pointers/42. Trapping Rain Water.md",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing/128. Longest Consecutive Sequence.md",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing/36. Valid Sudoku.md",
     "Problems/🧠 Neetcode 150/03. Sliding Window/239. Sliding Window Maximum.md",
@@ -189,26 +197,18 @@
     "Promotion Requirements/🟣 Advanced.md",
     "Problems/🗣 Mock Revision/20. Valid Parentheses.md",
     "Promotion Requirements/🔵 Intermediate.md",
-    "Updates/📅 Week 7.md",
     "Problems/🧠 Neetcode 150/03. Sliding Window",
     "Problems/🧠 Neetcode 150",
-    "Updates/📅 Week 6.md",
-    "Updates/📅 Week 4.md",
     "Problems/🧩 LeetCode/Week 4/65. Unique Paths II.md",
     "Problems/Neetcode150/2. Sliding Window/567. Permutation in String.md",
     "Problems/Neetcode150/2. Sliding Window/Tldraw 2025-01-05 12.42AM.md",
     "Problems/Neetcode150/2. Sliding Window/424. Longest Repeating Character Replacement.md",
     "Problems/Neetcode150/2. Sliding Window/3. Longest Substring Without Repeating Characters.md",
-    "Problems/Neetcode150/2. Sliding Window/121. Best Time to Buy and Sell Stock.md",
-    "Problems/🗣 Mock Revision/1688. Count of Matches in Tournament.md",
-    "Problems/🗣 Mock Revision/2109. Adding Spaces to a String.md",
-    "Problems/🗣 Mock Revision/2181. Merge Nodes in Between Zeros.md",
     "Problems/Neetcode150/1. Two Pointers",
     "Problems/Neetcode150/0. Arrays & Hashing",
     "Problems/Neetcode150/2. Sliding Window",
     "Problems/Neetcode150",
     "Promotion Requirements/02. Intermediate",
-    "Promotion Requirements",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Pasted image 20241202213436.png",
     "Untitled.canvas"
