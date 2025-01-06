@@ -11,14 +11,12 @@
             "id": "f2463e19d41a21c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 7/1530. Number of Good Leaf Nodes Pairs.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 9.29PM.md"
               },
               "icon": "lucide-file",
-              "title": "1530. Number of Good Leaf Nodes Pairs"
+              "title": "Tldraw 2025-01-06 9.29PM"
             }
           }
         ]
@@ -173,8 +171,8 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
     "Problems/🧩 LeetCode/Week 7/1530. Number of Good Leaf Nodes Pairs.md",
+    "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
     "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 9.29PM.md",
     "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
     "Updates/📅 Week 7.md",
