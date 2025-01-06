@@ -11,14 +11,12 @@
             "id": "f2463e19d41a21c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Updates/📅 Week 7.md",
-                "mode": "source",
-                "source": false
+                "file": "Updates/Tldraw 2025-01-06 9.29PM.md"
               },
               "icon": "lucide-file",
-              "title": "📅 Week 7"
+              "title": "Tldraw 2025-01-06 9.29PM"
             }
           }
         ]
@@ -173,9 +171,10 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
+    "Updates/📅 Week 7.md",
+    "Updates/Tldraw 2025-01-06 9.29PM.md",
     "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
     "Problems/🧩 LeetCode/Week 7/1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree.md",
-    "Updates/📅 Week 7.md",
     "Updates/📅 Week 6.md",
     "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
     "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 7.00PM.md",
@@ -201,7 +200,6 @@
     "Problems/🧠 Neetcode 150/02. Two Pointers",
     "Templates/🎯 Problem Deep Dive.md",
     "Templates/🧠 Neetcode 150.md",
-    "Templates/🗣 Mock Interview.md",
     "Problems/🧠 Neetcode 150/03. Sliding Window",
     "Problems/🧠 Neetcode 150",
     "Problems/Neetcode150/1. Two Pointers",
