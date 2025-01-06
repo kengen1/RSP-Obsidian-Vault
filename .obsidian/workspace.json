@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/9. Mahir Numayeer Islam.md",
+                "file": "Promotion Requirements/🟣 Advanced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Mahir Numayeer Islam"
+              "title": "🟣 Advanced"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
+    "Cracking the Coding Interview/Strategies & Approaches/14. Databases.md",
+    "Cracking the Coding Interview/Strategies & Approaches/15. Threads & Locks.md",
+    "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
+    "Mock Interviews/9. Mahir Numayeer Islam.md",
     "Mock Interviews/10. Steve Pham.md",
     "Updates/📅 Week 2.md",
     "Updates/📅 Week 1.md",
@@ -198,9 +202,6 @@
     "Problems/🧠 Neetcode 150/03. Sliding Window/76. Minimum Window Substring.md",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing/36. Valid Sudoku.md",
     "Problems/🧠 Neetcode 150/02. Two Pointers/42. Trapping Rain Water.md",
-    "Problems/🧠 Neetcode 150/02. Two Pointers/11. Container With Most Water.md",
-    "Problems/🧠 Neetcode 150/01. Arrays & Hashing/128. Longest Consecutive Sequence.md",
-    "Updates/📅 Week 5 (Break🎅).md",
     "Problems/🧩 LeetCode/Week 7",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing",
     "Problems/🧠 Neetcode 150/02. Two Pointers",
@@ -209,7 +210,6 @@
     "Problems/Neetcode150/1. Two Pointers",
     "Problems/Neetcode150/0. Arrays & Hashing",
     "Problems/Neetcode150/2. Sliding Window",
-    "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Pasted image 20241202213436.png",
     "Untitled.canvas"
   ]
