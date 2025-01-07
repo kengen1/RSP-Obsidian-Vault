@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/10. Steve Pham.md",
+                "file": "Mock Interviews/12. Camillia Tran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Steve Pham"
+              "title": "12. Camillia Tran"
             }
           }
         ]
@@ -173,16 +173,22 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
-    "Mock Interviews/11. Harshal Mishra.md",
-    "Mock Interviews/10. Steve Pham.md",
     "Updates/📅 Week 7.md",
+    "Mock Interviews/12. Camillia Tran.md",
+    "Mock Interviews/11. Harshal Mishra.md",
+    "Mock Interviews/1. Ian Chen.md",
+    "Mock Interviews/5. Harry Oates.md",
+    "Mock Interviews/6. Nathan Dang-Huynh.md",
+    "Mock Interviews/7. Ragav Srinivasan.md",
+    "Mock Interviews/8. Caitlyn Phan.md",
+    "Mock Interviews/9. Mahir Numayeer Islam.md",
+    "Mock Interviews/10. Steve Pham.md",
     "Problems/🧩 LeetCode/Week 7/1530. Number of Good Leaf Nodes Pairs.md",
     "Promotion Requirements/🟣 Advanced.md",
     "Promotion Requirements/🔵 Intermediate.md",
     "Cracking the Coding Interview/Strategies & Approaches/14. Databases.md",
     "Cracking the Coding Interview/Strategies & Approaches/15. Threads & Locks.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
-    "Mock Interviews/9. Mahir Numayeer Islam.md",
     "Updates/📅 Week 2.md",
     "Updates/📅 Week 1.md",
     "Updates/📅 Week 0 (Theory✍).md",
@@ -196,12 +202,6 @@
     "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
     "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 9.29PM.md",
     "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
-    "Problems/🧩 LeetCode/Week 7/1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree.md",
-    "Updates/📅 Week 6.md",
-    "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 7.00PM.md",
-    "Problems/🧠 Neetcode 150/03. Sliding Window/239. Sliding Window Maximum.md",
-    "Problems/🧠 Neetcode 150/03. Sliding Window/76. Minimum Window Substring.md",
-    "Problems/🧠 Neetcode 150/01. Arrays & Hashing/36. Valid Sudoku.md",
     "Problems/🧩 LeetCode/Week 7",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing",
     "Problems/🧠 Neetcode 150/02. Two Pointers",
