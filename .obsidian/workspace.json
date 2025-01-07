@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/12. Camillia Tran.md",
+                "file": "Problems/🧩 LeetCode/Week 7/1530. Number of Good Leaf Nodes Pairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Camillia Tran"
+              "title": "1530. Number of Good Leaf Nodes Pairs"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "f2463e19d41a21c1",
   "lastOpenFiles": [
-    "Updates/📅 Week 7.md",
     "Mock Interviews/12. Camillia Tran.md",
     "Mock Interviews/11. Harshal Mishra.md",
+    "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 9.29PM.md",
+    "Updates/📅 Week 7.md",
     "Mock Interviews/1. Ian Chen.md",
     "Mock Interviews/5. Harry Oates.md",
     "Mock Interviews/6. Nathan Dang-Huynh.md",
@@ -200,7 +201,6 @@
     "Promotion Requirements/🟣 Advanced",
     "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
     "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
-    "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 9.29PM.md",
     "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
     "Problems/🧩 LeetCode/Week 7",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing",
