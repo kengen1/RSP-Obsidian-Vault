@@ -27,14 +27,12 @@
             "id": "60a9c0743a0779d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Mock Interviews/11. Harshal Mishra.md",
-                "mode": "source",
-                "source": false
+                "file": "Mock Interviews/Tldraw 2025-01-07 9.21PM.md"
               },
               "icon": "lucide-file",
-              "title": "11. Harshal Mishra"
+              "title": "Tldraw 2025-01-07 9.21PM"
             }
           }
         ],
@@ -190,8 +188,11 @@
   },
   "active": "60a9c0743a0779d5",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Mock Interviews/Untitled.md",
+    "Mock Interviews/Tldraw 2025-01-07 9.21PM.md",
+    "Mock Interviews/0. Keegan Hidson.md",
     "Mock Interviews/11. Harshal Mishra.md",
+    "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Problems/🧩 LeetCode/Week 7/1530. Number of Good Leaf Nodes Pairs.md",
     "Updates/📅 Week 7.md",
     "Mock Interviews/12. Camillia Tran.md",
@@ -214,11 +215,8 @@
     "Promotion Requirements/🟢 Novice/Theory Revision Questions.md",
     "Promotion Requirements/🟢 Novice/Theory Revision Answers.md",
     "Promotion Requirements/🟢 Novice/Novice Todo List.md",
-    "Promotion Requirements/🟣 Advanced/Weekly Schedule.md",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
-    "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
-    "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
     "Problems/🧩 LeetCode/Week 7",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing",
     "Problems/🧠 Neetcode 150/02. Two Pointers",
