@@ -10,6 +10,22 @@
           {
             "id": "f2463e19d41a21c1",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2265. Count Nodes Equal To Average of Subtree"
+            }
+          },
+          {
+            "id": "60a9c0743a0779d5",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -21,7 +37,8 @@
               "title": "11. Harshal Mishra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: merge interval",
+                "query": "file: count nodes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,12 +188,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f2463e19d41a21c1",
+  "active": "60a9c0743a0779d5",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+    "Mock Interviews/11. Harshal Mishra.md",
     "Problems/🧩 LeetCode/Week 7/1530. Number of Good Leaf Nodes Pairs.md",
     "Updates/📅 Week 7.md",
     "Mock Interviews/12. Camillia Tran.md",
-    "Mock Interviews/11. Harshal Mishra.md",
     "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-06 9.29PM.md",
     "Mock Interviews/1. Ian Chen.md",
     "Mock Interviews/5. Harry Oates.md",
@@ -201,7 +219,6 @@
     "Promotion Requirements/🟣 Advanced",
     "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
     "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
-    "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
     "Problems/🧩 LeetCode/Week 7",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing",
     "Problems/🧠 Neetcode 150/02. Two Pointers",
