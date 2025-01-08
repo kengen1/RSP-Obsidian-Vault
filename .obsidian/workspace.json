@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 7/133. Clone Graph.md",
+                "file": "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "133. Clone Graph"
+              "title": "2009. Minimum Number of Operations to Make Array Contiguous"
             }
           }
         ],
@@ -190,9 +190,10 @@
   },
   "active": "f15bcbbcd00163c4",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 7/133. Clone Graph.md",
+    "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
     "Problems/🧩 LeetCode/Week 7/1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree.md",
     "Problems/🧩 LeetCode/Week 7/1130. Minimum Cost Tree From Leaf Values.md",
-    "Problems/🧩 LeetCode/Week 7/133. Clone Graph.md",
     "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
     "Problems/🧩 LeetCode/Week 7/133..md",
     "Problems/🧩 LeetCode/Week 7/1054. Distant Barcodes.md",
@@ -215,7 +216,6 @@
     "Mock Interviews/9. Mahir Numayeer Islam.md",
     "Mock Interviews/10. Steve Pham.md",
     "Promotion Requirements/🟣 Advanced.md",
-    "Promotion Requirements/🔵 Intermediate.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
