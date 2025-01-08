@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 7/133. Clone Graph.md",
+                "file": "Problems/🧩 LeetCode/Week 7/1130. Minimum Cost Tree From Leaf Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "133. Clone Graph"
+              "title": "1130. Minimum Cost Tree From Leaf Values"
             }
           }
         ],
@@ -190,8 +190,10 @@
   },
   "active": "f15bcbbcd00163c4",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 7/1054. Distant Barcodes.md",
     "Problems/🧩 LeetCode/Week 7/133. Clone Graph.md",
+    "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
+    "Problems/🧩 LeetCode/Week 7/133..md",
+    "Problems/🧩 LeetCode/Week 7/1054. Distant Barcodes.md",
     "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-08 8.55PM.md",
     "Problems/🧩 LeetCode/Week 7/1130. Minimum Cost Tree From Leaf Values.md",
     "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
@@ -214,9 +216,7 @@
     "Promotion Requirements/🟣 Advanced.md",
     "Promotion Requirements/🔵 Intermediate.md",
     "Cracking the Coding Interview/Strategies & Approaches/14. Databases.md",
-    "Cracking the Coding Interview/Strategies & Approaches/15. Threads & Locks.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
-    "Updates/📅 Week 2.md",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
     "Problems/🧩 LeetCode/Week 7",
