@@ -8,39 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f15bcbbcd00163c4",
+            "id": "7729d9fa8eab6442",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
+                "file": "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Dijkstra's Shortest Path Algorithm"
-            }
-          },
-          {
-            "id": "f9bd55f37dfa7349",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2642. Design Graph With Shortest Path Calculator"
+              "title": "2009. Minimum Number of Operations to Make Array Contiguous"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,14 +171,15 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f9bd55f37dfa7349",
+  "active": "7729d9fa8eab6442",
   "lastOpenFiles": [
-    "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
-    "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
     "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-08 11.58PM.md",
     "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
-    "Updates/📅 Week 7.md",
     "Problems/🧩 LeetCode/Week 7/133. Clone Graph.md",
+    "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
+    "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
+    "Data Structures & Algorithms/Graphs/Graphs.md",
+    "Updates/📅 Week 7.md",
     "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
     "Data Structures & Algorithms/Sliding Window.md",
     "Problems/🧩 LeetCode/Week 7/1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree.md",
@@ -217,7 +199,6 @@
     "Mock Interviews/1. Ian Chen.md",
     "Mock Interviews/5. Harry Oates.md",
     "Mock Interviews/6. Nathan Dang-Huynh.md",
-    "Mock Interviews/7. Ragav Srinivasan.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
