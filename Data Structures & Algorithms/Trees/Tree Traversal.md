@@ -10,10 +10,10 @@
 ## 2. Traversal Types and Use Cases
 
 | **Traversal Type** | **Order**                  | **Use Case**                                                    |
-| -------------------- | ---------------------------- | ----------------------------------------------------------------- |
-| In-order           | Left → Root → Right      | Retrieve elements in**sorted order** (BST).                     |
-| Pre-order          | Root → Left → Right      | **Copy** or **serialize** a tree.                               |
-| Post-order         | Left → Right → Root      | **Delete** a tree or **evaluate postfix** expressions.          |
+| ------------------ | -------------------------- | --------------------------------------------------------------- |
+| In-order           | Left → Root → Right        | Retrieve elements in**sorted order** (BST).                     |
+| Pre-order          | Root → Left → Right        | **Copy** or **serialize** a tree.                               |
+| Post-order         | Left → Right → Root        | **Delete** a tree or **evaluate postfix** expressions.          |
 | Level-order        | Top to Bottom (Level-wise) | Explore **hierarchical structures** or find **shortest paths**. |
 
 ## 3. Depth-First Search
