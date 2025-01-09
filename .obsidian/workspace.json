@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
+                "file": "Problems/🗣 Mock Revision/1725. Number of Rectangles That Can Form The Largest Square.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2009. Minimum Number of Operations to Make Array Contiguous"
+              "title": "1725. Number of Rectangles That Can Form The Largest Square"
             }
           }
         ],
@@ -190,6 +190,9 @@
   },
   "active": "5eea0e28aef319cc",
   "lastOpenFiles": [
+    "Updates/📅 Week 7.md",
+    "Problems/🗣 Mock Revision/1725. Number of Rectangles That Can Form The Largest Square.md",
+    "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
     "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
     "Problems/🧩 LeetCode/Week 7/1130. Minimum Cost Tree From Leaf Values.md",
     "Problems/🧩 LeetCode/Week 7/1054. Distant Barcodes.md",
@@ -210,12 +213,9 @@
     "Algorithm Design Manual/03. Data Structures.md",
     "Algorithm Design Manual/02. Algorithm Analysis.md",
     "Algorithm Design Manual/01. Introduction to Algorithm Design.md",
-    "Updates/📅 Week 7.md",
     "Updates/📅 Week 4.md",
     "Updates/📅 Week 6.md",
     "Problems/🧩 LeetCode/Week 7/1530. Number of Good Leaf Nodes Pairs.md",
-    "Problems/🧩 LeetCode/Week 7/1588. Sum of All Odd Length Subarrays.md",
-    "Problems/🧩 LeetCode/Week 7/1605. Find Valid Matrix Given Row and Column Sums.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
