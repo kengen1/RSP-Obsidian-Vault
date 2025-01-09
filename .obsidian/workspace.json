@@ -8,24 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2463e19d41a21c1",
+            "id": "f15bcbbcd00163c4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+                "file": "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2265. Count Nodes Equal To Average of Subtree"
+              "title": "Dijkstra's Shortest Path Algorithm"
             }
           },
           {
-            "id": "f15bcbbcd00163c4",
+            "id": "f9bd55f37dfa7349",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,6 +34,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2642. Design Graph With Shortest Path Calculator"
             }
@@ -188,10 +190,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f15bcbbcd00163c4",
+  "active": "f9bd55f37dfa7349",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-08 11.58PM.md",
+    "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
     "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
+    "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-08 11.58PM.md",
     "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
     "Updates/📅 Week 7.md",
     "Problems/🧩 LeetCode/Week 7/133. Clone Graph.md",
@@ -215,7 +218,6 @@
     "Mock Interviews/5. Harry Oates.md",
     "Mock Interviews/6. Nathan Dang-Huynh.md",
     "Mock Interviews/7. Ragav Srinivasan.md",
-    "Mock Interviews/8. Caitlyn Phan.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
