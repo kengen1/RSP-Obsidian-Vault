@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🗣 Mock Revision/650. Keys Keyboard.md",
+                "file": "Problems/🗣 Mock Revision/268. Missing Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "650. Keys Keyboard"
+              "title": "268. Missing Number"
             }
           }
         ],
@@ -190,8 +190,9 @@
   },
   "active": "5eea0e28aef319cc",
   "lastOpenFiles": [
-    "Problems/🗣 Mock Revision/1725. Number of Rectangles That Can Form The Largest Square.md",
     "Problems/🗣 Mock Revision/650. Keys Keyboard.md",
+    "Problems/🗣 Mock Revision/268. Missing Number.md",
+    "Problems/🗣 Mock Revision/1725. Number of Rectangles That Can Form The Largest Square.md",
     "Updates/📅 Week 7.md",
     "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
     "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
@@ -215,7 +216,6 @@
     "Algorithm Design Manual/02. Algorithm Analysis.md",
     "Algorithm Design Manual/01. Introduction to Algorithm Design.md",
     "Updates/📅 Week 4.md",
-    "Updates/📅 Week 6.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
