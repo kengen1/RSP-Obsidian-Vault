@@ -27,14 +27,12 @@
             "id": "1825d7486a48e70f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Mock Interviews/12. Camillia Tran.md",
-                "mode": "source",
-                "source": false
+                "file": "Mock Interviews/Tldraw 2025-01-09 9.43PM.md"
               },
               "icon": "lucide-file",
-              "title": "12. Camillia Tran"
+              "title": "Tldraw 2025-01-09 9.43PM"
             }
           }
         ],
@@ -190,8 +188,10 @@
   },
   "active": "1825d7486a48e70f",
   "lastOpenFiles": [
-    "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
+    "Mock Interviews/0. Keegan Hidson.md",
+    "Mock Interviews/Tldraw 2025-01-09 9.43PM.md",
     "Mock Interviews/12. Camillia Tran.md",
+    "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
     "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
     "Mock Interviews/10. Steve Pham.md",
     "Algorithm Design Manual/10. How to Design Algorithms.md",
@@ -214,8 +214,6 @@
     "Problems/🧩 LeetCode/Week 7/Tldraw 2025-01-08 11.58PM.md",
     "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
     "Data Structures & Algorithms/Graphs/Graphs.md",
-    "Problems/🧩 LeetCode/Week 7/929. Unique Email Addresses.md",
-    "Data Structures & Algorithms/Sliding Window.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
