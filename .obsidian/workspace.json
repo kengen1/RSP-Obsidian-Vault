@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 7.md",
+                "file": "Problems/🧠 Neetcode 150/04. Stacks/20. Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 7"
+              "title": "20. Valid Parentheses"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "651a130e77a9a395",
   "lastOpenFiles": [
+    "Problems/🧠 Neetcode 150/01. Arrays & Hashing/36. Valid Sudoku.md",
+    "Problems/🧠 Neetcode 150/04. Stacks/20. Valid Parentheses.md",
+    "Problems/🧠 Neetcode 150/04. Stacks",
+    "Updates/📅 Week 7.md",
     "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
     "Problems/🗣 Mock Revision/3079. Find the Sum of Encrypted Integers.md",
     "Mock Interviews/11. Harshal Mishra.md",
@@ -188,7 +192,6 @@
     "Problems/🗣 Mock Revision/268. Missing Number.md",
     "Problems/🗣 Mock Revision/650. Keys Keyboard.md",
     "Problems/🗣 Mock Revision/1725. Number of Rectangles That Can Form The Largest Square.md",
-    "Updates/📅 Week 7.md",
     "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
     "Problems/🧩 LeetCode/Week 7/1130. Minimum Cost Tree From Leaf Values.md",
     "Problems/🧩 LeetCode/Week 7/1054. Distant Barcodes.md",
@@ -197,8 +200,6 @@
     "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
     "Mock Interviews/Tldraw 2025-01-09 9.43PM.md",
     "Data Structures & Algorithms/Trees/Tree Traversal.md",
-    "Mock Interviews/10. Steve Pham.md",
-    "Algorithm Design Manual/10. How to Design Algorithms.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
@@ -209,7 +210,6 @@
     "Problems/🧠 Neetcode 150",
     "Problems/Neetcode150/1. Two Pointers",
     "Problems/Neetcode150/0. Arrays & Hashing",
-    "Problems/Neetcode150/2. Sliding Window",
     "Pasted image 20241202213436.png",
     "Untitled.canvas"
   ]
