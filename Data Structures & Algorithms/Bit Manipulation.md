@@ -15,14 +15,14 @@
 
 ## 2. Bitwise Operations
 
-| **Operation** | **Symbol** | **Description**                               | **Example**                    |
-|---------------|------------|-----------------------------------------------|--------------------------------|
-| AND           | `&`        | Sets each bit to 1 if both bits are 1         | `a & b`                        |
-| OR            | `\|`       | Sets each bit to 1 if at least one bit is 1   | `a \| b`                       |
-| XOR           | `^`        | Sets each bit to 1 if only one bit is 1       | `a ^ b`                        |
-| NOT           | `~`        | Inverts all bits                              | `~a`                           |
-| Left Shift    | `<<`       | Shifts bits left, filling with 0 on the right | `a << 1` (multiplies by 2)     |
-| Right Shift   | `>>`       | Shifts bits right, discarding right-most bits | `a >> 1` (divides by 2)        |
+| **Operation** | **Symbol** | **Description**                               | **Example**                |
+| ------------- | ---------- | --------------------------------------------- | -------------------------- |
+| AND           | `&`        | Sets each bit to 1 if both bits are 1         | `a & b`                    |
+| OR            | `\|`       | Sets each bit to 1 if at least one bit is 1   | `a \| b`                   |
+| XOR           | `^`        | Sets each bit to 1 if only one bit is 1       | `a ^ b`                    |
+| NOT           | `~`        | Inverts all bits                              | `~a`                       |
+| Left Shift    | `<<`       | Shifts bits left, filling with 0 on the right | `a << 1` (multiplies by 2) |
+| Right Shift   | `>>`       | Shifts bits right, discarding right-most bits | `a >> 1` (divides by 2)    |
 
 ## 3. Key Bit Manipulation Techniques
 
