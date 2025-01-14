@@ -35,7 +35,8 @@
               "title": "61. Rotate List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +186,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "9a9973eb72a36d93",
+  "active": "c1a1f7620689acd8",
   "lastOpenFiles": [
+    "Updates/📅 Week 8.md",
     "Problems/🧩 LeetCode/Week 6/860. Lemonade Change.md",
     "Mock Interviews/13. Ben Signorelli.md",
     "Problems/🗣 Mock Revision/61. Rotate List.md",
     "Problems/🗣 Mock Revision/66. Plus One.md",
-    "Updates/📅 Week 8.md",
     "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Mock Interviews/Tldraw 2025-01-14 8.31PM.md",
     "Mock Interviews/0. Keegan Hidson.md",
