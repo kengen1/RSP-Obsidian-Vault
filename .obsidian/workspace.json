@@ -11,14 +11,12 @@
             "id": "c33ce6ec91a2bbdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Mock Interviews/13. Ben Signorelli.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/🧩 LeetCode/Week 2/Tldraw 2025-01-14 7.58PM.md"
               },
               "icon": "lucide-file",
-              "title": "13. Ben Signorelli"
+              "title": "Tldraw 2025-01-14 7.58PM"
             }
           }
         ]
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: bit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +171,10 @@
   },
   "active": "c33ce6ec91a2bbdc",
   "lastOpenFiles": [
-    "Mock Interviews/12. Camillia Tran.md",
+    "Problems/🧩 LeetCode/Week 2/2. Add Two Numbers.md",
+    "Problems/🧩 LeetCode/Week 2/Tldraw 2025-01-14 7.58PM.md",
     "Mock Interviews/13. Ben Signorelli.md",
+    "Mock Interviews/12. Camillia Tran.md",
     "Mock Interviews/7. Ragav Srinivasan.md",
     "Mock Interviews/8. Caitlyn Phan.md",
     "Mock Interviews/10. Steve Pham.md",
@@ -199,8 +199,6 @@
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing/36. Valid Sudoku.md",
     "Problems/🧠 Neetcode 150/04. Stacks",
     "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
-    "Problems/🗣 Mock Revision/3079. Find the Sum of Encrypted Integers.md",
-    "Mock Interviews/0. Keegan Hidson.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
