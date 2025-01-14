@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/8. Caitlyn Phan.md",
+                "file": "Mock Interviews/13. Ben Signorelli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Caitlyn Phan"
+              "title": "13. Ben Signorelli"
             }
           }
         ]
@@ -173,10 +173,12 @@
   },
   "active": "c33ce6ec91a2bbdc",
   "lastOpenFiles": [
-    "Mock Interviews/10. Steve Pham.md",
-    "Mock Interviews/11. Harshal Mishra.md",
     "Mock Interviews/12. Camillia Tran.md",
     "Mock Interviews/13. Ben Signorelli.md",
+    "Mock Interviews/7. Ragav Srinivasan.md",
+    "Mock Interviews/8. Caitlyn Phan.md",
+    "Mock Interviews/10. Steve Pham.md",
+    "Mock Interviews/11. Harshal Mishra.md",
     "Updates/📅 Week 8.md",
     "Portfolio Website Mockup.md",
     "Problems/🧠 Neetcode 150/04. Stacks/22. Generate Parentheses.md",
@@ -199,8 +201,6 @@
     "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
     "Problems/🗣 Mock Revision/3079. Find the Sum of Encrypted Integers.md",
     "Mock Interviews/0. Keegan Hidson.md",
-    "Promotion Requirements/🟢 Novice/Theory Revision Questions.md",
-    "Promotion Requirements/🟢 Novice/Theory Revision Answers.md",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
     "Promotion Requirements/🟣 Advanced",
