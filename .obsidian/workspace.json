@@ -26,6 +26,23 @@
           {
             "id": "d305cf2267d18df8",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2265. Count Nodes Equal To Average of Subtree"
+            }
+          },
+          {
+            "id": "48998505ae887dc3",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,12 +50,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "13. Ben Signorelli"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lemonade",
+                "query": "count nodes equal to average of subtree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,10 +206,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "d305cf2267d18df8",
+  "active": "48998505ae887dc3",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 6/860. Lemonade Change.md",
+    "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Mock Interviews/13. Ben Signorelli.md",
+    "Problems/🧩 LeetCode/Week 6/860. Lemonade Change.md",
     "Mock Interviews/Tldraw 2025-01-14 8.31PM.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Problems/🧩 LeetCode/Week 2/Tldraw 2025-01-14 7.58PM.md",
@@ -216,7 +235,6 @@
     "Updates/📅 Week 6.md",
     "Promotion Requirements/🟣 Advanced.md",
     "Problems/🧠 Neetcode 150/04. Stacks/150. Evaluate Reverse Polish Notation.md",
-    "Problems/🧠 Neetcode 150/04. Stacks/155. Min Stack.md",
     "Problems/🧠 Neetcode 150/04. Stacks",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
     "Promotion Requirements/🔵 Intermediate",
