@@ -49,8 +49,7 @@
               "title": "61. Rotate List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +199,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "cb96af413977499d",
+  "active": "9a9973eb72a36d93",
   "lastOpenFiles": [
-    "Templates/🎯 Problem Deep Dive.md",
     "Templates/📦 Mock Interview (OOD).md",
+    "Templates/🗣 Mock Interview.md",
     "Mock Interviews/OOP Mock Question.md",
+    "Templates/🎯 Problem Deep Dive.md",
     "Updates/📅 Week 8.md",
     "Problems/🗣 Mock Revision/61. Rotate List.md",
     "Problems/🧩 LeetCode/Week 6/860. Lemonade Change.md",
@@ -227,7 +227,6 @@
     "Problems/🧩 LeetCode/Week 8/1486. XOR Operation in an Array.md",
     "Problems/🧩 LeetCode/Week 8/Tldraw 2025-01-13 9.11PM.md",
     "Problems/🧩 LeetCode/Week 8/3184. Count Pairs That Form a Complete Day I.md",
-    "Data Structures & Algorithms/Bit Manipulation.md",
     "Problems/🧩 LeetCode/Week 8",
     "Problems/🧠 Neetcode 150/04. Stacks",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
