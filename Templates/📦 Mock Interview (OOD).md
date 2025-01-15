@@ -3,6 +3,20 @@
 - **Title:** `Design a Cache and TokenManager`
 - **Link:* [[OOP Mock Question]]
 
+### **OOP Principles and Design Patterns to look for:**
+
+| **Principle/Pattern**      | **Description**                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Encapsulation**          | Keep `state` and TTL logic private within the `Cache` class. Expose only necessary methods (`read`, `update`, etc.).       |
+| **Separation of Concerns** | Ensure the `Cache` handles state management and TTL logic, while `TokenManager` handles the management of multiple caches. |
+| **Single Responsibility**  | `Cache` focuses on managing a single state's lifecycle, while `TokenManager` manages multiple caches for different APIs.   |
+| **Abstraction**            | Use higher-order functions (e.g., `updateFunction`) to allow flexible and reusable refresh logic across use cases.         |
+| **Singleton Pattern**      | (Optional) Ensure only one instance of `TokenManager` exists if global cache management is required.                       |
+| **Factory Pattern**        | (Optional) Use a factory method in `TokenManager` for dynamic creation of caches based on API types or configurations.     |
+| **Open/Closed Principle**  | The system allows extending functionality (e.g., adding new caches or modifying TTLs) without altering core logic.         |
+| **Fail-Safe Design**       | Implement error handling for `updateFunction` failures or invalid TTL values to ensure system resilience.                  |
+| **Lazy Initialization**    | Initialize the cache state only when `read` is called, avoiding unnecessary updates when idle.                             |
+
 ### **Understanding the Problem**
 
 |Confirming Question|✅/❌|
