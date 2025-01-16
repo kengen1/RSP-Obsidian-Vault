@@ -38,8 +38,21 @@
               "icon": "lucide-file",
               "title": "14. Baichuan Yu"
             }
+          },
+          {
+            "id": "b3c6cebfa1d1b8d9",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-view",
+              "state": {
+                "file": "Mock Interviews/Tldraw 2025-01-16 6.07PM.md"
+              },
+              "icon": "lucide-file",
+              "title": "Tldraw 2025-01-16 6.07PM"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,10 +202,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "9a9973eb72a36d93",
+  "active": "b3c6cebfa1d1b8d9",
   "lastOpenFiles": [
-    "Mock Interviews/14. Baichuan Yu.md",
     "Mock Interviews/OOP Mock Question.md",
+    "Mock Interviews/Tldraw 2025-01-16 6.07PM.md",
+    "Mock Interviews/14. Baichuan Yu.md",
     "Updates/📅 Week 8.md",
     "Mock Interviews/12. Camillia Tran.md",
     "Mock Interviews/13. Ben Signorelli.md",
@@ -216,7 +230,6 @@
     "Problems/🗣 Mock Revision/66. Plus One.md",
     "Problems/🧩 LeetCode/Week 1/2265. Count Nodes Equal To Average of Subtree.md",
     "Mock Interviews/Tldraw 2025-01-14 8.31PM.md",
-    "Problems/🧩 LeetCode/Week 2/Tldraw 2025-01-14 7.58PM.md",
     "Problems/🧩 LeetCode/Week 8",
     "Problems/🧠 Neetcode 150/04. Stacks",
     "Cracking the Coding Interview/Strategies & Approaches/0. Problem Solving Flowchart.png",
