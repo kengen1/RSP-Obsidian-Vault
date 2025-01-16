@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae7abf9d8694df72",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/🧩 LeetCode/Week 8/2207. Maximize Number of Subsequences in a String.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2207. Maximize Number of Subsequences in a String"
-            }
-          },
-          {
             "id": "8136e0855d1dfc1a",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Updates/Tldraw 2025-01-17 12.00AM.md"
+                "file": "Problems/🧩 LeetCode/Week 8/2365. Task Scheduler II.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2025-01-17 12.00AM"
+              "title": "2365. Task Scheduler II"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +174,13 @@
   "active": "8136e0855d1dfc1a",
   "lastOpenFiles": [
     "Updates/📅 Week 8.md",
+    "Problems/🧩 LeetCode/Week 8/2365. Task Scheduler II.md",
     "Updates/Tldraw 2025-01-17 12.00AM.md",
     "Problems/🗣 Mock Revision/61. Rotate List.md",
     "Problems/🗣 Mock Revision/66. Plus One.md",
     "Problems/🧩 LeetCode/Week 8/2304. Minimum Path Cost in a Grid.md",
     "Problems/🧩 LeetCode/Week 8/204. Count Primes.md",
     "Problems/🧩 LeetCode/Week 8/2207. Maximize Number of Subsequences in a String.md",
-    "Problems/🧩 LeetCode/Week 8/2365. Task Scheduler.md",
     "Problems/🧩 LeetCode/Week 8/518. Coin Change II.md",
     "Problems/🧩 LeetCode/Week 8/2591. Distribute Money to Maximum Children.md",
     "Mock Interviews/OOP Mock Question.md",
