@@ -39,8 +39,7 @@
               "title": "14. Baichuan Yu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +189,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "a193ddf65ef0f7e2",
+  "active": "9a9973eb72a36d93",
   "lastOpenFiles": [
+    "Mock Interviews/14. Baichuan Yu.md",
     "Mock Interviews/OOP Mock Question.md",
     "Updates/📅 Week 8.md",
-    "Mock Interviews/14. Baichuan Yu.md",
     "Mock Interviews/12. Camillia Tran.md",
     "Mock Interviews/13. Ben Signorelli.md",
     "Problems/🗣 Mock Revision/61. Rotate List.md",
