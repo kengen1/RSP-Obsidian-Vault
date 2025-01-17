@@ -11,12 +11,14 @@
             "id": "8136e0855d1dfc1a",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 8/Tldraw 2025-01-17 1.24AM.md"
+                "file": "Problems/🧩 LeetCode/Week 8/2304. Minimum Path Cost in a Grid.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2025-01-17 1.24AM"
+              "title": "2304. Minimum Path Cost in a Grid"
             }
           }
         ]
@@ -171,9 +173,9 @@
   },
   "active": "8136e0855d1dfc1a",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 8/Tldraw 2025-01-17 1.24AM.md",
     "Problems/🧩 LeetCode/Week 8/2304. Minimum Path Cost in a Grid.md",
     "Problems/🧩 LeetCode/Week 8/2207. Maximize Number of Subsequences in a String.md",
-    "Problems/🧩 LeetCode/Week 8/Tldraw 2025-01-17 1.24AM.md",
     "Templates/🧠 Neetcode 150.md",
     "Problems/🧩 LeetCode/Week 8/3184. Count Pairs That Form a Complete Day I.md",
     "Mock Interviews/OOP Mock Question.md",
