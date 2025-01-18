@@ -1,7 +1,7 @@
 ## **Object-Oriented Design (OOP/OOD) Problem**
 
 - **Title:** `Design a Cache and TokenManager`
-- **Link:* [[OOP Mock Question]]
+- **Link:* [[Object Oriented Design Question]]
 
 ### **OOP Principles and Design Patterns to look for:**
 

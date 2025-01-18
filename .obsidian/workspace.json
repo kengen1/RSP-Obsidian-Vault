@@ -11,12 +11,14 @@
             "id": "6389a3b7e6500dc8",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Portfolio Website Mockup.md"
+                "file": "Problems/🧠 Neetcode 150/04. Stacks/22. Generate Parentheses.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio Website Mockup"
+              "title": "22. Generate Parentheses"
             }
           }
         ]
@@ -171,11 +173,17 @@
   },
   "active": "6389a3b7e6500dc8",
   "lastOpenFiles": [
-    "Mock Interviews/Extended Mocks/Questions/OOP Mock Question.md",
-    "Mock Interviews/Extended Mocks/1. Baichuan Yu.md",
+    "Mock Interviews/0. Keegan Hidson.md",
+    "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
+    "Mock Interviews/Extended Mocks/System Design Question.md",
+    "Mock Interviews/14. Baichuan Yu.md",
+    "Mock Interviews/11. Harshal Mishra.md",
+    "Mock Interviews/Leetcode Mocks",
+    "Mock Interviews/12. Camillia Tran.md",
+    "Mock Interviews/13. Ben Signorelli.md",
+    "Portfolio Website Mockup.md",
     "Mock Interviews/Extended Mocks/Questions",
     "Mock Interviews/Extended Mocks",
-    "Mock Interviews/13. Ben Signorelli.md",
     "Cracking the Coding Interview/0. Problem Solving Flowchart.png",
     "Problems/🧠 Neetcode 150/04. Stacks/22. Generate Parentheses.md",
     "Problems/🧠 Neetcode 150/04. Stacks/155. Min Stack.md",
@@ -190,15 +198,11 @@
     "Mock Interviews/3. Samuel Sadek.md",
     "Mock Interviews/2. Quinn Hindmarsh.md",
     "Mock Interviews/1. Ian Chen.md",
-    "Mock Interviews/0. Keegan Hidson.md",
     "Mock Interviews/5. Harry Oates.md",
     "Mock Interviews/6. Nathan Dang-Huynh.md",
     "Mock Interviews/8. Caitlyn Phan.md",
     "Mock Interviews/7. Ragav Srinivasan.md",
     "Mock Interviews/9. Mahir Numayeer Islam.md",
-    "Mock Interviews/10. Steve Pham.md",
-    "Mock Interviews/11. Harshal Mishra.md",
-    "Mock Interviews/12. Camillia Tran.md",
     "Problems/🧩 LeetCode/Week 8",
     "Problems/🧠 Neetcode 150/04. Stacks",
     "Promotion Requirements/🔵 Intermediate",
@@ -206,7 +210,6 @@
     "Problems/🧩 LeetCode/Week 7",
     "Problems/🧠 Neetcode 150/01. Arrays & Hashing",
     "Problems/🧠 Neetcode 150/02. Two Pointers",
-    "Problems/🧠 Neetcode 150/03. Sliding Window",
     "Pasted image 20241202213436.png",
     "Untitled.canvas"
   ]
