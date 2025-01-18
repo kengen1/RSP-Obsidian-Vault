@@ -11,14 +11,12 @@
             "id": "6389a3b7e6500dc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/🗣 Mock Revision/355. Design Twitter.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/🗣 Mock Revision/Tldraw 2025-01-19 3.42AM.md"
               },
               "icon": "lucide-file",
-              "title": "355. Design Twitter"
+              "title": "Tldraw 2025-01-19 3.42AM"
             }
           }
         ]
@@ -173,8 +171,9 @@
   },
   "active": "6389a3b7e6500dc8",
   "lastOpenFiles": [
-    "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
     "Problems/🗣 Mock Revision/355. Design Twitter.md",
+    "Problems/🗣 Mock Revision/Tldraw 2025-01-19 3.42AM.md",
+    "Data Structures & Algorithms/Dynamic Programming/Tabulation (Bottom-Up Approach).md",
     "Data Structures & Algorithms/Dynamic Programming/States.md",
     "Data Structures & Algorithms/Dynamic Programming/Memoization (Top-Down Approach).md",
     "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
@@ -202,7 +201,6 @@
     "Updates/📅 Week 8.md",
     "Mock Interviews/4. Aiken Lee.md",
     "Mock Interviews/3. Samuel Sadek.md",
-    "Mock Interviews/2. Quinn Hindmarsh.md",
     "Problems/🧩 LeetCode/Week 8",
     "Problems/🧠 Neetcode 150/04. Stacks",
     "Promotion Requirements/🔵 Intermediate",
