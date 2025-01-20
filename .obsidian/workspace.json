@@ -11,14 +11,12 @@
             "id": "6389a3b7e6500dc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 9/563. Binary Tree Tilt.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-20 9.34PM.md"
               },
               "icon": "lucide-file",
-              "title": "563. Binary Tree Tilt"
+              "title": "Tldraw 2025-01-20 9.34PM"
             }
           }
         ]
@@ -173,10 +171,10 @@
   },
   "active": "6389a3b7e6500dc8",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-20 9.34PM.md",
-    "Problems/🧩 LeetCode/Week 9/563. Binary Tree Tilt.md",
-    "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
     "Problems/🧩 LeetCode/Week 9/1154. Day of the Year.md",
+    "Problems/🧩 LeetCode/Week 9/563. Binary Tree Tilt.md",
+    "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-20 9.34PM.md",
+    "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
     "Problems/🧠 Neetcode 150/04. Stacks/84. Largest Rectangle in Histogram.md",
     "Problems/🧩 LeetCode/Week 9",
     "Problems/🧠 Neetcode 150/04. Stacks/853. Car Fleet.md",
