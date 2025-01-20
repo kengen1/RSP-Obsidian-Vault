@@ -56,85 +56,11 @@ tags: [tldraw]
 				"typeName": "document"
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"lastActivityTimestamp": 0,
-				"meta": {},
-				"id": "pointer:pointer",
-				"typeName": "pointer"
-			},
-			{
 				"meta": {},
 				"id": "page:page",
 				"name": "Page 1",
 				"index": "a1",
 				"typeName": "page"
-			},
-			{
-				"followingUserId": null,
-				"opacityForNextShape": 1,
-				"stylesForNextShape": {},
-				"brush": null,
-				"scribbles": [],
-				"cursor": {
-					"type": "default",
-					"rotation": 0
-				},
-				"isFocusMode": false,
-				"exportBackground": true,
-				"isDebugMode": false,
-				"isToolLocked": false,
-				"screenBounds": {
-					"x": 0,
-					"y": 0,
-					"w": 1080,
-					"h": 720
-				},
-				"insets": [
-					false,
-					false,
-					false,
-					false
-				],
-				"zoomBrush": null,
-				"isGridMode": false,
-				"isPenMode": false,
-				"chatMessage": "",
-				"isChatting": false,
-				"highlightedUserIds": [],
-				"isFocused": false,
-				"devicePixelRatio": 1.3145341873168945,
-				"isCoarsePointer": false,
-				"isHoveringCanvas": null,
-				"openMenus": [],
-				"isChangingStyle": false,
-				"isReadonly": false,
-				"meta": {},
-				"duplicateProps": null,
-				"id": "instance:instance",
-				"currentPageId": "page:page",
-				"typeName": "instance"
-			},
-			{
-				"editingShapeId": null,
-				"croppingShapeId": null,
-				"selectedShapeIds": [],
-				"hoveredShapeId": null,
-				"erasingShapeIds": [],
-				"hintingShapeIds": [],
-				"focusedGroupId": null,
-				"meta": {},
-				"id": "instance_page_state:page:page",
-				"pageId": "page:page",
-				"typeName": "instance_page_state"
-			},
-			{
-				"x": 0,
-				"y": 0,
-				"z": 1,
-				"meta": {},
-				"id": "camera:page:page",
-				"typeName": "camera"
 			},
 			{
 				"x": -25.075416040543587,
@@ -704,6 +630,80 @@ tags: [tldraw]
 				"parentId": "page:page",
 				"index": "aM6U8",
 				"typeName": "shape"
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"lastActivityTimestamp": 0,
+				"meta": {},
+				"id": "pointer:pointer",
+				"typeName": "pointer"
+			},
+			{
+				"followingUserId": null,
+				"opacityForNextShape": 1,
+				"stylesForNextShape": {},
+				"brush": null,
+				"scribbles": [],
+				"cursor": {
+					"type": "default",
+					"rotation": 0
+				},
+				"isFocusMode": false,
+				"exportBackground": true,
+				"isDebugMode": false,
+				"isToolLocked": false,
+				"screenBounds": {
+					"x": 0,
+					"y": 0,
+					"w": 1080,
+					"h": 720
+				},
+				"insets": [
+					false,
+					false,
+					false,
+					false
+				],
+				"zoomBrush": null,
+				"isGridMode": false,
+				"isPenMode": false,
+				"chatMessage": "",
+				"isChatting": false,
+				"highlightedUserIds": [],
+				"isFocused": false,
+				"devicePixelRatio": 1.5774409770965576,
+				"isCoarsePointer": false,
+				"isHoveringCanvas": null,
+				"openMenus": [],
+				"isChangingStyle": false,
+				"isReadonly": false,
+				"meta": {},
+				"duplicateProps": null,
+				"id": "instance:instance",
+				"currentPageId": "page:page",
+				"typeName": "instance"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:page",
+				"pageId": "page:page",
+				"typeName": "instance_page_state"
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:page",
+				"typeName": "camera"
 			}
 		]
 	}
