@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 9/Untitled.md",
+                "file": "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2980. Check if Bitwise OR Has Trailing Zeros"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "6389a3b7e6500dc8",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 9/1154. Day of the Year.md",
+    "Problems/🧩 LeetCode/Week 9/563. Binary Tree Tilt.md",
+    "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
     "Problems/🧠 Neetcode 150/04. Stacks/84. Largest Rectangle in Histogram.md",
-    "Problems/🧩 LeetCode/Week 9/Untitled.md",
     "Problems/🧩 LeetCode/Week 9",
     "Problems/🧠 Neetcode 150/04. Stacks/853. Car Fleet.md",
     "Updates/📅 Week 9.md",
@@ -199,8 +201,6 @@
     "Mock Interviews/14. Baichuan Yu.md",
     "Mock Interviews/11. Harshal Mishra.md",
     "Mock Interviews/Leetcode Mocks",
-    "Mock Interviews/12. Camillia Tran.md",
-    "Mock Interviews/13. Ben Signorelli.md",
     "Mock Interviews/Extended Mocks/Questions",
     "Mock Interviews/Extended Mocks",
     "Cracking the Coding Interview/0. Problem Solving Flowchart.png",
