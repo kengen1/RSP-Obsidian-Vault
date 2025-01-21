@@ -39,7 +39,8 @@
               "title": "15. Pragya Kaushik"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +190,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "6389a3b7e6500dc8",
+  "active": "c7c62fd71aec4bb5",
   "lastOpenFiles": [
-    "Mock Interviews/15. Pragya Kaushik.md",
     "Problems/🧩 LeetCode/Week 6/860. Lemonade Change.md",
+    "Mock Interviews/15. Pragya Kaushik.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/Extended Mocks/System Design Question.md",
     "Mock Interviews/13. Ben Signorelli.md",
