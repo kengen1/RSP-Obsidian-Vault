@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c10a4416583ddc7c",
+  "active": "b25fae045f04a36d",
   "lastOpenFiles": [
     "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md",
     "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
