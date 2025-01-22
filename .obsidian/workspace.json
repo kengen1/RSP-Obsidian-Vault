@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6389a3b7e6500dc8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/🧩 LeetCode/Week 6/860. Lemonade Change.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "860. Lemonade Change"
-            }
-          },
-          {
-            "id": "c7c62fd71aec4bb5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mock Interviews/15. Pragya Kaushik.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "15. Pragya Kaushik"
-            }
-          },
-          {
             "id": "5aa65e02c3c381c9",
             "type": "leaf",
             "state": {
@@ -53,8 +21,7 @@
               "title": "📅 Week 9"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,11 +171,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c7c62fd71aec4bb5",
+  "active": "5aa65e02c3c381c9",
   "lastOpenFiles": [
+    "Mock Interviews/15. Pragya Kaushik.md",
     "Updates/📅 Week 9.md",
     "Mock Interviews/0. Keegan Hidson.md",
-    "Mock Interviews/15. Pragya Kaushik.md",
     "Problems/🧩 LeetCode/Week 6/860. Lemonade Change.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/Extended Mocks/System Design Question.md",
