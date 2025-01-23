@@ -29,10 +29,10 @@
             "state": {
               "type": "tldraw-view",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md"
+                "file": "Portfolio Website Mockup.md"
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2025-01-22 8.58PM"
+              "title": "Portfolio Website Mockup"
             }
           }
         ],
@@ -188,20 +188,22 @@
   },
   "active": "cb5c379deb53d9c8",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 9/2256. Minimum Average Difference.md",
     "Updates/📅 Week 9.md",
+    "Problems/🧩 LeetCode/Week 9/1202. Smallest String With Swaps.md",
+    "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md",
+    "Problems/🧩 LeetCode/Week 9/433. Minimum Genetic Mutation.md",
+    "Problems/🧩 LeetCode/Week 9/2244. Minimum Rounds to Complete All Tasks.md",
+    "Problems/🧩 LeetCode/Week 9/2256. Minimum Average Difference.md",
+    "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
     "Mock Interviews/16. Harshal Mishra (2).md",
     "Mock Interviews/Tldraw 2025-01-23 9.12PM.md",
     "Mock Interviews/11. Harshal Mishra.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/15. Pragya Kaushik.md",
-    "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md",
     "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
     "Problems/🧩 LeetCode/Week 9/563. Binary Tree Tilt.md",
-    "Problems/🧩 LeetCode/Week 9/2244. Minimum Rounds to Complete All Tasks.md",
     "Problems/🧩 LeetCode/Week 9/1154. Day of the Year.md",
-    "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
     "Problems/🧩 LeetCode/Week 8/3184. Count Pairs That Form a Complete Day I.md",
     "Problems/🧩 LeetCode/Week 8/2591. Distribute Money to Maximum Children.md",
     "Problems/🧩 LeetCode/Week 8/2365. Task Scheduler II.md",
@@ -212,8 +214,6 @@
     "Problems/🧩 LeetCode/Week 8/1486. XOR Operation in an Array.md",
     "Problems/🧩 LeetCode/Week 8/518. Coin Change II.md",
     "Problems/🧩 LeetCode/Week 8/204. Count Primes.md",
-    "Problems/🧩 LeetCode/Week 7/2642. Design Graph With Shortest Path Calculator.md",
-    "Problems/🧩 LeetCode/Week 7/2009. Minimum Number of Operations to Make Array Contiguous.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
