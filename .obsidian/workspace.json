@@ -40,31 +40,21 @@
             }
           },
           {
-            "id": "24a1ff311e6c1847",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "7102725787467632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 9/1202. Smallest String With Swaps.md",
+                "file": "Problems/🗣 Mock Revision/2160. Minimum Sum of Four Digit Number After Splitting Digits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1202. Smallest String With Swaps"
+              "title": "2160. Minimum Sum of Four Digit Number After Splitting Digits"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,19 +204,21 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "b2922c60f2d2125e",
+  "active": "7102725787467632",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 9/1202. Smallest String With Swaps.md",
-    "Data Structures & Algorithms/Graphs/Union-Find (Disjoint Set).md",
+    "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
+    "Problems/🗣 Mock Revision/2160. Minimum Sum of Four Digit Number After Splitting Digits.md",
+    "Problems/🗣 Mock Revision/Tldraw 2025-01-19 3.42AM.md",
     "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-24 5.11PM.md",
+    "Problems/🧩 LeetCode/Week 9/1202. Smallest String With Swaps.md",
+    "Updates/📅 Week 9.md",
+    "Data Structures & Algorithms/Graphs/Union-Find (Disjoint Set).md",
     "Problems/🧩 LeetCode/Week 9/433. Minimum Genetic Mutation.md",
     "Problems/🧩 LeetCode/Week 9/2256. Minimum Average Difference.md",
     "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
     "Problems/🧩 LeetCode/Week 9/563. Binary Tree Tilt.md",
     "Problems/🧩 LeetCode/Week 9/1154. Day of the Year.md",
     "Problems/🧩 LeetCode/Week 9/2244. Minimum Rounds to Complete All Tasks.md",
-    "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
-    "Updates/📅 Week 9.md",
     "Mock Interviews/11. Harshal Mishra.md",
     "Portfolio Website Mockup.md",
     "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md",
@@ -240,8 +232,6 @@
     "Problems/🧩 LeetCode/Week 8/2365. Task Scheduler II.md",
     "Problems/🧩 LeetCode/Week 8/2304. Minimum Path Cost in a Grid.md",
     "Problems/🧩 LeetCode/Week 8/2207. Maximize Number of Subsequences in a String.md",
-    "Problems/🧩 LeetCode/Week 8/1569. Number of Ways to Reorder Array to Get Same BST.md",
-    "Problems/🧩 LeetCode/Week 8/1494. Parallel Courses II.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
