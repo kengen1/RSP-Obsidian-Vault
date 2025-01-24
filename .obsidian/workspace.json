@@ -43,14 +43,12 @@
             "id": "24a1ff311e6c1847",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 9/1202. Smallest String With Swaps.md",
-                "mode": "source",
-                "source": false
+                "file": "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-24 5.11PM.md"
               },
               "icon": "lucide-file",
-              "title": "1202. Smallest String With Swaps"
+              "title": "Tldraw 2025-01-24 5.11PM"
             }
           }
         ],
@@ -206,8 +204,8 @@
   },
   "active": "24a1ff311e6c1847",
   "lastOpenFiles": [
-    "Problems/🧩 LeetCode/Week 9/433. Minimum Genetic Mutation.md",
     "Problems/🧩 LeetCode/Week 9/1202. Smallest String With Swaps.md",
+    "Problems/🧩 LeetCode/Week 9/433. Minimum Genetic Mutation.md",
     "Data Structures & Algorithms/Graphs/Union-Find (Disjoint Set).md",
     "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-24 5.11PM.md",
     "Problems/🧩 LeetCode/Week 9/2256. Minimum Average Difference.md",
