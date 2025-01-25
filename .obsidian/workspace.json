@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🗣 Mock Revision/130. Surrounded Regions.md",
+                "file": "Problems/🧩 LeetCode/Week 9/2872. Maximum Number of K-Divisible Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "130. Surrounded Regions"
+              "title": "2872. Maximum Number of K-Divisible Components"
             }
           }
         ],
@@ -190,8 +190,9 @@
   },
   "active": "266059946fd77a9f",
   "lastOpenFiles": [
-    "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
     "Problems/🗣 Mock Revision/130. Surrounded Regions.md",
+    "Problems/🧩 LeetCode/Week 9/2872. Maximum Number of K-Divisible Components.md",
+    "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
     "Updates/📅 Week 9.md",
     "Updates/📅 Week 8.md",
     "Updates/📅 Week 7.md",
@@ -215,7 +216,6 @@
     "Mock Interviews/16. Harshal Mishra (2).md",
     "Mock Interviews/Tldraw 2025-01-23 9.12PM.md",
     "Mock Interviews/0. Keegan Hidson.md",
-    "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
