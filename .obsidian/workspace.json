@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
+                "file": "Problems/🗣 Mock Revision/130. Surrounded Regions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2116. Check if a Parentheses String Can Be Valid"
+              "title": "130. Surrounded Regions"
             }
           }
         ],
@@ -190,12 +190,13 @@
   },
   "active": "266059946fd77a9f",
   "lastOpenFiles": [
+    "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
+    "Problems/🗣 Mock Revision/130. Surrounded Regions.md",
     "Updates/📅 Week 9.md",
     "Updates/📅 Week 8.md",
     "Updates/📅 Week 7.md",
     "README.md",
     "Portfolio Website Mockup.md",
-    "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
     "Problems/🗣 Mock Revision/1287. Element Appearing More Than 25% In Sorted Array.md",
     "Problems/🗣 Mock Revision/2160. Minimum Sum of Four Digit Number After Splitting Digits.md",
     "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
@@ -215,7 +216,6 @@
     "Mock Interviews/Tldraw 2025-01-23 9.12PM.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
-    "Mock Interviews/15. Pragya Kaushik.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
