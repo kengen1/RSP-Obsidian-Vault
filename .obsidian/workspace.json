@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "📅 Week 9"
             }
+          },
+          {
+            "id": "266059946fd77a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2116. Check if a Parentheses String Can Be Valid"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,11 +188,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "5aa65e02c3c381c9",
+  "active": "266059946fd77a9f",
   "lastOpenFiles": [
+    "Updates/📅 Week 9.md",
+    "Updates/📅 Week 8.md",
+    "Updates/📅 Week 7.md",
     "README.md",
     "Portfolio Website Mockup.md",
-    "Updates/📅 Week 9.md",
     "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
     "Problems/🗣 Mock Revision/1287. Element Appearing More Than 25% In Sorted Array.md",
     "Problems/🗣 Mock Revision/2160. Minimum Sum of Four Digit Number After Splitting Digits.md",
@@ -199,8 +216,6 @@
     "Mock Interviews/0. Keegan Hidson.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/15. Pragya Kaushik.md",
-    "Problems/🧩 LeetCode/Week 8/3184. Count Pairs That Form a Complete Day I.md",
-    "Problems/🧩 LeetCode/Week 8/2591. Distribute Money to Maximum Children.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
