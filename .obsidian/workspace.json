@@ -37,8 +37,7 @@
               "title": "2872. Maximum Number of K-Divisible Components"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,12 +187,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "266059946fd77a9f",
+  "active": "5aa65e02c3c381c9",
   "lastOpenFiles": [
-    "Problems/🗣 Mock Revision/130. Surrounded Regions.md",
     "Problems/🧩 LeetCode/Week 9/2872. Maximum Number of K-Divisible Components.md",
-    "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
+    "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
     "Updates/📅 Week 9.md",
+    "Problems/🗣 Mock Revision/130. Surrounded Regions.md",
+    "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
     "Updates/📅 Week 8.md",
     "Updates/📅 Week 7.md",
     "README.md",
@@ -215,7 +215,6 @@
     "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md",
     "Mock Interviews/16. Harshal Mishra (2).md",
     "Mock Interviews/Tldraw 2025-01-23 9.12PM.md",
-    "Mock Interviews/0. Keegan Hidson.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
