@@ -26,6 +26,7 @@
           {
             "id": "266059946fd77a9f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,22 +34,21 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2872. Maximum Number of K-Divisible Components"
             }
           },
           {
-            "id": "7a9b5363be9a6602",
+            "id": "bdb8068bfc947348",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Updates/📅 Week 8.md",
-                "mode": "source",
-                "source": false
+                "file": "Updates/Tldraw 2025-01-26 7.54PM.md"
               },
               "icon": "lucide-file",
-              "title": "📅 Week 8"
+              "title": "Tldraw 2025-01-26 7.54PM"
             }
           }
         ],
@@ -202,12 +202,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "7a9b5363be9a6602",
+  "active": "bdb8068bfc947348",
   "lastOpenFiles": [
     "Updates/📅 Week 9.md",
+    "Updates/Tldraw 2025-01-26 7.54PM.md",
+    "Problems/🧩 LeetCode/Week 9/2872. Maximum Number of K-Divisible Components.md",
     "Updates/📅 Week 8.md",
     "Updates/📅 Week 7.md",
-    "Problems/🧩 LeetCode/Week 9/2872. Maximum Number of K-Divisible Components.md",
     "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
     "Problems/🗣 Mock Revision/130. Surrounded Regions.md",
     "Problems/🗣 Mock Revision/2116. Check if a Parentheses String Can Be Valid.md",
@@ -229,7 +230,6 @@
     "Mock Interviews/11. Harshal Mishra.md",
     "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md",
     "Mock Interviews/16. Harshal Mishra (2).md",
-    "Mock Interviews/Tldraw 2025-01-23 9.12PM.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
