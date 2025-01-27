@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates/📅 Week 9.md",
+                "file": "Updates/📅 Week 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📅 Week 9"
+              "title": "📅 Week 10"
             }
           },
           {
@@ -204,8 +204,9 @@
   },
   "active": "bdb8068bfc947348",
   "lastOpenFiles": [
-    "Portfolio Website Mockup.md",
     "Updates/📅 Week 9.md",
+    "Updates/📅 Week 10.md",
+    "Portfolio Website Mockup.md",
     "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
     "Updates/Tldraw 2025-01-26 7.54PM.md",
     "Problems/🧩 LeetCode/Week 9/1154. Day of the Year.md",
@@ -229,7 +230,6 @@
     "Data Structures & Algorithms/Graphs/Union-Find (Disjoint Set).md",
     "Mock Interviews/11. Harshal Mishra.md",
     "Problems/🧩 LeetCode/Week 9/Tldraw 2025-01-22 8.58PM.md",
-    "Mock Interviews/16. Harshal Mishra (2).md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
