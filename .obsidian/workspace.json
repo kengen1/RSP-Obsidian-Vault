@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
+                "file": "Problems/🧩 LeetCode/Week 10/1277. Count Square Submatrices with All Ones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1353. Maximum Number of Events That Can Be Attended"
+              "title": "1277. Count Square Submatrices with All Ones"
             }
           }
         ],
@@ -190,12 +190,13 @@
   },
   "active": "bdb8068bfc947348",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
+    "Problems/🧩 LeetCode/Week 10/1277. Count Square Submatrices with All Ones.md",
     "Problems/🧩 LeetCode/Week 10/Tldraw 2025-01-29 9.01PM.md",
     "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
     "Problems/🧩 LeetCode/Week 10/703. Kth Largest Element in a Stream.md",
     "Problems/🧩 LeetCode/Week 10/1299. Replace Elements With Greatest Element on Right Side.md",
     "Problems/🧩 LeetCode/Week 10/1305. All Elements in Two Binary Search Trees.md",
-    "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Problems/🧩 LeetCode/Week 10/461. Hamming Distance.md",
     "Updates/📅 Week 10.md",
