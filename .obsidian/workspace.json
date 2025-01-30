@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 10/2310. Sum of Numbers With Units Digit K.md",
+                "file": "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2310. Sum of Numbers With Units Digit K"
+              "title": "3223. Minimum Length of String After Operations"
             }
           }
         ],
@@ -190,15 +190,15 @@
   },
   "active": "901c78444b8651f9",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 10/2310. Sum of Numbers With Units Digit K.md",
+    "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
     "Problems/🧩 LeetCode/Week 10/1277. Count Square Submatrices with All Ones.md",
     "Problems/🧩 LeetCode/Week 10/Tldraw 2025-01-29 9.01PM.md",
-    "Problems/🧩 LeetCode/Week 10/2310. Sum of Numbers With Units Digit K.md",
     "Updates/📅 Week 10.md",
     "Mock Interviews/17. Matthew Theiley.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/Extended Mocks/System Design Question.md",
     "Mock Interviews/Extended Mocks/HFT Behavioural.md",
-    "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Updates/📅 Week 9.md",
     "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
