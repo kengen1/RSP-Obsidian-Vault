@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "📅 Week 10"
             }
-          },
-          {
-            "id": "901c78444b8651f9",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "Problems/🧩 LeetCode/Week 10/Tldraw 2025-01-29 9.01PM.md"
-              },
-              "icon": "lucide-file",
-              "title": "Tldraw 2025-01-29 9.01PM"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +173,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "901c78444b8651f9",
+  "active": "bdb8068bfc947348",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 10/Tldraw 2025-01-29 9.01PM.md",
     "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
     "Problems/🧩 LeetCode/Week 10/2310. Sum of Numbers With Units Digit K.md",
     "Problems/🧩 LeetCode/Week 10/1277. Count Square Submatrices with All Ones.md",
-    "Problems/🧩 LeetCode/Week 10/Tldraw 2025-01-29 9.01PM.md",
     "Updates/📅 Week 10.md",
     "Mock Interviews/17. Matthew Theiley.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
