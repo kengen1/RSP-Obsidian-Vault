@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "📅 Week 10"
             }
-          },
-          {
-            "id": "1d66e2cc7230a55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mock Interviews/Extended Mocks/HFT Behavioural.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HFT Behavioural"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,16 +173,17 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "1d66e2cc7230a55f",
+  "active": "bdb8068bfc947348",
   "lastOpenFiles": [
+    "Mock Interviews/17. Matthew Theiley.md",
+    "Updates/📅 Week 10.md",
+    "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
+    "Mock Interviews/Extended Mocks/System Design Question.md",
+    "Mock Interviews/Extended Mocks/HFT Behavioural.md",
     "Problems/🧩 LeetCode/Week 10/1277. Count Square Submatrices with All Ones.md",
     "Problems/🧩 LeetCode/Week 10/2310. Sum of Numbers With Units Digit K.md",
-    "Mock Interviews/Extended Mocks/HFT Behavioural.md",
-    "Mock Interviews/Extended Mocks/System Design Question.md",
-    "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Problems/🧩 LeetCode/Week 10/Tldraw 2025-01-29 9.01PM.md",
     "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
-    "Updates/📅 Week 10.md",
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Updates/📅 Week 9.md",
     "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
@@ -217,7 +203,6 @@
     "Problems/🧩 LeetCode/Week 9/2980. Check if Bitwise OR Has Trailing Zeros.md",
     "Problems/🧩 LeetCode/Week 9/2244. Minimum Rounds to Complete All Tasks.md",
     "Problems/🧩 LeetCode/Week 9/2256. Minimum Average Difference.md",
-    "Problems/🧩 LeetCode/Week 9/1202. Smallest String With Swaps.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
