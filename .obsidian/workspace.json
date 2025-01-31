@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +203,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "16367174e0c7b54b",
+  "active": "6e33d5730d7ea665",
   "lastOpenFiles": [
-    "Mock Interviews/18. Jianqin Liu.md",
     "Mock Interviews/Tldraw 2025-01-31 7.11PM.md",
+    "Mock Interviews/18. Jianqin Liu.md",
     "Problems/🧩 LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Updates/📅 Week 10.md",
