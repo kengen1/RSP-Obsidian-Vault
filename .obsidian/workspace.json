@@ -26,19 +26,52 @@
           {
             "id": "6e33d5730d7ea665",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/12. Camillia Tran.md",
+                "file": "Mock Interviews/18. Jianqin Liu.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "12. Camillia Tran"
+              "title": "18. Jianqin Liu"
+            }
+          },
+          {
+            "id": "7fe5909f4d6d2f5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1046. Last Stone Weight"
+            }
+          },
+          {
+            "id": "b458175759e6eda7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/🧩 LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1457. Pseudo-Palindromic Paths in a Binary Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lemonade chan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,11 +222,15 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "6e33d5730d7ea665",
+  "active": "86973e501214562e",
   "lastOpenFiles": [
+    "Mock Interviews/18. Jianqin Liu.md",
+    "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
+    "Problems/🧩 LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
+    "Mock Interviews/10. Steve Pham.md",
+    "Mock Interviews/12. Camillia Tran.md",
     "Mock Interviews/13. Ben Signorelli.md",
     "Mock Interviews/16. Harshal Mishra (2).md",
-    "Mock Interviews/18. Jianqin Liu.md",
     "Updates/📅 Week 10.md",
     "Mock Interviews/Extended Mocks/HFT Behavioural.md",
     "Mock Interviews/17. Matthew Theiley.md",
@@ -215,10 +252,6 @@
     "Portfolio Website Mockup.md",
     "Problems/🧩 LeetCode/Week 10",
     "Updates/Tldraw 2025-01-26 7.54PM.md",
-    "Problems/🧩 LeetCode/Week 9/1154. Day of the Year.md",
-    "Problems/🧩 LeetCode/Week 9/563. Binary Tree Tilt.md",
-    "Problems/🧩 LeetCode/Week 9/433. Minimum Genetic Mutation.md",
-    "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
