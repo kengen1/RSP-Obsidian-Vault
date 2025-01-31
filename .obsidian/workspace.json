@@ -40,38 +40,19 @@
             }
           },
           {
-            "id": "7fe5909f4d6d2f5c",
+            "id": "16367174e0c7b54b",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
-                "mode": "source",
-                "source": false
+                "file": "Mock Interviews/Tldraw 2025-01-31 7.11PM.md"
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "1046. Last Stone Weight"
-            }
-          },
-          {
-            "id": "b458175759e6eda7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/🧩 LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1457. Pseudo-Palindromic Paths in a Binary Tree"
+              "title": "Tldraw 2025-01-31 7.11PM"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,16 +203,18 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "86973e501214562e",
+  "active": "16367174e0c7b54b",
   "lastOpenFiles": [
     "Mock Interviews/18. Jianqin Liu.md",
-    "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
+    "Mock Interviews/Tldraw 2025-01-31 7.11PM.md",
     "Problems/🧩 LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
+    "Mock Interviews/0. Keegan Hidson.md",
+    "Updates/📅 Week 10.md",
+    "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
     "Mock Interviews/10. Steve Pham.md",
     "Mock Interviews/12. Camillia Tran.md",
     "Mock Interviews/13. Ben Signorelli.md",
     "Mock Interviews/16. Harshal Mishra (2).md",
-    "Updates/📅 Week 10.md",
     "Mock Interviews/Extended Mocks/HFT Behavioural.md",
     "Mock Interviews/17. Matthew Theiley.md",
     "Mock Interviews/15. Pragya Kaushik.md",
@@ -249,9 +232,7 @@
     "Problems/🧩 LeetCode/Week 10/1299. Replace Elements With Greatest Element on Right Side.md",
     "Problems/🧩 LeetCode/Week 10/1305. All Elements in Two Binary Search Trees.md",
     "Problems/🧩 LeetCode/Week 10/461. Hamming Distance.md",
-    "Portfolio Website Mockup.md",
     "Problems/🧩 LeetCode/Week 10",
-    "Updates/Tldraw 2025-01-26 7.54PM.md",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
     "Mock Interviews/Extended Mocks/Questions",
