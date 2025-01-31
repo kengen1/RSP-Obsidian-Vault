@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "📅 Week 10"
             }
-          },
-          {
-            "id": "c169d0d618110d98",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +174,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c169d0d618110d98",
+  "active": "bdb8068bfc947348",
   "lastOpenFiles": [
     "Problems/🧩 LeetCode/Week 10/Tldraw 2025-01-29 9.01PM.md",
     "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
