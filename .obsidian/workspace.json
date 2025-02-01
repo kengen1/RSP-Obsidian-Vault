@@ -25,14 +25,12 @@
             "id": "cbf544888532a87f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Mastermind.md",
-                "mode": "source",
-                "source": false
+                "file": "Tldraw 2025-02-01 11.37AM.md"
               },
               "icon": "lucide-file",
-              "title": "Mastermind"
+              "title": "Tldraw 2025-02-01 11.37AM"
             }
           }
         ],
@@ -189,8 +187,9 @@
   },
   "active": "cbf544888532a87f",
   "lastOpenFiles": [
-    "Updates/📅 Week 10.md",
     "Mastermind.md",
+    "Tldraw 2025-02-01 11.37AM.md",
+    "Updates/📅 Week 10.md",
     "Mock Interviews/18. Jianqin Liu.md",
     "Mock Interviews/Tldraw 2025-01-31 7.11PM.md",
     "Problems/🧩 LeetCode/Week 3/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
@@ -215,7 +214,6 @@
     "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
     "Problems/🧩 LeetCode/Week 10/703. Kth Largest Element in a Stream.md",
     "Problems/🧩 LeetCode/Week 10/1299. Replace Elements With Greatest Element on Right Side.md",
-    "Problems/🧩 LeetCode/Week 10/1305. All Elements in Two Binary Search Trees.md",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
