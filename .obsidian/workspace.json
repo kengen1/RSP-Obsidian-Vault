@@ -37,8 +37,7 @@
               "title": "🟣 Advanced"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +188,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c2782c8a2f377014",
+  "active": "aac6ac4414b0620b",
   "lastOpenFiles": [
+    "Promotion Requirements/🟣 Advanced.md",
     "Updates/📅 Week 10.md",
     "Portfolio Website Mockup.md",
     "Tldraw 2025-02-01 11.37AM.md",
@@ -217,7 +217,6 @@
     "Updates/📅 Week 9.md",
     "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
     "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
-    "Problems/🧩 LeetCode/Week 10/703. Kth Largest Element in a Stream.md",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
