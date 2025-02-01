@@ -34,9 +34,9 @@ Create a portfolio website showcasing your work and achievements.
 
 ### Community Involvement
 Provide proof of 3+ instances of community involvement.
-- [ ] WSST
-- [ ] 2023, 2024 Hackathon
-- [ ] Competitive Programming Competition 
+- [x] WSST
+- [x] 2023, 2024 Hackathon
+- [x] Competitive Programming Competition 
 
 ---
 ## Professional Updates
