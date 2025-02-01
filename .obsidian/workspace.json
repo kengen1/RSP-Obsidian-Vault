@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "Tldraw 2025-02-01 11.37AM"
             }
+          },
+          {
+            "id": "4d4d17c8ae791141",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "cbf544888532a87f",
+  "active": "4d4d17c8ae791141",
   "lastOpenFiles": [
     "Mastermind.md",
     "Tldraw 2025-02-01 11.37AM.md",
