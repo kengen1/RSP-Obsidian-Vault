@@ -10,6 +10,7 @@
           {
             "id": "aac6ac4414b0620b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,36 +18,12 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "📅 Week 10"
             }
-          },
-          {
-            "id": "cbf544888532a87f",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "Tldraw 2025-02-01 11.37AM.md"
-              },
-              "icon": "lucide-file",
-              "title": "Tldraw 2025-02-01 11.37AM"
-            }
-          },
-          {
-            "id": "4d4d17c8ae791141",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +174,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "4d4d17c8ae791141",
+  "active": "aac6ac4414b0620b",
   "lastOpenFiles": [
-    "Mastermind.md",
+    "Portfolio Website Mockup.md",
     "Tldraw 2025-02-01 11.37AM.md",
+    "Mastermind.md",
     "Updates/📅 Week 10.md",
     "Mock Interviews/18. Jianqin Liu.md",
     "Mock Interviews/Tldraw 2025-01-31 7.11PM.md",
@@ -225,7 +203,6 @@
     "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
     "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
     "Problems/🧩 LeetCode/Week 10/703. Kth Largest Element in a Stream.md",
-    "Problems/🧩 LeetCode/Week 10/1299. Replace Elements With Greatest Element on Right Side.md",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
