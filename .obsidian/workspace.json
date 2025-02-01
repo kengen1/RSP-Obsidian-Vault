@@ -36,8 +36,23 @@
               "icon": "lucide-file",
               "title": "🟣 Advanced"
             }
+          },
+          {
+            "id": "4e8e8bbab8e484b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/🗣 Mock Revision/380. Insert Delete GetRandom O(1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "380. Insert Delete GetRandom O(1)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +203,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "aac6ac4414b0620b",
+  "active": "4e8e8bbab8e484b1",
   "lastOpenFiles": [
-    "Promotion Requirements/🟣 Advanced.md",
     "Updates/📅 Week 10.md",
+    "Problems/🗣 Mock Revision/380. Insert Delete GetRandom O(1).md",
+    "Promotion Requirements/🟣 Advanced.md",
     "Portfolio Website Mockup.md",
     "Tldraw 2025-02-01 11.37AM.md",
     "Mastermind.md",
@@ -216,7 +232,6 @@
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Updates/📅 Week 9.md",
     "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
-    "Problems/🧩 LeetCode/Week 9/30. Substring with Concatenation of All Words.md",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
     "Mock Interviews/Leetcode Mocks",
