@@ -704,6 +704,144 @@ tags: [tldraw]
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
+			},
+			{
+				"x": -920.3339019795117,
+				"y": 3244.188082051043,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:AP6rpl4Y1Y2sJ-v9tvwB_",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 184.17840576171875,
+					"text": "Keegan Hidson",
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 11.188536778010047
+				},
+				"parentId": "page:page",
+				"index": "aN9rx",
+				"typeName": "shape"
+			},
+			{
+				"x": -2739.179839687811,
+				"y": 3121.3151666605945,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:lRlmJUQbbV5ez1tkHdmMD",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 228.6927490234375,
+					"text": "(+61) 435 169 490",
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 4.3143428620531585
+				},
+				"parentId": "page:page",
+				"index": "aO5oJ",
+				"typeName": "shape"
+			},
+			{
+				"x": -2764.7354535354516,
+				"y": 3345.6722796588447,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:ShBoFddcg85bs6vg5_cTQ",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 1515.758283119877,
+					"text": "keeganhidson00@gmail.com",
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 4.3143428620531585
+				},
+				"parentId": "page:page",
+				"index": "aPBB3",
+				"typeName": "shape"
+			},
+			{
+				"x": -2770.795856949532,
+				"y": 3557.775313403621,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:SwoSUtM3huemDTv4qRBax",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 1636.0140072348413,
+					"text": "linkedin.com/in/keegan-hidson",
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 4.3143428620531585
+				},
+				"parentId": "page:page",
+				"index": "aQ6gV",
+				"typeName": "shape"
+			},
+			{
+				"x": 1562.5233505192336,
+				"y": 3024.767707345312,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:vn9jsg_TLeelX-FCobbEa",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 1047.2996199454553,
+					"text": "github.com/kengen1",
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 4.3143428620531585
+				},
+				"parentId": "page:page",
+				"index": "aR0Uc",
+				"typeName": "shape"
+			},
+			{
+				"x": 1550.1243923463126,
+				"y": 3230.5310328559704,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:8hdZuIgsdyZ5Ef4uoNtv0",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 614.6098583873224,
+					"text": "kengen.dev",
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 4.3143428620531585
+				},
+				"parentId": "page:page",
+				"index": "aS4wj",
+				"typeName": "shape"
 			}
 		]
 	}
