@@ -27,12 +27,14 @@
             "id": "78a82d3f8e08097e",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "Portfolio Website Mockup.md"
+                "file": "Promotion Requirements/🟣 Advanced.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio Website Mockup"
+              "title": "🟣 Advanced"
             }
           }
         ],
@@ -189,6 +191,7 @@
   },
   "active": "78a82d3f8e08097e",
   "lastOpenFiles": [
+    "Portfolio Website Mockup.md",
     "Updates/📅 Week 11.md",
     "Mock Interviews/19. Asrith Atluri.md",
     "Mock Interviews/20. Raiyan Rahman.md",
@@ -201,7 +204,6 @@
     "Mock Interviews/17. Matthew Theiley.md",
     "Mock Interviews/18. Jianqin Liu.md",
     "Promotion Requirements/🟣 Advanced.md",
-    "Portfolio Website Mockup.md",
     "README.md",
     "Problems/🧩 LeetCode/Week 10/1815. Maximum Number of Groups Getting Fresh Donuts.md",
     "Problems/🧩 LeetCode/Week 10/Tldraw 2025-02-02 7.18PM.md",
