@@ -24,14 +24,6 @@
 ## Additional Requirements
 ### Portfolio Website
 Create a portfolio website showcasing your work and achievements.
-- [ ] Graph / markdown structure
-- [ ] Homepage
-	- [ ] About me
-	- [ ] Contact me
-- [ ] Experience / Education
-- [ ] Downloadable Resume
-- [ ] Projects
-
 ### Community Involvement
 Provide proof of 3+ instances of community involvement.
 - [x] WSST
