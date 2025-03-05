@@ -35,4 +35,4 @@ Provide proof of 3+ instances of community involvement.
 
 - [x] Update your resume with new achievements.
 - [x] Update your LinkedIn profile with new achievements.
-- [ ] Write a general FAAMG cover letter.
+- [x] Write a general FAAMG cover letter.
