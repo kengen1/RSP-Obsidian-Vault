@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 2/2. Add Two Numbers.md",
+                "file": "Mock Interviews/0. Keegan Hidson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Add Two Numbers"
+              "title": "0. Keegan Hidson"
             }
           }
         ],
@@ -191,6 +191,7 @@
   },
   "active": "78a82d3f8e08097e",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 2/2. Add Two Numbers.md",
     "Mock Interviews/13. Ben Signorelli.md",
     "Data Structures & Algorithms/Graphs/Graphs.md",
     "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
@@ -216,7 +217,6 @@
     "Problems/🧩 LeetCode/Week 10/461. Hamming Distance.md",
     "Problems/🧩 LeetCode/Week 10/2310. Sum of Numbers With Units Digit K.md",
     "Problems/🧩 LeetCode/Week 10/1353. Maximum Number of Events That Can Be Attended.md",
-    "Problems/🧩 LeetCode/Week 10/1305. All Elements in Two Binary Search Trees.md",
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
