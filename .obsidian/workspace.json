@@ -8,24 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae8afc0aa023c81e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Updates/📅 Week 11.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "📅 Week 11"
-            }
-          },
-          {
             "id": "78a82d3f8e08097e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,12 +18,12 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "21. Harry Wu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +176,9 @@
   },
   "active": "78a82d3f8e08097e",
   "lastOpenFiles": [
-    "Mock Interviews/20. Raiyan Rahman.md",
+    "Updates/📅 Week 11.md",
     "Mock Interviews/21. Harry Wu.md",
+    "Mock Interviews/20. Raiyan Rahman.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Problems/🧩 LeetCode/Week 2/2. Add Two Numbers.md",
     "Mock Interviews/13. Ben Signorelli.md",
@@ -200,7 +186,6 @@
     "Data Structures & Algorithms/Graphs/Dijkstra's Shortest Path Algorithm.md",
     "Data Structures & Algorithms/Graphs/Bellman-Ford Pathfinding Algorithm.md",
     "Promotion Requirements/🟣 Advanced.md",
-    "Updates/📅 Week 11.md",
     "Portfolio Website Mockup.md",
     "Mock Interviews/19. Asrith Atluri.md",
     "Mock Interviews/Tldraw 2025-02-07 9.10PM.md",
