@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "21. Harry Wu"
             }
+          },
+          {
+            "id": "be95a96c8bcc5af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Object Oriented Design Question"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.500732421875
+    "width": 226.500732421875
   },
   "right": {
     "id": "7d4e07d7fb6940f1",
@@ -174,12 +189,14 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "78a82d3f8e08097e",
+  "active": "be95a96c8bcc5af2",
   "lastOpenFiles": [
-    "Promotion Requirements/🟣 Advanced.md",
     "Mock Interviews/21. Harry Wu.md",
-    "Updates/📅 Week 11.md",
+    "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
+    "Mock Interviews/Extended Mocks/System Design Question.md",
     "Mock Interviews/20. Raiyan Rahman.md",
+    "Promotion Requirements/🟣 Advanced.md",
+    "Updates/📅 Week 11.md",
     "Mock Interviews/0. Keegan Hidson.md",
     "Problems/🧩 LeetCode/Week 2/2. Add Two Numbers.md",
     "Mock Interviews/13. Ben Signorelli.md",
@@ -189,7 +206,6 @@
     "Portfolio Website Mockup.md",
     "Mock Interviews/19. Asrith Atluri.md",
     "Mock Interviews/Tldraw 2025-02-07 9.10PM.md",
-    "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/14. Baichuan Yu.md",
     "Updates/📅 Week 10.md",
     "Mock Interviews/16. Harshal Mishra (2).md",
@@ -201,7 +217,6 @@
     "Problems/🧩 LeetCode/Week 10/363. Max Sum of Rectangle No Larger Than K.md",
     "Problems/🧩 LeetCode/Week 10/1277. Count Square Submatrices with All Ones.md",
     "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
-    "Problems/🧩 LeetCode/Week 10/461. Hamming Distance.md",
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
