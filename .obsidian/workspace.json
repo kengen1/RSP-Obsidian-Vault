@@ -8,37 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78a82d3f8e08097e",
+            "id": "be95a96c8bcc5af2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/21. Harry Wu.md",
+                "file": "Mock Interviews/22. Ruxin Ma.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "21. Harry Wu"
+              "title": "22. Ruxin Ma"
             }
           },
           {
-            "id": "be95a96c8bcc5af2",
+            "id": "be73bc6a04ba07bd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1046. Last Stone Weight"
+            }
+          },
+          {
+            "id": "a09188c8916cc406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
+                "file": "Problems/🧩 LeetCode/Week 8/518. Coin Change II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object Oriented Design Question"
+              "title": "518. Coin Change II"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: coin change",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +206,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "be95a96c8bcc5af2",
+  "active": "a09188c8916cc406",
   "lastOpenFiles": [
+    "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
+    "Mock Interviews/22. Ruxin Ma.md",
+    "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
     "Mock Interviews/21. Harry Wu.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/Extended Mocks/System Design Question.md",
@@ -214,9 +234,6 @@
     "README.md",
     "Problems/🧩 LeetCode/Week 10/1815. Maximum Number of Groups Getting Fresh Donuts.md",
     "Problems/🧩 LeetCode/Week 10/Tldraw 2025-02-02 7.18PM.md",
-    "Problems/🧩 LeetCode/Week 10/363. Max Sum of Rectangle No Larger Than K.md",
-    "Problems/🧩 LeetCode/Week 10/1277. Count Square Submatrices with All Ones.md",
-    "Problems/🧩 LeetCode/Week 10/3223. Minimum Length of String After Operations.md",
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
