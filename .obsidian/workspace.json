@@ -42,19 +42,20 @@
           {
             "id": "a09188c8916cc406",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/🧩 LeetCode/Week 8/518. Coin Change II.md",
+                "file": "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "518. Coin Change II"
+              "title": "322. Coin Change"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,11 +206,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "a09188c8916cc406",
+  "active": "be95a96c8bcc5af2",
   "lastOpenFiles": [
     "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
     "Mock Interviews/22. Ruxin Ma.md",
     "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
+    "Problems/🧩 LeetCode/Week 8/518. Coin Change II.md",
     "Mock Interviews/21. Harry Wu.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
     "Mock Interviews/Extended Mocks/System Design Question.md",
@@ -233,7 +234,6 @@
     "Mock Interviews/18. Jianqin Liu.md",
     "README.md",
     "Problems/🧩 LeetCode/Week 10/1815. Maximum Number of Groups Getting Fresh Donuts.md",
-    "Problems/🧩 LeetCode/Week 10/Tldraw 2025-02-02 7.18PM.md",
     "c7c30107-c7e8-40d1-afed-ee93da555554-tldrawFile.png",
     "Problems/🧩 LeetCode/Week 10",
     "Problems/🧩 LeetCode/Week 9",
