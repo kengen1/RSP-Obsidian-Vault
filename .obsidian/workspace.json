@@ -22,38 +22,6 @@
               "icon": "lucide-file",
               "title": "22. Ruxin Ma"
             }
-          },
-          {
-            "id": "be73bc6a04ba07bd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1046. Last Stone Weight"
-            }
-          },
-          {
-            "id": "a09188c8916cc406",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/🧩 LeetCode/Week 9/322. Coin Change.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "322. Coin Change"
-            }
           }
         ]
       }
