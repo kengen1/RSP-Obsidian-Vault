@@ -11,10 +11,14 @@
             "id": "b1b4ad9387f5fc69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Object Oriented Design Question"
             }
           }
         ]
@@ -170,6 +174,7 @@
   },
   "active": "b1b4ad9387f5fc69",
   "lastOpenFiles": [
+    "Mock Interviews/Extended Mocks/System Design Question.md",
     "Mock Interviews/24. Ruxin Ma (2).md",
     "Mock Interviews/22. Ruxin Ma.md",
     "Mock Interviews/20. Raiyan Rahman.md",
@@ -179,7 +184,6 @@
     "Problems/🗣 Mock Revision/1046. Last Stone Weight.md",
     "Problems/🧩 LeetCode/Week 8/518. Coin Change II.md",
     "Mock Interviews/Extended Mocks/Object Oriented Design Question.md",
-    "Mock Interviews/Extended Mocks/System Design Question.md",
     "Promotion Requirements/🟣 Advanced.md",
     "Updates/📅 Week 11.md",
     "Mock Interviews/0. Keegan Hidson.md",
